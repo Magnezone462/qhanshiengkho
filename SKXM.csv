@@ -1,16 +1,22 @@
 grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0342D	㐭			[00600]	U+342D		
+034B8	㒸			[80232]	U+34B8		
 034DD	㓝			[52000]	U+34DD		
+034F9	㓹			[72200]	U+34F9		
+03537	㔷			[71712]	U+3537		
 0355F	㕟			[27240]	U+355F		
 03561	㕡			[27640]	U+3561		
 0356F	㕯			[40227]	U+356F		
 035DB	㗛			[68084]	U+35DB		
 035F3	㗳			[68061]	U+35F3		
 03762	㝢			[30227]	U+3762		
+03775	㝵			[60341]	U+3775		
 037B7	㞷			[22104]	U+37B7		
 038A1	㢡			[27444]	U+38A1		
+038C7	㣇			[27227]	U+38C7		
 0394F	㥏			[95081]	U+394F		
 03951	㥑			[10332]	U+3951		
+0395C	㥜			[96027]	U+395C		
 039C6	㧆			[54027]	U+39C6		
 039C9	㧉			[58017]	U+39C9		
 039D1	㧑			[54027]	U+39D1		
@@ -29,6 +35,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 03CB2	㲲			[62115, 62114]	U+3CB2		
 03D4E	㵎			[37120]	U+3D4E		
 03D85	㶅			[37147]	U+3D85		
+03D94	㶔			[36184]	U+3D94		
 03E6F	㹯			[44290]	U+3E6F		
 03F75	㽵			[00114]	U+3F75		
 03FDF	㿟			[26602]	U+3FDF		
@@ -38,6 +45,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0428B	䊋			[94910]	U+428B		
 042AA	䊪			[94927]	U+42AA		
 042CE	䋎			[26910]	U+42CE		
+04350	䍐			[60401]	U+4350		
 043C8	䏈			[12493]	U+43C8		
 044D6	䓖			[44427]	U+44D6		
 04543	䕃			[44232]	U+4543		
@@ -45,6 +53,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0459F	䖟			[00136]	U+459F		
 045B5	䖵			[55136]	U+45B5		
 04607	䘇			[00136]	U+4607		
+04677	䙷			[60341]	U+4677		
 0470B	䜋			[05686]	U+470B		
 04836	䠶			[28284]	U+4836		
 048B5	䢵			[17727]	U+48B5		
@@ -55,6 +64,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 04B03	䬃			[70211]	U+4B03		
 04B7E	䭾			[73384]	U+4B7E		
 04BAF	䮯			[78340]	U+4BAF		
+04BCE	䯎			[78241]	U+4BCE		
 04C1F	䰟			[10213, 10513]	U+4C1F		
 04C94	䲔			[21316]	U+4C94		
 04C9F	䲟			[27120]	U+4C9F		
@@ -67,6 +77,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 04E01	丁			[10200]	U+4E01		
 04E03	七			[40710]	U+4E03		
 04E07	万			[10227]	U+4E07		
+04E08	丈			[50000]	U+4E08		
 04E09	三			[10101]	U+4E09		
 04E0A	上			[21100]	U+4E0A		
 04E0B	下			[10230]	U+4E0B		
@@ -81,6 +92,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 04E2A	个			[80200]	U+4E2A		
 04E2B	丫			[80207]	U+4E2B		
 04E2D	中			[50006]	U+4E2D		
+04E31	丱			[22770]	U+4E31		
 04E32	串			[50006]	U+4E32		
 04E34	临			[28063]	U+4E34		
 04E39	丹			[77440]	U+4E39		
@@ -95,6 +107,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 04E5D	九			[40017]	U+4E5D		
 04E5E	乞			[80717]	U+4E5E		
 04E66	书			[53027]	U+4E66		
+04E80	亀			[27716]	U+4E80		
 04E85	亅			[20000]	U+4E85		
 04E86	了			[17207]	U+4E86		
 04E88	予			[17202]	U+4E88		
@@ -106,9 +119,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 04EA1	亡			[00710]	U+4EA1		
 04EA4	交			[00408]	U+4EA4		
 04EA6	亦			[00230]	U+4EA6		
+04EA8	亨			[00207]	U+4EA8		
+04EAB	享			[00407]	U+4EAB		
 04EAC	京			[00906]	U+4EAC		
 04EAD	亭			[00201]	U+4EAD		
 04EAE	亮			[00217]	U+4EAE		
+04EAF	亯			[00606]	U+4EAF		
 04EB0	亰			[00906]	U+4EB0		
 04EB5	亵			[00732]	U+4EB5		
 04EB6	亶			[00106]	U+4EB6		
@@ -122,6 +138,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 04ECA	今			[80207]	U+4ECA		
 04ECB	介			[80220]	U+4ECB		
 04ED4	仔			[27247]	U+4ED4		
+04ED7	仗			[25200]	U+4ED7		
 04ED9	仙			[22270]	U+4ED9		
 04EDD	仝			[80102]	U+4EDD		
 04EDF	仟			[22240]	U+4EDF		
@@ -150,6 +167,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 04F30	估			[24260]	U+4F30		
 04F34	伴			[29250]	U+4F34		
 04F37	伷			[25260]	U+4F37		
+04F38	伸			[25206]	U+4F38		
 04F43	佃			[26200]	U+4F43		
 04F46	但			[26210]	U+4F46		
 04F4D	位			[20218]	U+4F4D		
@@ -158,6 +176,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 04F53	体			[25230]	U+4F53		
 04F58	佘			[80901]	U+4F58		
 04F59	余			[80904]	U+4F59		
+04F5A	佚			[25280]	U+4F5A		
 04F5D	佝			[27220]	U+4F5D		
 04F5E	佞			[21244]	U+4F5E		
 04F5F	佟			[27233]	U+4F5F		
@@ -195,6 +214,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 04FD4	俔			[26212]	U+4FD4		
 04FD8	俘			[22247]	U+4FD8		
 04FDA	俚			[26215]	U+4FDA		
+04FDC	俜			[25227]	U+4FDC		
 04FDD	保			[26294]	U+4FDD		
 04FE1	信			[20261]	U+4FE1		
 04FE3	俣			[26284]	U+4FE3		
@@ -205,12 +225,15 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05014	倔			[27272]	U+5014		
 0501C	倜			[27220]	U+501C		
 0501E	倞			[20296]	U+501E		
+05024	値			[24216]	U+5024		
 05025	倥			[23212]	U+5025		
 05028	倨			[27264]	U+5028		
 05029	倩			[25227]	U+5029		
 05036	倶			[26281]	U+5036		
 05039	倹			[28286]	U+5039		
+0503C	值			[24212]	U+503C		
 0503E	倾			[21282]	U+503E		
+05041	偁			[22247]	U+5041		
 0504A	偊			[22227]	U+504A		
 0505C	停			[20221]	U+505C		
 0506D	偭			[21262]	U+506D		
@@ -255,10 +278,13 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0516D	六			[00800]	U+516D		
 0516E	兮			[80027]	U+516E		
 05171	共			[44801]	U+5171		
+05173	关			[80804]	U+5173		
 05177	具			[77801]	U+5177		
 05178	典			[55801]	U+5178		
 05179	兹			[80732]	U+5179		
 0517D	兽			[80601]	U+517D		
+0517E	兾			[80801]	U+517E		
+05180	冀			[12801]	U+5180		
 05185	内			[40227]	U+5185		
 05186	円			[77220]	U+5186		
 05188	冈			[77220]	U+5188		
@@ -267,6 +293,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 051AC	冬			[27303]	U+51AC		
 051B2	冲			[35106]	U+51B2		
 051B5	况			[36112]	U+51B5		
+051B6	冶			[33160]	U+51B6		
 051BC	冼			[34112]	U+51BC		
 051BD	冽			[32100]	U+51BD		
 051C0	净			[37157]	U+51C0		
@@ -274,6 +301,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 051C9	凉			[30196]	U+51C9		
 051CA	凊			[35127]	U+51CA		
 051CB	凋			[37120]	U+51CB		
+051D3	凓			[31194]	U+51D3		
 051DB	凛			[30191]	U+51DB		
 051DC	凜			[30194]	U+51DC		
 051E7	凧			[77210]	U+51E7		
@@ -282,9 +310,11 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 051F0	凰			[77210]	U+51F0		
 051F6	凶			[22770]	U+51F6		
 051F7	凷			[22770]	U+51F7		
+051F8	凸			[77777]	U+51F8		
 051FA	出			[22772]	U+51FA		
 05205	刅			[17330]	U+5205		
 05207	切			[47720]	U+5207		
+0520A	刊			[12400]	U+520A		
 0520E	刎			[22200]	U+520E		
 05211	刑			[12400]	U+5211		
 05216	刖			[72200]	U+5216		
@@ -358,6 +388,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0532E	匮			[71718]	U+532E		
 05331	匱			[71718]	U+5331		
 05333	匳			[71718]	U+5333		
+05335	匵			[71718]	U+5335		
+05339	匹			[71711]	U+5339		
 05341	十			[40000]	U+5341		
 05343	千			[20400]	U+5343		
 05344	卄			[44000]	U+5344		
@@ -368,13 +400,17 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0534E	华			[24401]	U+534E		
 05357	南			[40227]	U+5357		
 05364	卤			[21600]	U+5364		
+0536B	卫			[17102]	U+536B		
 05370	印			[77720]	U+5370		
+05375	卵			[77720]	U+5375		
 05378	卸			[87120]	U+5378		
 05386	历			[71227]	U+5386		
 05389	厉			[71227]	U+5389		
 0538D	厍			[71254]	U+538D		
 05398	厘			[71215]	U+5398		
 05399	厙			[71256]	U+5399		
+0539A	厚			[71247]	U+539A		
+0539F	原			[71296]	U+539F		
 053A2	厢			[71260]	U+53A2		
 053A4	厤			[71294]	U+53A4		
 053A5	厥			[71282]	U+53A5		
@@ -409,7 +445,9 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0540C	同			[77220]	U+540C		
 0540D	名			[27602]	U+540D		
 0540E	后			[72261]	U+540E		
+0540E	后			[72261]	U+540E		
 05410	吐			[64010]	U+5410		
+05411	向			[27220]	U+5411		
 05413	吓			[61030]	U+5413		
 05415	吕			[60600]	U+5415		
 0541B	君			[17607]	U+541B		
@@ -429,6 +467,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0543E	吾			[10601]	U+543E		
 05442	呂			[60602]	U+5442		
 05446	呆			[60904]	U+5446		
+05448	呈			[60104]	U+5448		
 05449	呉			[26801]	U+5449		
 05450	呐			[64027]	U+5450		
 05451	呑			[20608]	U+5451		
@@ -439,9 +478,11 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05468	周			[77220]	U+5468		
 0546C	呬			[66000]	U+546C		
 05474	呴			[67020]	U+5474		
+0547B	呻			[65006]	U+547B		
 05484	咄			[62072]	U+5484		
 05486	咆			[67012]	U+5486		
 0548E	咎			[23604]	U+548E		
+0548F	咏			[63092]	U+548F		
 054AC	咬			[60048]	U+54AC		
 054AE	咮			[65090]	U+54AE		
 054B2	咲			[68084]	U+54B2		
@@ -454,9 +495,11 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 054D5	哕			[62027]	U+54D5		
 054D7	哗			[64041]	U+54D7		
 054E1	員			[60806]	U+54E1		
+054E2	哢			[61041]	U+54E2		
 054E6	哦			[63050]	U+54E6		
 054E8	哨			[69027]	U+54E8		
 054E9	哩			[66015]	U+54E9		
+05501	唁			[60061]	U+5501		
 05504	唄			[66080]	U+5504		
 05506	唆			[63047]	U+5506		
 05508	唈			[66017]	U+5508		
@@ -468,6 +511,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05541	啁			[67026]	U+5541		
 05546	商			[00227]	U+5546		
 0554E	啎			[81461]	U+554E		
+0554F	問			[77601]	U+554F		
 05555	啕			[67020]	U+5555		
 05563	啣			[67020]	U+5563		
 0556C	啬			[40601]	U+556C		
@@ -476,6 +520,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05583	喃			[64027]	U+5583		
 0558B	喋			[64094]	U+558B		
 05591	喑			[60061]	U+5591		
+0559F	喟			[66027]	U+559F		
 055A4	喤			[66014]	U+55A4		
 055A6	喦			[60772]	U+55A6		
 055BE	喾			[90601]	U+55BE		
@@ -547,6 +592,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0575B	坛			[41132]	U+575B		
 0575C	坜			[41127]	U+575C		
 0575D	坝			[47182]	U+575D		
+05760	坠			[78104]	U+5760		
 05764	坤			[45106]	U+5764		
 05766	坦			[46110]	U+5766		
 05774	坴			[40104]	U+5774		
@@ -554,6 +600,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 057A2	垢			[42161]	U+57A2		
 057A4	垤			[41114]	U+57A4		
 057BB	垻			[46180]	U+57BB		
+057BE	垾			[46141]	U+57BE		
 057C7	埇			[47127]	U+57C7		
 057CB	埋			[46115]	U+57CB		
 057CE	城			[43150]	U+57CE		
@@ -561,6 +608,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 057D9	埙			[46182]	U+57D9		
 057DC	埜			[44104]	U+57DC		
 057E7	埧			[47181]	U+57E7		
+057F4-J	埴		⿰土⿱十⿺𠃊目	[44116]	U+57F4	J	
+057F4-T	埴		⿰土⿱十⿴且一	[44112]	U+57F4	T	
 057F6	埶			[45117]	U+57F6		
 05800	堀			[47172]	U+5800		
 05805	堅			[77104]	U+5805		
@@ -583,6 +632,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05885	墅			[67104]	U+5885		
 05889	墉			[40127]	U+5889		
 05899	墙			[44161]	U+5899		
+0589C	墜			[78104]	U+589C		
 058A8	墨			[60104]	U+58A8		
 058AB	墫			[48146]	U+58AB		
 058AD	墭			[43112]	U+58AD		
@@ -598,6 +648,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 058E2	壢			[41111]	U+58E2		
 058EE	壮			[34110]	U+58EE		
 058EF	壯			[24210]	U+58EF		
+058F0	声			[40207]	U+58F0		
 058F6	壶			[40102]	U+58F6		
 058F7	壷			[40105]	U+58F7		
 058F8	壸			[40102]	U+58F8		
@@ -617,7 +668,9 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05928	夨			[27804]	U+5928		
 05929	天			[10804]	U+5929		
 0592A	太			[40030]	U+592A		
+05931	失			[25800]	U+5931		
 05939	夹			[50800]	U+5939		
+0593A	夺			[40348]	U+593A		
 0593E	夾			[40808]	U+593E		
 05941	奁			[40714]	U+5941		
 0594B	奋			[40608]	U+594B		
@@ -628,11 +681,14 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05962	奢			[40604]	U+5962		
 05968	奨			[32804]	U+5968		
 05969	奩			[40716]	U+5969		
+0596A	奪			[40341]	U+596A		
 0596C	奬			[27804]	U+596C		
 0596D	奭			[40806]	U+596D		
 0596E	奮			[40601]	U+596E		
+05970	奰			[60804]	U+5970		
 05973	女			[40400]	U+5973		
 05974	奴			[47440]	U+5974		
+05978	奸			[41440]	U+5978		
 0597D	好			[47447]	U+597D		
 05982	如			[46400]	U+5982		
 05983	妃			[47417]	U+5983		
@@ -657,10 +713,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 059E3	姣			[40448]	U+59E3		
 059E4	姤			[42461]	U+59E4		
 059E5	姥			[44412]	U+59E5		
+059E6	姦			[40444]	U+59E6		
 059EA	姪			[41414]	U+59EA		
 059F6	姶			[48461]	U+59F6		
 059F8	姸			[41440]	U+59F8		
 05A01	威			[53200]	U+5A01		
+05A09	娉			[45427]	U+5A09		
 05A0C	娌			[46415]	U+5A0C		
 05A18	娘			[43432]	U+5A18		
 05A1B	娛			[46484]	U+5A1B		
@@ -679,6 +737,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05AAF	媯			[44427]	U+5AAF		
 05AB5	媵			[79244]	U+5AB5		
 05AB8	媸			[42436]	U+5AB8		
+05AC4	嫄			[41496]	U+5AC4		
 05AE0	嫠			[58244]	U+5AE0		
 05AF1	嫱			[44461]	U+5AF1		
 05AFA	嫺			[47420]	U+5AFA		
@@ -687,11 +746,13 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05B03	嬃			[21404]	U+5B03		
 05B17	嬗			[40416]	U+5B17		
 05B19	嬙			[44461]	U+5B19		
+05B25	嬥			[47415]	U+5B25		
 05B34	嬴			[00217]	U+5B34		
 05B38	嬸			[43469]	U+5B38		
 05B3E	嬾			[47486]	U+5B3E		
 05B40	孀			[41461]	U+5B40		
 05B50	子			[17407]	U+5B50		
+05B51	孑			[17407]	U+5B51		
 05B54	孔			[12410]	U+5B54		
 05B55	孕			[17407]	U+5B55		
 05B57	字			[30407]	U+5B57		
@@ -728,6 +789,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05BBF	宿			[30262]	U+5BBF		
 05BC7	寇			[30214]	U+5BC7		
 05BD2	寒			[30303]	U+5BD2		
+05BE1	寡			[30227]	U+5BE1		
 05BE4	寤			[30261]	U+5BE4		
 05BE6	實			[30806]	U+5BE6		
 05BE9	審			[30609]	U+5BE9		
@@ -763,8 +825,10 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05C46	屆			[77272]	U+5C46		
 05C48	屈			[77272]	U+5C48		
 05C4A	届			[77265]	U+5C4A		
+05C5A	屚			[77227]	U+5C5A		
 05C5F	屟			[77294]	U+5C5F		
 05C60	屠			[77264]	U+5C60		
+05C65	履			[77247]	U+5C65		
 05C67	屧			[77294]	U+5C67		
 05C6E	屮			[22407]	U+5C6E		
 05C71	山			[22770]	U+5C71		
@@ -783,6 +847,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05CA9	岩			[22602]	U+5CA9		
 05CAB	岫			[25760]	U+5CAB		
 05CB5	岵			[24760]	U+5CB5		
+05CB8	岸			[22241]	U+5CB8		
 05CC3	峃			[90772]	U+5CC3		
 05CC9	峉			[22604]	U+5CC9		
 05CD2	峒			[27720]	U+5CD2		
@@ -833,10 +898,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05DDE	州			[32000]	U+5DDE		
 05DDF	巟			[00212]	U+5DDF		
 05DE1	巡			[32303]	U+5DE1		
+05DE4	巤			[22712]	U+5DE4		
 05DE5	工			[10102]	U+5DE5		
 05DE6	左			[40102]	U+5DE6		
 05DE8	巨			[71717]	U+5DE8		
 05DE9	巩			[17110]	U+5DE9		
+05DEB	巫			[10108]	U+5DEB		
 05DEE	差			[80102]	U+5DEE		
 05DF1	己			[17717]	U+5DF1		
 05DF7	巷			[44717]	U+5DF7		
@@ -846,6 +913,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05E11	帑			[47227]	U+5E11		
 05E15	帕			[46202]	U+5E15		
 05E18	帘			[30227]	U+5E18		
+05E19	帙			[45280]	U+5E19		
 05E1A	帚			[17227]	U+5E1A		
 05E1B	帛			[26227]	U+5E1B		
 05E1E	帞			[41262]	U+5E1E		
@@ -855,9 +923,11 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05E2D	席			[00227]	U+5E2D		
 05E33	帳			[41232]	U+5E33		
 05E4C	幌			[46212]	U+5E4C		
+05E72	干			[10400]	U+5E72		
 05E74	年			[80500]	U+5E74		
 05E75	幵			[11440]	U+5E75		
 05E76	并			[80441]	U+5E76		
+05E79	幹			[48441]	U+5E79		
 05E7B	幻			[27720]	U+5E7B		
 05E7F	广			[00200]	U+5E7F		
 05E81	庁			[00221]	U+5E81		
@@ -885,6 +955,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05EE9	廩			[00294]	U+5EE9		
 05EEA	廪			[00291]	U+5EEA		
 05EF1	廱			[00215]	U+5EF1		
+05EF4	廴			[17407, 10400]	U+5EF4		
 05EF5	廵			[12403]	U+5EF5		
 05EFB	廻			[16400]	U+5EFB		
 05EFD	廽			[16400]	U+5EFD		
@@ -892,6 +963,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05EFF	廿			[44770]	U+5EFF		
 05F00	开			[10440]	U+5F00		
 05F03	弃			[00443]	U+5F03		
+05F04	弄			[10441]	U+5F04		
 05F04	弄			[10441]	U+5F04		
 05F08	弈			[00443]	U+5F08		
 05F0C	弌			[43100]	U+5F0C		
@@ -910,6 +982,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05F49	彉			[14286]	U+5F49		
 05F4A	彊			[11216]	U+5F4A		
 05F4D	彍			[10286]	U+5F4D		
+05F50	彐			[17102, 17172]	U+5F50		
+05F51	彑			[27102]	U+5F51		
+05F58	彘			[27712]	U+5F58		
+05F59	彙			[27904]	U+5F59		
+05F5A	彚			[17904]	U+5F5A		
+05F5D	彝			[27449]	U+5F5D		
 05F61	彡			[20202]	U+5F61		
 05F62	形			[12422]	U+5F62		
 05F64	彤			[72422]	U+5F64		
@@ -923,12 +1001,16 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 05F85	待			[24241]	U+5F85		
 05F8A	徊			[26200]	U+5F8A		
 05F8B	律			[25207]	U+5F8B		
+05F8C	後			[22247]	U+5F8C		
 05F90	徐			[28294]	U+5F90		
 05F92	徒			[24281]	U+5F92		
 05F95	徕			[25290]	U+5F95		
+05F97	得			[26241]	U+5F97		
 05FA0	徠			[24298]	U+5FA0		
 05FA1	御			[27220]	U+5FA1		
 05FA8	徨			[26214]	U+5FA8		
+05FB3	徳			[24236]	U+5FB3		
+05FB7	德			[24231]	U+5FB7		
 05FC6	忆			[97010]	U+5FC6		
 05FCC	忌			[17331]	U+5FCC		
 05FD4	忔			[98017]	U+5FD4		
@@ -956,6 +1038,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0602A	怪			[97014]	U+602A		
 0602C	怬			[96000]	U+602C		
 06033	怳			[96012]	U+6033		
+06035	怵			[93094]	U+6035		
 0603C	怼			[74330]	U+603C		
 06043	恃			[94041]	U+6043		
 06047	恇			[91011]	U+6047		
@@ -969,12 +1052,14 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06065	恥			[13400]	U+6065		
 0606A	恪			[97064]	U+606A		
 0606B	恫			[97020]	U+606B		
+0606C	恬			[92064]	U+606C		
 0606D	恭			[44338]	U+606D		
 06070	恰			[98061]	U+6070		
 0607F	恿			[17332]	U+607F		
 06083	悃			[96000]	U+6083		
 06084	悄			[99027]	U+6084		
 0608B	悋			[90064]	U+608B		
+0608D	悍			[96041]	U+608D		
 06092	悒			[96017]	U+6092		
 0609B	悛			[93047]	U+609B		
 0609D	悝			[96015]	U+609D		
@@ -985,16 +1070,20 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 060AD	悭			[97014]	U+60AD		
 060AE	悮			[96084]	U+60AE		
 060AF	悯			[97020]	U+60AF		
+060B3	悳			[40331]	U+60B3		
 060B5	悵			[91032]	U+60B5		
+060B6	悶			[77331]	U+60B6		
 060B8	悸			[92047]	U+60B8		
 060BE	悾			[93012]	U+60BE		
 060C5	情			[95027]	U+60C5		
+060C6	惆			[97020]	U+60C6		
 060C6	惆			[97020]	U+60C6		
 060CA	惊			[90096]	U+60CA		
 060CF	惏			[94090]	U+60CF		
 060D8	惘			[97020]	U+60D8		
 060DA	惚			[97032]	U+60DA		
 060E7	惧			[97081]	U+60E7		
+060EA	惪			[40331]	U+60EA		
 060EF	惯			[97082]	U+60EF		
 060F3	想			[46330]	U+60F3		
 060F5	惵			[94094]	U+60F5		
@@ -1007,7 +1096,9 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06126	愦			[95082]	U+6126		
 0613A	愺			[94046]	U+613A		
 0613E	愾			[98017]	U+613E		
+0613F	愿			[71239]	U+613F		
 06142	慂			[37332]	U+6142		
+06144	慄			[91094]	U+6144		
 06148	慈			[80333]	U+6148		
 0614C	慌			[94012]	U+614C		
 06163	慣			[97086]	U+6163		
@@ -1027,6 +1118,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 061DF	懟			[34330]	U+61DF		
 061F6	懶			[97086]	U+61F6		
 06209	戉			[53700]	U+6209		
+0620C	戌			[53200]	U+620C		
 06210	成			[53200]	U+6210		
 06211	我			[23550]	U+6211		
 06212	戒			[53400]	U+6212		
@@ -1047,9 +1139,11 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06252	扒			[58000]	U+6252		
 06253	打			[51020]	U+6253		
 0625B	扛			[51012]	U+625B		
+0625E	扞			[51040]	U+625E		
 06262	扢			[58017]	U+6262		
 06263	扣			[56000]	U+6263		
 06269	扩			[50000]	U+6269		
+0626A	扪			[57020]	U+626A		
 0626C	扬			[57027]	U+626C		
 0626F	扯			[51010]	U+626F		
 06270	扰			[53012]	U+6270		
@@ -1063,6 +1157,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 062A5	报			[57047]	U+62A5		
 062B1	抱			[57012]	U+62B1		
 062B4	抴			[54017]	U+62B4		
+062B6	抶			[55080]	U+62B6		
 062BD	抽			[55060]	U+62BD		
 062C5	担			[56010]	U+62C5		
 062C9	拉			[50018]	U+62C9		
@@ -1094,13 +1189,16 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06344	捄			[53099]	U+6344		
 06345	捅			[57027]	U+6345		
 06349	捉			[56081]	U+6349		
+0634D	捍			[56041]	U+634D		
 0634E	捎			[59027]	U+634E		
 0634F	捏			[56014]	U+634F		
+06357	捗			[51021]	U+6357		
 0635E	捞			[54027]	U+635E		
 0635F	损			[56082]	U+635F		
 06361	捡			[58019]	U+6361		
 06366	捦			[58019]	U+6366		
 06368	捨			[58064]	U+6368		
+0636B	捫			[57020]	U+636B		
 0636E	据			[57064]	U+636E		
 0637B	捻			[58032]	U+637B		
 06388	授			[52047]	U+6388		
@@ -1138,11 +1236,13 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 064B7	撷			[51082]	U+64B7		
 064B9	撹			[59012]	U+64B9		
 064BF	撿			[58086]	U+64BF		
+064C0	擀			[58041]	U+64C0		
 064C1	擁			[50015]	U+64C1		
 064C5	擅			[50016]	U+64C5		
 064CE	擎			[48502]	U+64CE		
 064D2	擒			[58027]	U+64D2		
 064E1	擡			[54014]	U+64E1		
+064E2	擢			[57015]	U+64E2		
 064E5	擥			[78502]	U+64E5		
 064F4	擴			[50086]	U+64F4		
 064F7	擷			[51086]	U+64F7		
@@ -1192,6 +1292,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 065E7	旧			[26000]	U+65E7		
 065E9	早			[60400]	U+65E9		
 065ED	旭			[46010]	U+65ED		
+065F0	旰			[61040]	U+65F0		
+065F1	旱			[60401]	U+65F1		
 065F6	时			[64000]	U+65F6		
 065F7	旷			[60000]	U+65F7		
 065F8	旸			[67027]	U+65F8		
@@ -1209,6 +1311,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0661F	星			[60105]	U+661F		
 0662B	昫			[67020]	U+662B		
 06631	昱			[60108]	U+6631		
+06633	昳			[65080]	U+6633		
 0663C	昼			[77106]	U+663C		
 0663E	显			[60102]	U+663E		
 06642	時			[64041]	U+6642		
@@ -1241,6 +1344,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 066C7	曇			[60732]	U+66C7		
 066CD	曍			[66049]	U+66CD		
 066D9	曙			[66064]	U+66D9		
+066DC	曜			[67015]	U+66DC		
 066E0	曠			[60086]	U+66E0		
 066E1	曡			[60102]	U+66E1		
 066E6	曦			[68053]	U+66E6		
@@ -1262,15 +1366,19 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06728	木			[40900]	U+6728		
 0672C	本			[50230]	U+672C		
 0672D	札			[42910]	U+672D		
+0672E	朮			[43212]	U+672E		
+0672F	术			[43900]	U+672F		
 06731	朱			[25900]	U+6731		
 06738	朸			[44927]	U+6738		
 06743	权			[47940]	U+6743		
 06744	杄			[42940]	U+6744		
+06746	杆			[41940]	U+6746		
 06749	杉			[42922]	U+6749		
 0674E	李			[40407]	U+674E		
 0674F	杏			[40609]	U+674F		
 06751	村			[44900]	U+6751		
 06755	杕			[44980]	U+6755		
+06756	杖			[45900]	U+6756		
 06757	杗			[00904]	U+6757		
 0675C	杜			[44910]	U+675C		
 0675E	杞			[47917]	U+675E		
@@ -1310,7 +1418,10 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 067FE	柾			[41911]	U+67FE		
 06803	栃			[42927]	U+6803		
 06813	栓			[48914]	U+6813		
+06817	栗			[10904]	U+6817		
 0681A	栚			[48984]	U+681A		
+0681D	栝			[42964]	U+681D		
+0681E	栞			[11904]	U+681E		
 06821	校			[40948]	U+6821		
 06822	栢			[41962]	U+6822		
 0682A	株			[45990]	U+682A		
@@ -1331,6 +1442,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06876	桶			[47927]	U+6876		
 06879	桹			[43932]	U+6879		
 0687E	桾			[47967]	U+687E		
+0687F	桿			[46941]	U+687F		
 06881	梁			[33904]	U+6881		
 06882	梂			[43999]	U+6882		
 0689F	梟			[27904]	U+689F		
@@ -1338,6 +1450,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 068A0-T	梠		⿰木吕	[46960]	U+68A0	T	
 068A2	梢			[49927]	U+68A2		
 068A7	梧			[41961]	U+68A7		
+068AC	梬			[45927]	U+68AC		
 068AD	梭			[43947]	U+68AD		
 068B0	械			[43950]	U+68B0		
 068B1	梱			[46900]	U+68B1		
@@ -1349,14 +1462,18 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 068D7	棗			[50902]	U+68D7		
 068D8	棘			[55992]	U+68D8		
 068EE	森			[40994]	U+68EE		
+068F9	棹			[41946]	U+68F9		
 068FD	棽			[44207]	U+68FD		
 06906	椆			[47920]	U+6906		
 06907	椇			[47981]	U+6907		
 06909	椉			[00904]	U+6909		
 0690B	椋			[40996]	U+690B		
+0690D-N	植		⿰木⿱十⿺𠃊目	[44916]	U+690D	N	
+0690D-T	植		⿰木⿱十⿴且一	[44912]	U+690D	T	
 06910	椐			[47964]	U+6910		
 0691B	椛			[44914]	U+691B		
 0691C	検			[48986]	U+691C		
+0691F	椟			[44984]	U+691F		
 0694A	楊			[46927]	U+694A		
 0695B	楛			[44964]	U+695B		
 06960	楠			[44927]	U+6960		
@@ -1367,8 +1484,10 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06979	楹			[47912]	U+6979		
 06984	榄			[48912]	U+6984		
 06988	榈			[47920]	U+6988		
+0698A	榊			[45906]	U+698A		
 06994	榔			[47927]	U+6994		
 06998	榘			[81904]	U+6998		
+069A9	榩			[41940]	U+69A9		
 069AD	榭			[44900]	U+69AD		
 069BA	榺			[79294]	U+69BA		
 069CE	槎			[48912]	U+69CE		
@@ -1407,11 +1526,13 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06AA3	檣			[44961]	U+6AA3		
 06AAF	檯			[44914]	U+6AAF		
 06ABB	檻			[48912]	U+6ABB		
+06AC2	櫂			[47915]	U+6AC2		
 06AC3	櫃			[41918]	U+6AC3		
 06AD3	櫓			[47963]	U+6AD3		
 06AD4	櫔			[41927]	U+6AD4		
 06ADA	櫚			[47920]	U+6ADA		
 06ADC	櫜			[50904]	U+6ADC		
+06ADD	櫝			[44986]	U+6ADD		
 06AE7	櫧			[44960]	U+6AE7		
 06AEA	櫪			[41911]	U+6AEA		
 06AEB	櫫			[14904]	U+6AEB		
@@ -1420,7 +1541,9 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06B20	欠			[27802]	U+6B20		
 06B2E	欮			[87482]	U+6B2E		
 06B31	欱			[87682]	U+6B31		
+06B35	欵			[27882]	U+6B35		
 06B3D	欽			[87182]	U+6B3D		
+06B3E	款			[47982]	U+6B3E		
 06B46	歆			[07682]	U+6B46		
 06B4E	歎			[47882]	U+6B4E		
 06B59	歙			[87182]	U+6B59		
@@ -1440,12 +1563,16 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06B8A	殊			[15290]	U+6B8A		
 06B92	殒			[16282]	U+6B92		
 06B93	殓			[18219]	U+6B93		
+06B96-N	殖		⿰歹⿱十⿺𠃊目	[14216]	U+6B96	N	
+06B96-T	殖		⿰歹⿱十⿴且一	[14212]	U+6B96	T	
 06B9E	殞			[16286]	U+6B9E		
 06BA4	殤			[18227]	U+6BA4		
 06BAD	殭			[11216]	U+6BAD		
 06BAE	殮			[18286]	U+6BAE		
 06BB3	殳			[77407]	U+6BB3		
+06BB8	殸			[47247]	U+6BB8		
 06BCC	毌			[77774, 77740]	U+6BCC		
+06BD5	毕			[22401]	U+6BD5		
 06BE1	毡			[21716]	U+6BE1		
 06BE6	毦			[12415, 12414]	U+6BE6		
 06BEC	毬			[23719]	U+6BEC		
@@ -1459,15 +1586,18 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06C17	気			[80417]	U+6C17		
 06C23	氣			[80917]	U+6C23		
 06C34	水			[12900]	U+6C34		
+06C38	永			[30902]	U+6C38		
 06C3F	氿			[34117]	U+6C3F		
 06C40	汀			[31120]	U+6C40		
 06C41	汁			[34100]	U+6C41		
 06C42	求			[43909]	U+6C42		
+06C47	汇			[31110]	U+6C47		
 06C49	汉			[37140]	U+6C49		
 06C4F	汏			[34180]	U+6C4F		
 06C50	汐			[37120]	U+6C50		
 06C54	汔			[38117]	U+6C54		
 06C55	汕			[32170]	U+6C55		
+06C57	汗			[31140]	U+6C57		
 06C5D	汝			[34140]	U+6C5D		
 06C5E	汞			[10902]	U+6C5E		
 06C5F	江			[31112]	U+6C5F		
@@ -1495,6 +1625,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06CA5	沥			[31127]	U+6CA5		
 06CA9	沩			[34127]	U+6CA9		
 06CAA	沪			[33107]	U+6CAA		
+06CAD	沭			[33194]	U+6CAD		
 06CB9	油			[35160]	U+6CB9		
 06CBA	沺			[36100]	U+6CBA		
 06CBD	沽			[34160]	U+6CBD		
@@ -1509,6 +1640,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06CEB	泫			[30132]	U+6CEB		
 06CEE	泮			[39150]	U+6CEE		
 06CF0	泰			[50909]	U+6CF0		
+06CF3	泳			[33192]	U+6CF3		
 06D01	洁			[34161]	U+6D01		
 06D04	洄			[36100]	U+6D04		
 06D0A	洊			[34147]	U+6D0A		
@@ -1535,6 +1667,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06D52	浒			[38140]	U+6D52		
 06D5A	浚			[33147]	U+6D5A		
 06D5E	浞			[36181]	U+6D5E		
+06D63	浣			[33112]	U+6D63		
 06D65	浥			[36117]	U+6D65		
 06D6A	浪			[33132]	U+6D6A		
 06D6C	浬			[36115]	U+6D6C		
@@ -1550,6 +1683,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06D8C	涌			[37127]	U+6D8C		
 06D94	涔			[32127]	U+6D94		
 06D96	涖			[30118]	U+6D96		
+06D9C	涜			[34112]	U+6D9C		
 06D9D	涝			[34127]	U+6D9D		
 06D9E	涞			[35190]	U+6D9E		
 06D9F	涟			[34135]	U+6D9F		
@@ -1578,15 +1712,18 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06DFC	淼			[12992]	U+6DFC		
 06E05	清			[35127]	U+6E05		
 06E09	渉			[31129]	U+6E09		
+06E0E	渎			[34184]	U+6E0E		
 06E14	渔			[37116]	U+6E14		
 06E1A	渚			[34160]	U+6E1A		
 06E1F	渟			[30121]	U+6E1F		
 06E20	渠			[31904]	U+6E20		
 06E21	渡			[30147]	U+6E21		
 06E2B	渫			[34194]	U+6E2B		
+06E2D	渭			[36127]	U+6E2D		
 06E2F	港			[34117]	U+6E2F		
 06E3A	渺			[39120]	U+6E3A		
 06E43	湃			[31150]	U+6E43		
+06E49	湉			[32164]	U+6E49		
 06E4E	湎			[31162]	U+6E4E		
 06E56	湖			[37120]	U+6E56		
 06E58	湘			[36100]	U+6E58		
@@ -1601,9 +1738,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06E86	溆			[37140]	U+6E86		
 06E88	溈			[34127]	U+6E88		
 06E8F	溏			[30165]	U+6E8F		
+06E90	源			[31196]	U+6E90		
 06EA0	溠			[38112]	U+6EA0		
+06EA7	溧			[31194]	U+6EA7		
 06EB3	溳			[36186]	U+6EB3		
 06EC1	滁			[38194]	U+6EC1		
+06EC5	滅			[33150]	U+6EC5		
 06EC9	滉			[36112]	U+6EC9		
 06ECB	滋			[38132]	U+6ECB		
 06ECD	滍			[32136]	U+6ECD		
@@ -1615,6 +1755,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06EF7	滷			[31160]	U+6EF7		
 06EF8	滸			[38140]	U+6EF8		
 06F01	漁			[37136]	U+6F01		
+06F09	漉			[30112]	U+6F09		
+06F0F	漏			[37127]	U+6F0F		
 06F22	漢			[34185]	U+6F22		
 06F23	漣			[35130]	U+6F23		
 06F26	漦			[58292]	U+6F26		
@@ -1640,6 +1782,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06F90	澐			[31132]	U+6F90		
 06F92	澒			[31186]	U+6F92		
 06F97	澗			[37120]	U+6F97		
+06FA3	澣			[38141]	U+6FA3		
 06FA6	澦			[31186]	U+6FA6		
 06FA7	澧			[35118]	U+6FA7		
 06FA8	澨			[38118]	U+6FA8		
@@ -1651,6 +1794,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 06FD1	濑			[37182]	U+6FD1		
 06FDE	濞			[36121]	U+6FDE		
 06FEB	濫			[38112]	U+6FEB		
+06FEF	濯			[37115]	U+6FEF		
+07006	瀆			[34186]	U+7006		
 07007	瀇			[30186]	U+7007		
 0700B	瀋			[33169]	U+700B		
 0700D	瀍			[30114]	U+700D		
@@ -1666,6 +1811,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07049	灉			[30115]	U+7049		
 07058	灘			[30115]	U+7058		
 0706B	火			[90800]	U+706B		
+0706D	灭			[10809]	U+706D		
 0706F	灯			[91820]	U+706F		
 07070	灰			[40809]	U+7070		
 07078	灸			[27809]	U+7078		
@@ -1680,11 +1826,14 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 070C8	烈			[12330]	U+70C8		
 070CB	烋			[24339]	U+70CB		
 070D4	烔			[97820]	U+70D4		
+070D5	烕			[53200]	U+70D5		
 070D8	烘			[94881]	U+70D8		
 070D9	烙			[97864]	U+70D9		
 070E6	烦			[91882]	U+70E6		
 070E8	烨			[94841]	U+70E8		
 070ED	热			[55331]	U+70ED		
+070F9	烹			[00332]	U+70F9		
+0710A	焊			[96841]	U+710A		
 0711A	焚			[44809]	U+711A		
 0711C	焜			[96812]	U+711C		
 0712B	焫			[94827]	U+712B		
@@ -1702,13 +1851,16 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 071B1	熱			[45331]	U+71B1		
 071B2	熲			[21886]	U+71B2		
 071C1	燁			[94854]	U+71C1		
+071E7	燧			[98833]	U+71E7		
 071EE	燮			[99407]	U+71EE		
+071FF	燿			[97815]	U+71FF		
 07207	爇			[44331]	U+7207		
 07217	爗			[96854]	U+7217		
 0721A	爚			[98827]	U+721A		
 0721D	爝			[92843]	U+721D		
 0721E	爞			[95836]	U+721E		
 0722D	爭			[20507]	U+722D		
+0722F	爯			[20447]	U+722F		
 07232	爲			[20227]	U+7232		
 07235	爵			[20746]	U+7235		
 0723F	爿			[22200]	U+723F		
@@ -1717,7 +1869,9 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07246	牆			[24261]	U+7246		
 07247	片			[22027]	U+7247		
 07249	牉			[29050]	U+7249		
+0724D	牍			[24084]	U+724D		
 07252	牒			[24094]	U+7252		
+07258	牘			[24086]	U+7258		
 0725B	牛			[25000]	U+725B		
 07266	牦			[22515, 22514]	U+7266		
 07269	物			[27520]	U+7269		
@@ -1729,9 +1883,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07279	特			[24541]	U+7279		
 0727A	牺			[21564]	U+727A		
 0727D	牽			[00503]	U+727D		
+07280	犀			[77259]	U+7280		
+0728A	犊			[24584]	U+728A		
 07296	犖			[99502]	U+7296		
 0729B	犛			[58251]	U+729B		
 072A0	犠			[28553]	U+72A0		
+072A2	犢			[24586]	U+72A2		
 072A7	犧			[28553]	U+72A7		
 072A8	犨			[20501]	U+72A8		
 072AC	犬			[43800]	U+72AC		
@@ -1753,15 +1910,19 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 072F0	狰			[47257]	U+72F0		
 072F3	狳			[48294]	U+72F3		
 072F8	狸			[46215]	U+72F8		
+072FA	狺			[40261]	U+72FA		
 072FB	狻			[43247]	U+72FB		
 072FC	狼			[43232]	U+72FC		
 072FD	狽			[46280]	U+72FD		
 07303	猃			[48219]	U+7303		
 07307	猇			[41217]	U+7307		
+0730E	猎			[44261]	U+730E		
 07319	猙			[42257]	U+7319		
+0731F	猟			[49217]	U+731F		
 07322	猢			[47220]	U+7322		
 07329	猩			[46215]	U+7329		
 0732A	猪			[44260]	U+732A		
+0732C	猬			[46227]	U+732C		
 0733F	猿			[44232]	U+733F		
 0734E	獎			[27804]	U+734E		
 07352	獒			[48804, 58804]	U+7352		
@@ -1769,6 +1930,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07369	獩			[41253]	U+7369		
 0736B	獫			[48286]	U+736B		
 0736D	獭			[47282]	U+736D		
+07375	獵			[42212]	U+7375		
 07377	獷			[40286]	U+7377		
 07378	獸			[63684]	U+7378		
 0737A	獺			[47286]	U+737A		
@@ -1776,6 +1938,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07385	玅			[09720]	U+7385		
 07389	玉			[10103]	U+7389		
 0738B	王			[10104]	U+738B		
+07395	玕			[11140]	U+7395		
 07396	玖			[17180]	U+7396		
 0739A	玚			[17127]	U+739A		
 0739F	玟			[10140]	U+739F		
@@ -1813,9 +1976,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07497	璗			[36103]	U+7497		
 0749C	璜			[14186]	U+749C		
 0749F	璟			[16196]	U+749F		
+074B2	璲			[18133]	U+74B2		
+074DE	瓞			[75238]	U+74DE		
 074EE	瓮			[80717]	U+74EE		
 07503	甃			[29717]	U+7503		
 07515	甕			[00717]	U+7515		
+0751C	甜			[24670]	U+751C		
 0751F	生			[25100]	U+751F		
 07521	甡			[25110]	U+7521		
 07525	甥			[26127]	U+7525		
@@ -1824,8 +1990,11 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0752C	甬			[17227]	U+752C		
 07530	田			[60400]	U+7530		
 07531	由			[50600]	U+7531		
+07533	申			[50006]	U+7533		
+07535	电			[50716]	U+7535		
 07537	男			[60427]	U+7537		
 07538	甸			[27620]	U+7538		
+07539	甹			[50027]	U+7539		
 0753A	町			[61020]	U+753A		
 0753F	甿			[60010]	U+753F		
 07540	畀			[60221]	U+7540		
@@ -1836,6 +2005,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07551	畑			[96800]	U+7551		
 07554	畔			[69050]	U+7554		
 07560	畠			[26600]	U+7560		
+07562	畢			[60504]	U+7562		
 07563	畣			[80606]	U+7563		
 07564	畤			[64041]	U+7564		
 07565	略			[67064]	U+7565		
@@ -1857,6 +2027,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0759D	疝			[00172]	U+759D		
 075A0	疠			[00127]	U+75A0		
 075A1	疡			[00127]	U+75A1		
+075A2	疢			[00189]	U+75A2		
 075A3	疣			[00112]	U+75A3		
 075A5	疥			[00128]	U+75A5		
 075AC	疬			[00127]	U+75AC		
@@ -1932,6 +2103,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 076EE	目			[60101]	U+76EE		
 076EF	盯			[61020]	U+76EF		
 076F2	盲			[00601]	U+76F2		
+076F4-N	直		⿱十⿺𠃊目	[40716]	U+76F4	N	
+076F4-T	直		⿱十⿴且一	[40102]	U+76F4	T	
 076F8	相			[46900]	U+76F8		
 076FB	盻			[68027]	U+76FB		
 07701	省			[90602]	U+7701		
@@ -1945,6 +2118,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0773E	眾			[60882]	U+773E		
 07740	着			[80605]	U+7740		
 07741	睁			[67057]	U+7741		
+07745	睅			[66041]	U+7745		
 0774D	睍			[66012]	U+774D		
 07750	睐			[65090]	U+7750		
 07751	睑			[68019]	U+7751		
@@ -1973,6 +2147,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07821	砡			[11613]	U+7821		
 0782E	砮			[47602]	U+782E		
 07832	砲			[17612]	U+7832		
+07837	砷			[15606]	U+7837		
 0783A	砺			[11627]	U+783A		
 0783F	砿			[10632]	U+783F		
 07843	硃			[15690]	U+7843		
@@ -1986,6 +2161,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0786F	硯			[16612]	U+786F		
 07877	硷			[18619]	U+7877		
 07887	碇			[13681]	U+7887		
+0788D	碍			[16641]	U+788D		
 07898	碘			[15681]	U+7898		
 0789E	碞			[60602]	U+789E		
 078A7	碧			[16602]	U+78A7		
@@ -1996,6 +2172,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 078CB	磋			[18612]	U+78CB		
 078D4	磔			[15694]	U+78D4		
 078E0	磠			[11660]	U+78E0		
+078EC	磬			[47602]	U+78EC		
 078F2	磲			[11694]	U+78F2		
 07910	礐			[77602]	U+7910		
 07912	礒			[18653]	U+7912		
@@ -2010,6 +2187,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0794F	祏			[31262]	U+794F		
 07950	祐			[34260]	U+7950		
 0795C	祜			[34260]	U+795C		
+0795E	神			[35206]	U+795E		
 0796B	祫			[38261]	U+796B		
 0796F	祯			[31282]	U+796F		
 07980	禀			[00901]	U+7980		
@@ -2022,28 +2200,41 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 079B9	禹			[20227]	U+79B9		
 079BC	禼			[21227]	U+79BC		
 079BD	禽			[80227]	U+79BD		
+079C6	秆			[21940]	U+79C6		
 079C8	秈			[22970]	U+79C8		
 079CA	秊			[20402]	U+79CA		
 079CB	秋			[29980]	U+79CB		
 079CC	秌			[92894]	U+79CC		
 079CD	种			[25906]	U+79CD		
 079D2	秒			[29920]	U+79D2		
+079E4	秤			[21949]	U+79E4		
+079E9	秩			[25980]	U+79E9		
+079EB	秫			[23994]	U+79EB		
 079EC	秬			[21917]	U+79EC		
+079F0-N	称		⿰禾尓	[21992]	U+79F0	N	
+079F0-T	称		⿰禾尔	[27992]	U+79F0	T	
 079F8	秸			[24961]	U+79F8		
 079FD	秽			[22927]	U+79FD		
 07A02	稂			[23932]	U+7A02		
 07A03	稃			[22947]	U+7A03		
+07A08	稈			[26941]	U+7A08		
+07A0B	程			[26914]	U+7A0B		
 07A0C	稌			[28994]	U+7A0C		
 07A0D	稍			[29927]	U+7A0D		
 07A11	稑			[24914]	U+7A11		
 07A14	稔			[28932]	U+7A14		
+07A19-J	稙		⿰禾⿱十⿺𠃊目	[24916]	U+7A19	J	
+07A19-T	稙		⿰禾⿱十⿴且一	[24912]	U+7A19	T	
 07A1F	稟			[00904]	U+7A1F		
 07A20	稠			[27920]	U+7A20		
 07A23	稣			[22194]	U+7A23		
+07A31	稱			[22947]	U+7A31		
 07A45	穅			[20999]	U+7A45		
+07A46	穆			[26922]	U+7A46		
 07A4C	穌			[22394]	U+7A4C		
 07A4E	穎			[21986]	U+7A4E		
 07A51	穑			[24961]	U+7A51		
+07A5F	穟			[28933]	U+7A5F		
 07A61	穡			[24961]	U+7A61		
 07A62	穢			[21953]	U+7A62		
 07A68	穨			[25286]	U+7A68		
@@ -2062,10 +2253,14 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07A98	窘			[30607]	U+7A98		
 07A9F	窟			[30272]	U+7A9F		
 07AA5	窥			[10027]	U+7AA5		
+07AA6	窦			[30804]	U+7AA6		
 07AA8	窨			[30601]	U+7AA8		
 07AAE	窮			[30227]	U+7AAE		
 07AAF	窯			[30331]	U+7AAF		
 07ABA	窺			[30812]	U+7ABA		
+07ABD	窽			[30882]	U+7ABD		
+07ABE	窾			[30982]	U+7ABE		
+07AC7	竇			[30806]	U+7AC7		
 07ACA	竊			[30927]	U+7ACA		
 07ACB	立			[00108]	U+7ACB		
 07AD8	竘			[07120]	U+7AD8		
@@ -2075,6 +2270,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07AEB-T	竫		⿰立争	[07157]	U+7AEB	T	
 07AF9	竹			[88220]	U+7AF9		
 07AFA	竺			[88101]	U+7AFA		
+07AFF	竿			[88401]	U+7AFF		
 07B03	笃			[88127]	U+7B03		
 07B04	笄			[88441]	U+7B04		
 07B08	笈			[88247]	U+7B08		
@@ -2102,6 +2298,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07B52	筒			[88227]	U+7B52		
 07B53	筓			[88441]	U+7B53		
 07B54	答			[88601]	U+7B54		
+07B5A	筚			[88401]	U+7B5A		
 07B5D	筝			[88507]	U+7B5D		
 07B64	筤			[88732]	U+7B64		
 07B65-J	筥		⿱竹呂	[88602]	U+7B65	J	
@@ -2129,15 +2326,20 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07BD1	篑			[88802]	U+7BD1		
 07BD4	篔			[88806]	U+7BD4		
 07BE4	篤			[88327]	U+7BE4		
+07BE5	篥			[88904]	U+7BE5		
 07BE8	篨			[88294]	U+7BE8		
 07BEE	篮			[88102]	U+7BEE		
+07BF3	篳			[88504]	U+7BF3		
 07C09	簉			[88306]	U+7C09		
+07C0F	簏			[88212]	U+7C0F		
 07C21	簡			[88227]	U+7C21		
 07C23	簣			[88806]	U+7C23		
 07C27	簧			[88806]	U+7C27		
+07C33	簳			[88441]	U+7C33		
 07C3D	簽			[88886]	U+7C3D		
 07C41	籁			[88982]	U+7C41		
 07C43	籃			[88102]	U+7C43		
+07C4A	籊			[88215]	U+7C4A		
 07C50	籐			[88299]	U+7C50		
 07C5E	籞			[88901]	U+7C5E		
 07C5F	籟			[88986]	U+7C5F		
@@ -2145,6 +2347,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07C69	籩			[88302]	U+7C69		
 07C72	籲			[88286]	U+7C72		
 07C73	米			[90904]	U+7C73		
+07C74	籴			[80904]	U+7C74		
 07C7C	籼			[92970]	U+7C7C		
 07C81	粁			[92940]	U+7C81		
 07C82	粂			[27904]	U+7C82		
@@ -2152,6 +2355,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07C92	粒			[90918]	U+7C92		
 07C94	粔			[91917]	U+7C94		
 07C95	粕			[96902]	U+7C95		
+07C9C	粜			[22904]	U+7C9C		
 07C9D	粝			[91927]	U+7C9D		
 07CA7	粧			[90914]	U+7CA7		
 07CAA	粪			[90801]	U+7CAA		
@@ -2169,6 +2373,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07CE0	糠			[90999]	U+7CE0		
 07CE7	糧			[96915]	U+7CE7		
 07CF2	糲			[91927]	U+7CF2		
+07CF4	糴			[87915]	U+7CF4		
+07CF6	糶			[27915]	U+7CF6		
 07CF8	糸			[22903]	U+7CF8		
 07CFA	糺			[22910]	U+7CFA		
 07CFB	系			[20903]	U+7CFB		
@@ -2186,9 +2392,11 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07D1A	級			[27947]	U+7D1A		
 07D1C	紜			[21932]	U+7D1C		
 07D27	紧			[27903]	U+7D27		
+07D29	紩			[25980]	U+7D29		
 07D2C	紬			[25960]	U+7D2C		
 07D2E	紮			[42903]	U+7D2E		
 07D32	紲			[24917]	U+7D32		
+07D33	紳			[25906]	U+7D33		
 07D40	絀			[22972]	U+7D40		
 07D42	終			[27933]	U+7D42		
 07D43	絃			[20932]	U+7D43		
@@ -2199,6 +2407,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07D4F	絏			[25906]	U+7D4F		
 07D50	結			[24961]	U+7D50		
 07D54	絔			[21962]	U+7D54		
+07D55	絕			[27917]	U+7D55		
 07D5E	絞			[20948]	U+7D5E		
 07D61	絡			[27964]	U+7D61		
 07D66	給			[28961]	U+7D66		
@@ -2207,8 +2416,10 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07D70	絰			[21914]	U+7D70		
 07D71	統			[20912]	U+7D71		
 07D72	絲			[22993]	U+7D72		
+07D76	絶			[27917]	U+7D76		
 07D7F	絿			[23999]	U+7D7F		
 07D83	綃			[29927]	U+7D83		
+07D9A	続			[24912]	U+7D9A		
 07D9D	綝			[24990]	U+7D9D		
 07DA2	綢			[27920]	U+7DA2		
 07DAA	綪			[25927]	U+7DAA		
@@ -2241,6 +2452,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07E86	纆			[26914]	U+7E86		
 07E88	纈			[21986]	U+7E88		
 07E8A	纊			[20986]	U+7E8A		
+07E8C	續			[24986]	U+7E8C		
 07E8F	纏			[20914]	U+7E8F		
 07E9C	纜			[28912]	U+7E9C		
 07EA0	纠			[22100]	U+7EA0		
@@ -2258,6 +2470,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07EB9	纹			[20140]	U+7EB9		
 07EBE	纾			[27122]	U+7EBE		
 07EC1	绁			[24117]	U+7EC1		
+07EC5	绅			[25106]	U+7EC5		
 07EC8	终			[27133]	U+7EC8		
 07ECA	绊			[28150]	U+7ECA		
 07ECC	绌			[22172]	U+7ECC		
@@ -2266,10 +2479,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07ED7	绗			[21121]	U+7ED7		
 07ED9	给			[28161]	U+7ED9		
 07EDC	络			[27164]	U+7EDC		
+07EDD	绝			[27117]	U+7EDD		
 07EDE	绞			[20148]	U+7EDE		
 07EDF	统			[20112]	U+7EDF		
 07EE1	绡			[29127]	U+7EE1		
 07EEA	绪			[24160]	U+7EEA		
+07EED	续			[24184]	U+7EED		
 07EF2	绲			[26112]	U+7EF2		
 07EF6	绶			[22147]	U+7EF6		
 07EF8	绸			[27120]	U+7EF8		
@@ -2287,19 +2502,25 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07F38	缸			[81712]	U+7F38		
 07F3D	缽			[85730]	U+7F3D		
 07F3F	缿			[82761]	U+7F3F		
+07F44	罄			[47772]	U+7F44		
 07F47	罇			[88746]	U+7F47		
 07F4B	罋			[00772]	U+7F4B		
 07F4E	罎			[86732]	U+7F4E		
 07F51	网			[77220]	U+7F51		
 07F54	罔			[77220]	U+7F54		
+07F55	罕			[37401]	U+7F55		
 07F5F	罟			[60604]	U+7F5F		
+07F6E-N	置		⿱罒⿱十⿺𠃊目	[60716]	U+7F6E	N	
+07F6E-T	置		⿱罒⿱十⿴且一	[60102]	U+7F6E	T	
 07F71	罱			[60227]	U+7F71		
 07F72	署			[60604]	U+7F72		
 07F7B	罻			[60240]	U+7F7B		
+07F7D	罽			[60221]	U+7F7D		
 07F8B	羋			[11502]	U+7F8B		
 07F91	羑			[80807]	U+7F91		
 07F94	羔			[80331]	U+7F94		
 07F96	羖			[87547]	U+7F96		
+07F9E	羞			[80102]	U+7F9E		
 07FA3	羣			[17501]	U+7FA3		
 07FA4	群			[18651]	U+7FA4		
 07FA9	義			[80553]	U+7FA9		
@@ -2311,11 +2532,13 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 07FCC	翌			[17108]	U+7FCC		
 07FD5	翕			[80127]	U+7FD5		
 07FD9	翙			[27220]	U+7FD9		
+07FDF	翟			[17215]	U+7FDF		
 07FE5	翥			[44127]	U+7FE5		
 07FF1	翱			[27420]	U+7FF1		
 07FF6	翶			[27420]	U+7FF6		
 07FFA	翺			[27420]	U+7FFA		
 07FFD	翽			[27220]	U+7FFD		
+08000	耀			[97215]	U+8000		
 08005	者			[44600]	U+8005		
 08007	耇			[44627]	U+8007		
 08008	耈			[44627]	U+8008		
@@ -2329,12 +2552,17 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0803B	耻			[11410]	U+803B		
 0803F	耿			[19480]	U+803F		
 08054	联			[18484]	U+8054		
+08058	聘			[15427]	U+8058		
+0805E	聞			[77401]	U+805E		
 08069	聩			[15482]	U+8069		
 0806E	聮			[12493]	U+806E		
 0806F	聯			[12472]	U+806F		
 08071	聱			[48401, 58401]	U+8071		
+08072	聲			[47401]	U+8072		
 08075	聵			[15486]	U+8075		
 0807F	聿			[50007]	U+807F		
+08084	肄			[25807]	U+8084		
+08086	肆			[75707]	U+8086		
 08089	肉			[40227]	U+8089		
 0808B	肋			[74227]	U+808B		
 08093	肓			[00227]	U+8093		
@@ -2343,6 +2571,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0809A	肚			[74210]	U+809A		
 0809B	肛			[71212]	U+809B		
 0809C	肜			[72222]	U+809C		
+0809D	肝			[71240]	U+809D		
 080A0	肠			[77227]	U+80A0		
 080A1	股			[77247]	U+80A1		
 080A5	肥			[77217]	U+80A5		
@@ -2351,6 +2580,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 080AD	肭			[74227]	U+80AD		
 080BE	肾			[27227]	U+80BE		
 080C0	胀			[72234]	U+80C0		
+080C3	胃			[60227]	U+80C3		
 080C4	胄			[50227]	U+80C4		
 080C6	胆			[76210]	U+80C6		
 080CA	胊			[77220]	U+80CA		
@@ -2358,18 +2588,23 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 080DC	胜			[75210]	U+80DC		
 080DE	胞			[77212]	U+80DE		
 080E1	胡			[47620]	U+80E1		
+080E4	胤			[22010]	U+80E4		
 080F1	胱			[79212]	U+80F1		
 080F3	胳			[77264]	U+80F3		
 080F4	胴			[77220]	U+80F4		
 080F6	胶			[70248]	U+80F6		
 080F7	胷			[27227]	U+80F7		
 080F8	胸			[77220]	U+80F8		
+08103	脃			[77217]	U+8103		
+08106	脆			[77212]	U+8106		
 0810F	脏			[70214]	U+810F		
+0811D	脝			[70227]	U+811D		
 08127	脧			[73247]	U+8127		
 0812C	脬			[72247]	U+812C		
 08138	脸			[78219]	U+8138		
 08139	脹			[71232]	U+8139		
 08146	腆			[75281]	U+8146		
+0814A	腊			[74261]	U+814A		
 0814B	腋			[70247]	U+814B		
 0814E	腎			[77227]	U+814E		
 08154	腔			[73212]	U+8154		
@@ -2385,8 +2620,10 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 081A9	膩			[73240]	U+81A9		
 081BB	膻			[70216]	U+81BB		
 081C6	臆			[70236]	U+81C6		
+081C8	臈			[74227]	U+81C8		
 081C9	臉			[78286]	U+81C9		
 081D3	臓			[74253]	U+81D3		
+081D8	臘			[72212]	U+81D8		
 081DF	臟			[74253]	U+81DF		
 081E1	臡			[40227]	U+81E1		
 081E3	臣			[71712]	U+81E3		
@@ -2479,6 +2716,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08350	荐			[44247]	U+8350		
 08352	荒			[44212]	U+8352		
 08358	荘			[44114]	U+8358		
+0835C	荜			[44401]	U+835C		
 0835E	荞			[44228]	U+835E		
 08361	荡			[44127]	U+8361		
 08366	荦			[44502]	U+8366		
@@ -2530,10 +2768,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 084A8	蒨			[44227]	U+84A8		
 084AF	蒯			[42200]	U+84AF		
 084C6	蓆			[44227]	U+84C6		
+084CF	蓏			[44232]	U+84CF		
 084DD	蓝			[44102]	U+84DD		
 084E3	蓣			[44282]	U+84E3		
 084EE	蓮			[44305]	U+84EE		
 084FA	蓺			[44117]	U+84FA		
+084FD	蓽			[44504]	U+84FD		
 084FF	蓿			[44262]	U+84FF		
 08517	蔗			[44237]	U+8517		
 0851A	蔚			[44240]	U+851A		
@@ -2543,6 +2783,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08535	蔵			[44253]	U+8535		
 08537	蔷			[44601]	U+8537		
 08539	蔹			[44148]	U+8539		
+0853A	蔺			[44227]	U+853A		
 0853B	蔻			[44214]	U+853B		
 0854E	蕎			[44227]	U+854E		
 08551	蕑			[44227]	U+8551		
@@ -2568,17 +2809,20 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 085B9	薹			[44104]	U+85B9		
 085CD	藍			[44102]	U+85CD		
 085CF	藏			[44253]	U+85CF		
+085DA	藚			[44806]	U+85DA		
 085DD	藝			[44732]	U+85DD		
 085E4	藤			[44299]	U+85E4		
 085ED	藭			[44227]	U+85ED		
 085F6	藶			[44211]	U+85F6		
 085F7	藷			[44664]	U+85F7		
+085FA	藺			[44227]	U+85FA		
 08605	蘅			[44221]	U+8605		
 08607	蘇			[44394]	U+8607		
 0860C	蘌			[44901]	U+860C		
 0861E	蘞			[44848]	U+861E		
 08624	蘤			[44627]	U+8624		
 08653	虓			[41017]	U+8653		
+08654	虔			[21240]	U+8654		
 0865E	虞			[21284]	U+865E		
 0865F	號			[61217]	U+865F		
 0866B	虫			[50136]	U+866B		
@@ -2619,17 +2863,21 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0870B	蜋			[53132]	U+870B		
 0870D	蜍			[58194]	U+870D		
 08716	蜖			[56100]	U+8716		
+08721	蜡			[54161]	U+8721		
 08729	蜩			[57120]	U+8729		
 0872B	蜫			[56112]	U+872B		
 08730	蜰			[77136]	U+8730		
 08739	蜹			[54127]	U+8739		
 0873B	蜻			[55127]	U+873B		
+0874B	蝋			[59117]	U+874B		
 08757	蝗			[56114]	U+8757		
+0875F	蝟			[56127]	U+875F		
 08771	蝱			[00136]	U+8771		
 08772	蝲			[52100]	U+8772		
 08774	蝴			[57120]	U+8774		
 08776	蝶			[54194]	U+8776		
 08782	螂			[57127]	U+8782		
+08788	螈			[51196]	U+8788		
 0878D	融			[15236]	U+878D		
 0878E	螎			[51127]	U+878E		
 08797	螗			[50165]	U+8797		
@@ -2647,19 +2895,24 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 087FB	蟻			[58153]	U+87FB		
 08806	蠆			[44136]	U+8806		
 08812	蠒			[10136]	U+8812		
+0881F	蠟			[52112]	U+881F		
 08823	蠣			[51127]	U+8823		
 08831	蠱			[50102]	U+8831		
 08839	蠹			[50136]	U+8839		
 08841	衁			[00102]	U+8841		
 08846	衆			[27232]	U+8846		
 0884C	行			[21221]	U+884C		
+0884E	衎			[21221]	U+884E		
 08852	衒			[21221]	U+8852		
+08853	術			[21221]	U+8853		
 08854	衔			[21221]	U+8854		
 08855	衕			[21221]	U+8855		
 08856	衖			[21221]	U+8856		
 08859	衙			[21221]	U+8859		
 0885A	衚			[21221]	U+885A		
+0885B	衛			[21221]	U+885B		
 0885C	衜			[21221]	U+885C		
+0885E	衞			[21221]	U+885E		
 0885F	衟			[21221]	U+885F		
 08861	衡			[21221]	U+8861		
 08863	衣			[00732]	U+8863		
@@ -2675,12 +2928,14 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0888D	袍			[37212]	U+888D		
 08892	袒			[36210]	U+8892		
 08896	袖			[35260]	U+8896		
+088A0	袠			[00732]	U+88A0		
 088A2	袢			[39250]	U+88A2		
 088B7	袷			[38261]	U+88B7		
 088BA	袺			[34261]	U+88BA		
 088BD	袽			[36200]	U+88BD		
 088C2	裂			[12732]	U+88C2		
 088C5	装			[34732]	U+88C5		
+088CE	裎			[36214]	U+88CE		
 088CF	裏			[00732]	U+88CF		
 088D2	裒			[00732]	U+88D2		
 088D4	裔			[00227]	U+88D4		
@@ -2708,6 +2963,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08943	襃			[00732]	U+8943		
 08947	襇			[37220]	U+8947		
 08949	襉			[37220]	U+8949		
+0895A	襚			[38233]	U+895A		
 0895F	襟			[34291]	U+895F		
 08962	襢			[30216]	U+8962		
 08964	襤			[38212]	U+8964		
@@ -2720,25 +2976,30 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 089A9	覩			[46612]	U+89A9		
 089BA	覺			[77212]	U+89BA		
 089BD	覽			[78212]	U+89BD		
+089BF	覿			[46812]	U+89BF		
 089C1	见			[77212]	U+89C1		
 089C4	规			[57812]	U+89C4		
 089C8	览			[28212]	U+89C8		
 089C9	觉			[90212]	U+89C9		
+089CC	觌			[47812]	U+89CC		
 089D3	觓			[22200]	U+89D3		
 089DE	觞			[28227]	U+89DE		
 089E5	觥			[29212]	U+89E5		
 089E9	觩			[23299]	U+89E9		
 089F4	觴			[28227]	U+89F4		
 089F5	觵			[24286]	U+89F5		
+08A00	言			[00601]	U+8A00		
 08A02	訂			[01620]	U+8A02		
 08A04	訄			[40016]	U+8A04		
 08A08	計			[04600]	U+8A08		
 08A0C	訌			[01612]	U+8A0C		
 08A0E	討			[04600]	U+8A0E		
+08A10	訐			[01640]	U+8A10		
 08A13	訓			[02600]	U+8A13		
 08A15	訕			[02670]	U+8A15		
 08A16	訖			[08617]	U+8A16		
 08A18	記			[07617]	U+8A18		
+08A1A	訚			[37601]	U+8A1A		
 08A1B	訛			[04610]	U+8A1B		
 08A25	訥			[04627]	U+8A25		
 08A27	訧			[03612]	U+8A27		
@@ -2746,11 +3007,13 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08A2D	設			[07647]	U+8A2D		
 08A31	許			[08640]	U+8A31		
 08A35	訵			[06600]	U+8A35		
+08A39	訹			[03694]	U+8A39		
 08A3C	証			[01611]	U+8A3C		
 08A3D	訽			[07620]	U+8A3D		
 08A41	詁			[04660]	U+8A41		
 08A4E	詎			[01617]	U+8A4E		
 08A58	詘			[02672]	U+8A58		
+08A60	詠			[03692]	U+8A60		
 08A69	詩			[04641]	U+8A69		
 08A6C	詬			[02661]	U+8A6C		
 08A6E	詮			[08614]	U+8A6E		
@@ -2766,11 +3029,14 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08A9E	語			[01661]	U+8A9E		
 08AA0	誠			[03650]	U+8AA0		
 08AA1	誡			[03650]	U+8AA1		
+08AA3	誣			[01618]	U+8AA3		
 08AA4-J	誤		⿰言吳	[06684]	U+8AA4	J	
 08AA4-N	誤		⿰言呉	[06681]	U+8AA4	N	
 08AA4-T	誤		⿰言吴	[06684]	U+8AA4	T	
 08AA6	誦			[07627]	U+8AA6		
+08AAD	読			[04612]	U+8AAD		
 08ABC	誼			[03612]	U+8ABC		
+08ABE	誾			[77601]	U+8ABE		
 08ABF	調			[07620]	U+8ABF		
 08ACB	請			[05627]	U+8ACB		
 08ACD-J	諍		⿰言爭	[02657]	U+8ACD	J	
@@ -2781,10 +3047,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08ADC	諜			[04694]	U+8ADC		
 08AF3	諳			[00661]	U+8AF3		
 08AF8	諸			[04660]	U+8AF8		
+08B02	謂			[06627]	U+8B02		
 08B04	謄			[79261]	U+8B04		
 08B07	謇			[30601]	U+8B07		
 08B0E	謎			[09639]	U+8B0E		
 08B1D	謝			[04600]	U+8B1D		
+08B26	謦			[47601]	U+8B26		
 08B37	謷			[48601, 58601]	U+8B37		
 08B38	謸			[08640]	U+8B38		
 08B41	譁			[04654]	U+8B41		
@@ -2794,10 +3062,15 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08B66	警			[48601]	U+8B66		
 08B70	議			[08653]	U+8B70		
 08B75	譵			[04600]	U+8B75		
+08B80	讀			[04686]	U+8B80		
+08B86	讆			[21601]	U+8B86		
 08B8E	讎			[20215]	U+8B8E		
+08B8F	讏			[21601]	U+8B8F		
 08B90	讐			[20601]	U+8B90		
+08B9F	讟			[00661]	U+8B9F		
 08BA1	计			[34700]	U+8BA1		
 08BA2	订			[31720]	U+8BA2		
+08BA6	讦			[31740]	U+8BA6		
 08BA7	讧			[31712]	U+8BA7		
 08BA8	讨			[34700]	U+8BA8		
 08BAA	讪			[32770]	U+8BAA		
@@ -2824,6 +3097,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08BE0	诠			[38714]	U+8BE0		
 08BE4	诤			[37757]	U+8BE4		
 08BEB	诫			[33750]	U+8BEB		
+08BEC	诬			[31718]	U+8BEC		
 08BED	语			[31761]	U+8BED		
 08BEE	诮			[39727]	U+8BEE		
 08BEF	误			[36784]	U+8BEF		
@@ -2831,12 +3105,14 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08BF5	诵			[37727]	U+8BF5		
 08BF7	请			[35727]	U+8BF7		
 08BF8	诸			[34760]	U+8BF8		
+08BFB	读			[34784]	U+8BFB		
 08C00	谀			[37787]	U+8C00		
 08C02	谂			[38732]	U+8C02		
 08C03	调			[37720]	U+8C03		
 08C05	谅			[30796]	U+8C05		
 08C0A	谊			[33712]	U+8C0A		
 08C0D	谍			[34794]	U+8C0D		
+08C13	谓			[36727]	U+8C13		
 08C19	谙			[30761]	U+8C19		
 08C1C	谜			[39739]	U+8C1C		
 08C22	谢			[34700]	U+8C22		
@@ -2845,6 +3121,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08C3D	谽			[88662]	U+8C3D		
 08C47	豇			[11112]	U+8C47		
 08C4A	豊			[55108]	U+8C4A		
+08C55	豕			[10232]	U+8C55		
 08C6B	豫			[17232]	U+8C6B		
 08C6C	豬			[14260]	U+8C6C		
 08C83	貃			[26202]	U+8C83		
@@ -2880,6 +3157,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08D07	贇			[03806]	U+8D07		
 08D0F	贏			[00217]	U+8D0F		
 08D13	贓			[63850]	U+8D13		
+08D14	贔			[60886]	U+8D14		
+08D16	贖			[64886]	U+8D16		
 08D1C	贜			[64853]	U+8D1C		
 08D1D	贝			[77802]	U+8D1D		
 08D1E	贞			[21802]	U+8D1E		
@@ -2901,6 +3180,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08D49	赉			[50802]	U+8D49		
 08D4A	赊			[78891]	U+8D4A		
 08D4C	赌			[74860]	U+8D4C		
+08D4E	赎			[74884]	U+8D4E		
+08D51	赑			[77882]	U+8D51		
 08D52	赒			[77820]	U+8D52		
 08D53	赓			[00282]	U+8D53		
 08D56	赖			[57982]	U+8D56		
@@ -2916,14 +3197,19 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08D6F	赯			[40265]	U+8D6F		
 08D73	赳			[42800]	U+8D73		
 08D75	赵			[44800]	U+8D75		
+08D76	赶			[41804]	U+8D76		
 08D77	起			[47801]	U+8D77		
 08D8A	越			[43805]	U+8D8A		
+08D95	趕			[46804]	U+8D95		
 08D97	趗			[46808]	U+8D97		
 08D99	趙			[49802]	U+8D99		
+08DAF	趯			[47801]	U+8DAF		
 08DB3	足			[60801]	U+8DB3		
 08DBC	趼			[61140]	U+8DBC		
 08DBE	趾			[61110]	U+8DBE		
+08DC3	跃			[62184]	U+8DC3		
 08DC7	跇			[64117]	U+8DC7		
+08DCC	跌			[65180]	U+8DCC		
 08DD1	跑			[67112]	U+8DD1		
 08DD4	跔			[67120]	U+8DD4		
 08DD6	跖			[61162]	U+8DD6		
@@ -2935,6 +3221,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08DEB	跫			[17801]	U+8DEB		
 08DEF	路			[67164]	U+8DEF		
 08DF1	跱			[64141]	U+8DF1		
+08DF8	跸			[62141]	U+8DF8		
 08DFC	跼			[67127]	U+8DFC		
 08DFD	跽			[67131]	U+8DFD		
 08E06	踆			[63147]	U+8E06		
@@ -2947,6 +3234,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08E40	蹀			[64194]	U+8E40		
 08E47	蹇			[30801]	U+8E47		
 08E49	蹉			[68112]	U+8E49		
+08E55	蹕			[66154]	U+8E55		
 08E5C	蹜			[63162]	U+8E5C		
 08E60	蹠			[60137]	U+8E60		
 08E61	蹡			[67142]	U+8E61		
@@ -2954,8 +3242,16 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08E76	蹶			[61182]	U+8E76		
 08E77	蹷			[71281]	U+8E77		
 08E87	躇			[64164]	U+8E87		
+08E8D	躍			[67115]	U+8E8D		
+08E8F	躏			[64127]	U+8E8F		
+08E90	躐			[62112]	U+8E90		
 08E94	躔			[60114]	U+8E94		
+08E97	躗			[21801]	U+8E97		
+08E99	躙			[67120]	U+8E99		
+08E9B	躛			[21801]	U+8E9B		
 08E9E	躞			[69147]	U+8E9E		
+08EAA	躪			[64127]	U+8EAA		
+08EAB	身			[27400]	U+8EAB		
 08EAC	躬			[27227]	U+8EAC		
 08EB0	躰			[25230]	U+8EB0		
 08EB3-J	躳		⿰身呂	[26262]	U+8EB3	J	
@@ -2964,7 +3260,9 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08ECA	車			[50006]	U+8ECA		
 08ECC	軌			[54017]	U+8ECC		
 08ED1	軑			[54080]	U+8ED1		
+08ED2	軒			[51040]	U+8ED2		
 08EF8	軸			[55060]	U+8EF8		
+08EFC	軼			[55080]	U+8EFC		
 08F03	較			[50048]	U+8F03		
 08F05	輅			[57064]	U+8F05		
 08F07	輇			[58014]	U+8F07		
@@ -2973,12 +3271,15 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08F1E	輞			[57020]	U+8F1E		
 08F26	輦			[55506]	U+8F26		
 08F45	轅			[54032]	U+8F45		
+08F46	轆			[50012]	U+8F46		
 08F56	轖			[54061]	U+8F56		
 08F5E	轞			[58012]	U+8F5E		
 08F66	车			[40500]	U+8F66		
 08F68	轨			[44517]	U+8F68		
+08F69	轩			[41540]	U+8F69		
 08F6A	轪			[44580]	U+8F6A		
 08F74	轴			[45560]	U+8F74		
+08F76	轶			[45580]	U+8F76		
 08F7E	轾			[41514]	U+8F7E		
 08F80	辀			[47540]	U+8F80		
 08F81	辁			[48514]	U+8F81		
@@ -2987,6 +3288,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08F87	辇			[55504]	U+8F87		
 08F8B	辋			[47520]	U+8F8B		
 08F95	辕			[44532]	U+8F95		
+08F98	辘			[40512]	U+8F98		
 08F9C	辜			[40401]	U+8F9C		
 08FA2	辢			[50941]	U+8FA2		
 08FA3	辣			[05496]	U+8FA3		
@@ -3001,10 +3303,13 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 08FC8	迈			[31302]	U+8FC8		
 08FD5	迕			[38304]	U+8FD5		
 08FD6	迖			[33308]	U+8FD6		
+08FD9	这			[30304]	U+8FD9		
 08FDC	远			[31301]	U+8FDC		
 08FDE	连			[34305]	U+8FDE		
 08FEA	迪			[35306]	U+8FEA		
 08FEB	迫			[36300]	U+8FEB		
+08FED	迭			[35308]	U+8FED		
+08FF0	述			[33309]	U+8FF0		
 08FF4	迴			[36300]	U+8FF4		
 08FF5	迵			[37302]	U+8FF5		
 08FF7	迷			[39309]	U+8FF7		
@@ -3014,14 +3319,17 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09011	逑			[33309]	U+9011		
 09014	途			[38309]	U+9014		
 09016	逖			[39308]	U+9016		
+09019	這			[30306]	U+9019		
 0901A	通			[37302]	U+901A		
 0901B	逛			[31301]	U+901B		
+0901E	逞			[36301]	U+901E		
 09020	造			[34306]	U+9020		
 09021	逡			[33304]	U+9021		
 09023	連			[35300]	U+9023		
 09025	逥			[36300]	U+9025		
 09031	週			[37302]	U+9031		
 09035	逵			[34301]	U+9035		
+09042	遂			[38303]	U+9042		
 09049	遉			[31308]	U+9049		
 09051	遑			[36301]	U+9051		
 09053	道			[38306]	U+9053		
@@ -3032,10 +3340,13 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09075	遵			[38304]	U+9075		
 0907A	遺			[35308]	U+907A		
 09081	邁			[34302]	U+9081		
+09083	邃			[33303]	U+9083		
 09085	邅			[30301]	U+9085		
 0908A	邊			[36302]	U+908A		
+0908D	邍			[37309]	U+908D		
 09091	邑			[60717]	U+9091		
 09095	邕			[22717]	U+9095		
+09097	邗			[17427]	U+9097		
 09099	邙			[07727]	U+9099		
 0909B	邛			[17127]	U+909B		
 0909D	邝			[07227]	U+909D		
@@ -3056,6 +3367,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 090DB	郛			[27427]	U+90DB		
 090DD	郝			[47227]	U+90DD		
 090E1	郡			[17627]	U+90E1		
+090E2	郢			[67127]	U+90E2		
 090E7	郧			[67827]	U+90E7		
 090F2	郲			[47927]	U+90F2		
 090F4	郴			[47927]	U+90F4		
@@ -3063,6 +3375,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 090FD	都			[47627]	U+90FD		
 09116	鄖			[67827]	U+9116		
 09118	鄘			[07227]	U+9118		
+0911C	鄜			[07227]	U+911C		
 09134	鄴			[37927]	U+9134		
 0913A	鄺			[07227]	U+913A		
 0914A	酊			[11620]	U+914A		
@@ -3079,6 +3392,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0916C	酬			[12600]	U+916C		
 0916E	酮			[17620]	U+916E		
 09171	酱			[37604]	U+9171		
+09172	酲			[16614]	U+9172		
 09174	酴			[18694]	U+9174		
 09178	酸			[13647]	U+9178		
 09190	醐			[17620]	U+9190		
@@ -3100,6 +3414,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 091DD	針			[84100]	U+91DD		
 091E6	釦			[86100]	U+91E6		
 091E7	釧			[82100]	U+91E7		
+091EC	釬			[81140]	U+91EC		
 091ED	釭			[81112]	U+91ED		
 09203	鈃			[81140]	U+9203		
 09204	鈄			[84100]	U+9204		
@@ -3110,13 +3425,16 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09214	鈔			[89120]	U+9214		
 09237	鈷			[84160]	U+9237		
 0923F	鈿			[86100]	U+923F		
+09244	鉄			[85180]	U+9244		
 09245	鉅			[81117]	U+9245		
 09249	鉉			[80132]	U+9249		
 0924B	鉋			[87112]	U+924B		
 0925E	鉞			[83150]	U+925E		
 09262	鉢			[85130]	U+9262		
 09264	鉤			[87120]	U+9264		
+09265	鉥			[83194]	U+9265		
 09266	鉦			[81111]	U+9266		
+0926E	鉮			[85106]	U+926E		
 09271	鉱			[80132]	U+9271		
 09274	鉴			[28109]	U+9274		
 09276	鉶			[82100]	U+9276		
@@ -3133,6 +3451,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09296	銖			[85190]	U+9296		
 09297	銗			[82161]	U+9297		
 09298	銘			[87162]	U+9298		
+0929B	銛			[82164]	U+929B		
 0929C	銜			[21221]	U+929C		
 092B6	銶			[83199]	U+92B6		
 092B7	銷			[89127]	U+92B7		
@@ -3140,6 +3459,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 092C1-T	鋁		⿰金吕	[86160]	U+92C1	T	
 092C3	鋃			[83132]	U+92C3		
 092D9	鋙			[81161]	U+92D9		
+092E5	鋥			[86114]	U+92E5		
 092E9	鋩			[84110]	U+92E9		
 092F0	鋰			[86115]	U+92F0		
 092F8	鋸			[87164]	U+92F8		
@@ -3169,6 +3489,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09451	鑑			[88112]	U+9451		
 09452	鑒			[78109]	U+9452		
 0945B	鑛			[80186]	U+945B		
+0945E	鑞			[82112]	U+945E		
 09470	鑰			[88127]	U+9470		
 09488	针			[84700]	U+9488		
 09489	钉			[81720]	U+9489		
@@ -3209,6 +3530,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09500	销			[89727]	U+9500		
 09501	锁			[89782]	U+9501		
 09502	锂			[86715]	U+9502		
+09503	锃			[86714]	U+9503		
 09512	锒			[83732]	U+9512		
 09516	锖			[85727]	U+9516		
 0951F	锟			[86712]	U+951F		
@@ -3221,9 +3543,13 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09543	镃			[88732]	U+9543		
 0955B	镛			[80727]	U+955B		
 0956A	镪			[86736]	U+956A		
+09574	镴			[82712]	U+9574		
 09577	長			[71732]	U+9577		
 0957F	长			[42730]	U+957F		
+09580	門			[77001]	U+9580		
 09586	閆			[77101]	U+9586		
+09588	閈			[77401]	U+9588		
+09589	閉			[77241]	U+9589		
 0958B	開			[77441]	U+958B		
 0958F	閏			[77104]	U+958F		
 09591	閑			[77904]	U+9591		
@@ -3231,32 +3557,44 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09593	間			[77601]	U+9593		
 09594	閔			[77400]	U+9594		
 095A0	閠			[77103]	U+95A0		
+095A2	関			[77804]	U+95A2		
 095A3	閣			[77604]	U+95A3		
 095A4	閤			[77601]	U+95A4		
 095A7	閧			[77801]	U+95A7		
+095A9	閩			[77136]	U+95A9		
 095AB	閫			[77601]	U+95AB		
 095AC	閬			[77732]	U+95AC		
 095AD-J	閭		⿵門呂	[77602]	U+95AD	J	
 095AD-T	閭		⿵門吕	[77606]	U+95AD	T	
+095B5	閵			[77215]	U+95B5		
 095C7	闇			[77601]	U+95C7		
 095CD	闍			[77604]	U+95CD		
 095D5	闕			[77482]	U+95D5		
 095D8	闘			[77141]	U+95D8		
 095DA	闚			[77812]	U+95DA		
+095DC	關			[77772]	U+95DC		
 095E0	闠			[77806]	U+95E0		
+095E8	门			[37001]	U+95E8		
 095EB	闫			[37101]	U+95EB		
+095ED	闭			[37241]	U+95ED		
+095EE	问			[37601]	U+95EE		
 095F0	闰			[37104]	U+95F0		
 095F2	闲			[37904]	U+95F2		
 095F4	间			[37601]	U+95F4		
 095F5	闵			[37400]	U+95F5		
+095F7	闷			[37331]	U+95F7		
+095FB	闻			[37401]	U+95FB		
+095FD	闽			[37136]	U+95FD		
 095FE	闾			[37606]	U+95FE		
 09601	阁			[37604]	U+9601		
 09603	阃			[37601]	U+9603		
+09604	阄			[37716]	U+9604		
 09606	阆			[37732]	U+9606		
 09607	阇			[37604]	U+9607		
 09619	阙			[37482]	U+9619		
 0961C	阜			[27407]	U+961C		
 0961E	阞			[74227]	U+961E		
+0961F	队			[78200]	U+961F		
 09621	阡			[72240]	U+9621		
 09627	阧			[74200]	U+9627		
 09629	阩			[74200]	U+9629		
@@ -3265,9 +3603,11 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09633	阳			[76200]	U+9633		
 09634	阴			[77220]	U+9634		
 09646	陆			[75272]	U+9646		
+0964B	陋			[71212]	U+964B		
 0964C	陌			[71262]	U+964C		
 09657	陗			[79227]	U+9657		
 0965E	陞			[74214]	U+965E		
+0965F	陟			[71221]	U+965F		
 09661	陡			[74281]	U+9661		
 09664	除			[78294]	U+9664		
 09668	陨			[76282]	U+9668		
@@ -3278,11 +3618,17 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0967A	険			[78286]	U+967A		
 0967D	陽			[76227]	U+967D		
 09682	隂			[78232]	U+9682		
+0968A	隊			[78232]	U+968A		
 0968D	隍			[76214]	U+968D		
 09695	隕			[76286]	U+9695		
 09699	隙			[79296]	U+9699		
 096A4	隤			[75286]	U+96A4		
+096A7	隧			[78233]	U+96A7		
 096AA	險			[78286]	U+96AA		
+096B2	隲			[79227]	U+96B2		
+096B6	隶			[50909]	U+96B6		
+096B7	隷			[45999]	U+96B7		
+096B8	隸			[45999]	U+96B8		
 096BE	难			[70415]	U+96BE		
 096C0	雀			[90215]	U+96C0		
 096C7	雇			[30215]	U+96C7		
@@ -3300,6 +3646,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 096F2	雲			[10732]	U+96F2		
 096F3	雳			[10227]	U+96F3		
 096F9	雹			[10712]	U+96F9		
+096FB	電			[10716]	U+96FB		
 09702	霂			[10194]	U+9702		
 09704	霄			[10227]	U+9704		
 09716	霖			[10994]	U+9716		
@@ -3335,6 +3682,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 097C1	韁			[41516]	U+97C1		
 097D4	韔			[41532]	U+97D4		
 097D8	韘			[44594]	U+97D8		
+097E0	韠			[46554]	U+97E0		
 097F3	音			[00601]	U+97F3		
 097F5	韵			[07620]	U+97F5		
 097FB	韻			[06686]	U+97FB		
@@ -3344,6 +3692,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09803	頃			[21786]	U+9803		
 09805	項			[11186]	U+9805		
 09806	順			[21086]	U+9806		
+09807	頇			[11486]	U+9807		
 09808	須			[21286]	U+9808		
 0980A	頊			[11186]	U+980A		
 09810	預			[11286]	U+9810		
@@ -3360,12 +3709,14 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0983D	頽			[21286]	U+983D		
 0984D	額			[31686]	U+984D		
 09855	顕			[61186]	U+9855		
+09858	願			[71286]	U+9858		
 09867	顧			[31286]	U+9867		
 0986B	顫			[01186]	U+986B		
 0986F	顯			[61386]	U+986F		
 09875	页			[10802]	U+9875		
 09876	顶			[11282]	U+9876		
 09877	顷			[21782]	U+9877		
+09878	顸			[11482]	U+9878		
 09879	项			[11182]	U+9879		
 0987A	顺			[21082]	U+987A		
 0987B	须			[21282]	U+987B		
@@ -3390,6 +3741,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 098E3	飣			[81720]	U+98E3		
 098F2	飲			[87782]	U+98F2		
 098FD	飽			[87712]	U+98FD		
+09909	餉			[87720]	U+9909		
 0990C	餌			[81740]	U+990C		
 09913	餓			[83750]	U+9913		
 09915	餕			[83747]	U+9915		
@@ -3400,6 +3752,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09939	餹			[80765]	U+9939		
 0993B	餻			[88731]	U+993B		
 0993C	餼			[88717]	U+993C		
+09946	饆			[86754]	U+9946		
 0994A	饊			[88740]	U+994A		
 0994B	饋			[85786]	U+994B		
 09954	饔			[00732]	U+9954		
@@ -3411,6 +3764,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 0996E	饮			[27782]	U+996E		
 09971	饱			[27712]	U+9971		
 09975	饵			[21740]	U+9975		
+09977	饷			[27720]	U+9977		
 0997F	饿			[23750]	U+997F		
 09984	馄			[26712]	U+9984		
 09988	馈			[25782]	U+9988		
@@ -3418,6 +3772,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09996	首			[80602]	U+9996		
 09997	馗			[48016]	U+9997		
 09999	香			[20609]	U+9999		
+099A8	馨			[47609]	U+99A8		
 099AD	馭			[77340]	U+99AD		
 099B1	馱			[74380]	U+99B1		
 099B4	馴			[72300]	U+99B4		
@@ -3433,15 +3788,19 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 099FC	駼			[78394]	U+99FC		
 099FF	駿			[73347]	U+99FF		
 09A00	騀			[73350]	U+9A00		
+09A01	騁			[75327]	U+9A01		
 09A0A	騊			[77320]	U+9A0A		
 09A0B	騋			[74398]	U+9A0B		
 09A13	験			[78386]	U+9A13		
 09A2B	騫			[30327]	U+9A2B		
+09A2D	騭			[71327]	U+9A2D		
 09A30	騰			[79227]	U+9A30		
+09A35	騵			[71396]	U+9A35		
 09A41	驁			[48327, 58327]	U+9A41		
 09A4A	驊			[74354]	U+9A4A		
 09A57	驗			[78386]	U+9A57		
 09A5A	驚			[48327]	U+9A5A		
+09A65	驥			[72381]	U+9A65		
 09A66	驦			[71361]	U+9A66		
 09A6D	驭			[77140]	U+9A6D		
 09A6E	驮			[74180]	U+9A6E		
@@ -3453,11 +3812,15 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09A7D	驽			[47127]	U+9A7D		
 09A85	骅			[74141]	U+9A85		
 09A86	骆			[77164]	U+9A86		
+09A8B	骋			[75127]	U+9A8B		
 09A8C	验			[78119]	U+9A8C		
 09A8F	骏			[73147]	U+9A8F		
+09A98	骘			[71127]	U+9A98		
 09A9C	骜			[48127, 58127]	U+9A9C		
 09A9E	骞			[30127]	U+9A9E		
+09AA5	骥			[72181]	U+9AA5		
 09AA6	骦			[71161]	U+9AA6		
+09AAD	骭			[71240]	U+9AAD		
 09AB0	骰			[77247]	U+9AB0		
 09AB9	骹			[70248]	U+9AB9		
 09ABC	骼			[77264]	U+9ABC		
@@ -3469,10 +3832,12 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09AFB	髻			[72601]	U+9AFB		
 09B0D	鬍			[72627]	U+9B0D		
 09B1A	鬚			[72286]	U+9B1A		
+09B23	鬣			[72712]	U+9B23		
 09B25	鬥			[22001, 77001]	U+9B25		
 09B28	鬨			[22801]	U+9B28		
 09B2A	鬪			[22141, 77141]	U+9B2A		
 09B2D	鬭			[22121, 77121]	U+9B2D		
+09B2E	鬮			[77117]	U+9B2E		
 09B2F	鬯			[22712]	U+9B2F		
 09B31	鬱			[44722]	U+9B31		
 09B42	魂			[16713]	U+9B42		
@@ -3502,6 +3867,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09C0D	鰍			[29380]	U+9C0D		
 09C23	鰣			[24341]	U+9C23		
 09C27	鰧			[79236]	U+9C27		
+09C2C	鰬			[21340]	U+9C2C		
 09C31	鰱			[25330]	U+9C31		
 09C32	鰲			[48336, 58336]	U+9C32		
 09C39	鰹			[27314]	U+9C39		
@@ -3544,6 +3910,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09CE7	鳧			[27217]	U+9CE7		
 09CE9	鳩			[47027]	U+9CE9		
 09CEC	鳬			[27217]	U+9CEC		
+09CF4	鳴			[67027]	U+9CF4		
 09D07	鴇			[27427]	U+9D07		
 09D11	鴑			[47327]	U+9D11		
 09D1D	鴝			[27627]	U+9D1D		
@@ -3555,6 +3922,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09D3F	鴿			[87627]	U+9D3F		
 09D41	鵁			[07427]	U+9D41		
 09D42	鵂			[27227]	U+9D42		
+09D50	鵐			[17127]	U+9D50		
 09D5D	鵝			[27527]	U+9D5D		
 09D5E	鵞			[23327]	U+9D5E		
 09D70	鵰			[77227]	U+9D70		
@@ -3581,6 +3949,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09E07	鸇			[07127]	U+9E07		
 09E18	鸘			[17927]	U+9E18		
 09E20	鸠			[47027]	U+9E20		
+09E23	鸣			[67027]	U+9E23		
 09E28	鸨			[27427]	U+9E28		
 09E2A	鸪			[47627]	U+9E2A		
 09E2E	鸮			[67227]	U+9E2E		
@@ -3588,6 +3957,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09E3A	鸺			[27227]	U+9E3A		
 09E3D	鸽			[87627]	U+9E3D		
 09E3F	鸿			[37127]	U+9E3F		
+09E40	鹀			[17127]	U+9E40		
 09E45	鹅			[27527]	U+9E45		
 09E47	鹇			[37227]	U+9E47		
 09E4D	鹍			[67727]	U+9E4D		
@@ -3605,9 +3975,11 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09E7C	鹼			[28686]	U+9E7C		
 09E7D	鹽			[78102]	U+9E7D		
 09E7E	鹾			[28612]	U+9E7E		
+09E7F	鹿			[00212]	U+9E7F		
 09E80	麀			[00212]	U+9E80		
 09E8B	麋			[00294]	U+9E8B		
 09E8C	麌			[00284]	U+9E8C		
+09E93	麓			[44212]	U+9E93		
 09E96	麖			[00296]	U+9E96		
 09E9D	麝			[00241]	U+9E9D		
 09EA5	麥			[40407]	U+9EA5		
@@ -3631,7 +4003,9 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09EDC	黜			[62372]	U+9EDC		
 09EE0	黠			[64361]	U+9EE0		
 09EE5	黥			[60396]	U+9EE5		
+09EE9	黩			[64384]	U+9EE9		
 09EEF	黯			[60361]	U+9EEF		
+09EF7	黷			[64386]	U+9EF7		
 09F04	鼄			[25717]	U+9F04		
 09F07	鼇			[48717, 58717]	U+9F07		
 09F0E	鼎			[22227]	U+9F0E		
@@ -3644,6 +4018,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09F2C	鼬			[75760]	U+9F2C		
 09F2F	鼯			[71761]	U+9F2F		
 09F3B	鼻			[26221]	U+9F3B		
+09F3E	鼾			[21240]	U+9F3E		
 09F41	齁			[27220]	U+9F41		
 09F52	齒			[21772]	U+9F52		
 09F53	齓			[22710]	U+9F53		
@@ -3664,6 +4039,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 09F95	龕			[80211]	U+9F95		
 09F9A	龚			[43801]	U+9F9A		
 09F9B	龛			[80414]	U+9F9B		
+09F9C	龜			[27117]	U+9F9C		
+09F9F	龟			[27716]	U+9F9F		
 09FA0	龠			[80227]	U+9FA0		
 09FA5	龥			[81286]	U+9FA5		
 205E8	𠗨	⿰冫枼		[34194]	U+205E8		
@@ -3677,6 +4054,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 21A25	𡨥	⿱宀⿺元攵		[30214]	U+21A25		
 2231E	𢌞			[17420]	U+2231E		
 22488	𢒈	⿰井彡		[52022]	U+22488		
+226F3	𢛳			[40331]	U+226F3		
 2274A	𢝊	⿱頁心		[10338]	U+2274A		
 22D67	𢵧			[57020]	U+22D67		
 23154	𣅔	⿱日夨		[26804]	U+23154		
@@ -3699,6 +4077,7 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 2B5B3	𫖳			[11682]	U+2B5B3		
 2B5F4	𫗴			[20716]	U+2B5F4		
 2B626	𫘦			[77120]	U+2B626		
+2B62A	𫘪			[71196]	U+2B62A		
 2B7CF	𫟏			[44513]	U+2B7CF		
 2C02A	𬀪			[67012]	U+2C02A		
 2C1C7	𬇇	⿰叠毛		[12115, 12114, 72115, 72114]	U+2C1C7		
@@ -3710,6 +4089,8 @@ grien	dziw	dziw_qhanshiev	dziwxev	sikrok_xaumra	thovqitmra	pryentyov	tyoshiek
 2C62D	𬘭			[24190]	U+2C62D		
 2C64A	𬙊			[26114]	U+2C64A		
 2C6F8	𬛸	⿱臼工		[77102]	U+2C6F8		
+2CB38	𬬸			[83794]	U+2CB38		
+2CB39	𬬹			[85706]	U+2CB39		
 2CBCE	𬯎			[75282]	U+2CBCE		
 2CCFD	𬳽			[74112]	U+2CCFD		
 2CCFF	𬳿			[78194]	U+2CCFF		
