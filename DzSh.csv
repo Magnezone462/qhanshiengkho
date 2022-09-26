@@ -1,15 +1,22 @@
 grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiwtheidziw	thovjyov_kyebyam_zioxau	ziwvyan_jiepmra	qhanziwqhwi_bushyu	qhandziwqhwi_bushyuvuai	thongqitmra
 0342D	㐭					[]	[]	null	广	13	U+342D
+034B8	㒸					[]	[0]	0	null	null	U+34B8
+034F9	㓹					[]	[0]	0	null	null	U+34F9
+03537	㔷					[]	[0]	0	null	null	U+3537
 0355F	㕟					[]	[]	null	null	null	U+355F
 03561	㕡					[]	[]	null	null	null	U+3561
 03762	㝢					[]	[]	1152.3	宀	3	U+3762
+03775	㝵					[䙷]	[0]	0	彳	8	U+3775
 037B7	㞷					[]	[]	null	null	null	U+37B7
+038C7	㣇					[]	[0]	0	null	null	U+38C7
 0394F	㥏					[]	[]	1513.1	null	null	U+394F
 03951	㥑					[𢝊]	[]	1523.2	心	11	U+3951
+0395C	㥜					[]	[0]	1525.2	null	null	U+395C
 039C6	㧆					[]	[]	null	null	null	U+39C6
 03B87	㮇					[]	[]	2103.3	木	8	U+3B87
 03C8B	㲋					[]	[]	null	null	null	U+3C8B
 03D85	㶅					[]	[]	2519.1	null	null	U+3D85
+03D94	㶔					[]	[0]	2523.2	null	null	U+3D94
 03FDF	㿟					[]	[]	null	null	null	U+3FDF
 040D5	䃕					[]	[]	2985.1	null	null	U+40D5
 041DF	䇟					[]	[]	null	null	null	U+41DF
@@ -20,12 +27,14 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 048B5	䢵					[]	[]	4076.1	邑	10	U+48B5
 048BC	䢼					[]	[6657]	null	null	null	U+48BC
 04964	䥤					[]	[]	null	null	null	U+4964
+04BCE	䯎					[]	[0]	0	null	null	U+4BCE
 04C94	䲔					[]	[]	4637.1	null	null	U+4C94
 04D52	䵒					[]	[]	null	null	null	U+4D52
 04E00	一					[]	[1]	1.1	一	0	U+4E00
 04E01	丁					[]	[5]	20.2	一	1	U+4E01
 04E03	七					[]	[7]	24.2	一	1	U+4E03
 04E07	万					[]	[35]	80.3	一	2	U+4E07
+04E08	丈					[]	[33]	80.1	一	2	U+4E08
 04E09	三					[]	[22]	30.1	一	2	U+4E09
 04E0A	上					[]	[36]	68.2	一	2	U+4E0A
 04E0B	下					[]	[30]	62.1	一	2	U+4E0B
@@ -38,6 +47,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 04E2A	个					[]	[45]	105.2	丨	2	U+4E2A
 04E2B	丫					[]	[56]	105.1	丨	2	U+4E2B
 04E2D	中					[]	[113]	105.3	丨	3	U+4E2D
+04E31	丱					[]	[0]	118.1	丨	4	U+4E31
 04E32	串					[]	[736]	118.1	丨	6	U+4E32
 04E39	丹					[]	[155]	119.3	丶	3	U+4E39
 04E3C	丼					[]	[]	null	丶	4	U+4E3C
@@ -58,6 +68,8 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 04EA1	亡					[]	[54]	197.1	亠	1	U+4EA1
 04EA4	交					[]	[519]	199.3	亠	4	U+4EA4
 04EA6	亦					[]	[516]	204.1	亠	4	U+4EA6
+04EA8	亨					[]	[3755]	204.3	亠	5	U+4EA8
+04EAB	享					[亯]	[1206]	207.2	亠	6	U+4EAB
 04EAC	京					[亰]	[1205]	205.1	亠	6	U+4EAC
 04EAD	亭					[]	[1620]	210.1	亠	7	U+4EAD
 04EAE	亮					[]	[1621]	211.2	亠	7	U+4EAE
@@ -71,6 +83,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 04ECA	今					[]	[144]	217.3	人	2	U+4ECA
 04ECB	介					[]	[140]	221.1	人	2	U+4ECB
 04ED4	仔					[]	[276]	234.1	人	3	U+4ED4
+04ED7	仗					[]	[270]	229.1	人	3	U+4ED7
 04ED9	仙					[]	[272]	230.3	人	3	U+4ED9
 04EDD	仝		同			[]	[427, 6513]	228.2	口	3	U+4EDD
 04EDF	仟					[]	[3543]	233.3	人	3	U+4EDF
@@ -91,6 +104,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 04F30	估					[]	[769]	251.1	人	5	U+4F30
 04F34	伴					[]	[785]	249.2	人	5	U+4F34
 04F37	伷					[]	[]	255.1	肉	5	U+4F37
+04F38	伸					[]	[775]	254.3	人	5	U+4F38
 04F43	佃					[]	[776]	255.1	人	5	U+4F43
 04F46	但					[]	[774]	254.2	人	5	U+4F46
 04F4D	位					[]	[784]	249.1	人	5	U+4F4D
@@ -99,6 +113,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 04F53	体					[]	[770]	251.2	人	5	U+4F53
 04F58	佘					[余]	[3737]	249.3	人	5	U+4F58
 04F59	余					[]	[795]	250.1	人	5	U+4F59
+04F5A	佚					[]	[3731]	255.3	人	5	U+4F5A
 04F5D	佝					[]	[3732]	262.2	人	5	U+4F5D
 04F5E	佞					[]	[3728]	250.2	人	5	U+4F5E
 04F5F	佟					[]	[3733]	261.3	人	5	U+4F5F
@@ -131,6 +146,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 04FD4	俔			伣		[]	[6538]	291.1	人	7	U+4FD4
 04FD8	俘					[]	[1569]	294.2	人	7	U+4FD8
 04FDA	俚					[]	[4264]	291.1	人	7	U+4FDA
+04FDC	俜					[]	[6856]	293.3	null	null	U+4FDC
 04FDD	保					[]	[1562]	291.2	人	7	U+4FDD
 04FE1	信					[]	[1570]	282.1	人	7	U+4FE1
 04FE3	俣					[俁]	[4263]	294.2	人	7	U+4FE3
@@ -143,6 +159,8 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05025	倥					[]	[4577]	301.1	人	8	U+5025
 05028	倨					[]	[4581]	315.3	人	8	U+5028
 05029	倩					[]	[4562]	304.2	人	8	U+5029
+0503C	值				値	[]	[1956]	306.3	人	8	U+503C
+05041	偁					[]	[7197]	324.1	人	9	U+5041
 0504A	偊					[]	[]	325.1	null	null	U+504A
 0505C	停					[]	[2333]	316.2	人	9	U+505C
 0506D	偭					[]	[7195]	321.1	null	null	U+506D
@@ -184,26 +202,31 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05177	具					[]	[1077]	425.2	八	6	U+5177
 05178	典					[]	[1092]	426.3	八	6	U+5178
 05179	兹					[茲]	[1653]	3500.3	艸	6	U+5179
+05180	冀					[兾]	[3340]	430.2	八	14	U+5180
 05185	内					[內]	[116]	384.2	冂	2	U+5185
 0518D	再					[]	[382]	431.3	冂	4	U+518D
 051AC	冬					[]	[295]	438.1	夂	2	U+51AC
 051B2	冲				沖	[]	[511]	2306.3	水	4	U+51B2
 051B5	况				況	[]	[830]	2337.1	水	5	U+51B5
+051B6	冶					[]	[843]	443.1	冫	5	U+51B6
 051BC	冼					[]	[3995]	444.1	冫	6	U+51BC
 051BD	冽					[]	[3994]	443.3	冫	6	U+51BD
 051C0	净					[凈]	[1221]	null	水	6	U+51C0
 051C9	凉				涼	[]	[2040]	2398.2	水	8	U+51C9
 051CA	凊					[]	[]	444.1	冫	8	U+51CA
 051CB	凋					[]	[4623]	446.1	冫	8	U+51CB
+051D3	凓					[]	[7412]	446.2	冫	10	U+51D3
 051DB	凛					[凜]	[3284]	446.3	冫	13	U+51DB
 051E7	凧					[]	[]	null	几	3	U+51E7
 051EA	凪					[]	[]	null	几	4	U+51EA
 051F0	凰					[]	[2368]	448.3	几	9	U+51F0
 051F6	凶					[]	[145]	449.1	凵	2	U+51F6
 051F7	凷					[]	[]	450.3	null	null	U+51F7
+051F8	凸					[]	[229]	117.3	凵	3	U+51F8
 051FA	出					[]	[330]	450.3	凵	3	U+51FA
 05205	刅					[]	[]	456.3	刀	10	U+5205
 05207	切					[]	[107]	456.3	刀	2	U+5207
+0520A	刊					[]	[191]	462.2	刀	3	U+520A
 0520E	刎					[]	[3616]	466.2	刀	4	U+520E
 05211	刑					[㓝, 𠛬]	[351]	463.1	刀	4	U+5211
 05216	刖					[]	[3613]	466.1	刀	4	U+5216
@@ -255,6 +278,8 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05321	匡					[]	[3563]	536.1	匚	4	U+5321
 0532D	匭			匦		[]	[3835]	538.1	null	null	U+532D
 05331	匱			匮		[]	[4782]	538.2	匚	12	U+5331
+05335	匵					[]	[0]	538.3	匚	15	U+5335
+05339	匹					[]	[99]	539.1	匚	2	U+5339
 05341	十					[]	[4]	542.1	十	0	U+5341
 05343	千					[]	[41]	553.1	十	1	U+5343
 05347	升					[]	[125]	560.1	十	2	U+5347
@@ -263,9 +288,12 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0534A	半					[]	[307]	562.1	十	3	U+534A
 05357	南					[]	[1422]	572.3	十	7	U+5357
 05370	印					[]	[285]	593.3	卩	4	U+5370
+05375	卵					[]	[818]	597.1	卩	5	U+5375
 05378	卸					[]	[1536]	600.1	卩	7	U+5378
 05398	厘					[]	[1448]	603.2	厂	7	U+5398
 05399	厙			厍		[]	[3586]	603.1	null	null	U+5399
+0539A	厚					[]	[1449]	603.2	厂	7	U+539A
+0539F	原					[]	[1868]	604.2	厂	8	U+539F
 053A2	厢					[廂]	[2238]	1355.2	广	9	U+53A2
 053A4	厤		曆	历		[]	[95]	606.1	厂	10	U+53A4
 053A5	厥					[]	[5112]	605.2	厂	10	U+53A5
@@ -296,6 +324,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0540D	名					[]	[505]	666.1	口	3	U+540D
 0540E	后					[]	[482]	665.2	口	3	U+540E
 05410	吐					[]	[421]	653.2	口	3	U+5410
+05411	向					[]	[480]	664.2	口	3	U+5411
 05415	吕				呂	[]	[426]	679.1	口	4	U+5415
 0541B	君					[]	[899]	683.1	口	4	U+541B
 0541D	吝					[悋]	[835]	670.2	口	4	U+541D
@@ -311,14 +340,17 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0543C	吼					[]	[749]	689.3	口	4	U+543C
 0543E	吾					[]	[695]	672.2	口	4	U+543E
 05446	呆					[]	[722]	672.1	口	4	U+5446
+05448	呈					[]	[716]	670.3	口	4	U+5448
 05450	呐					[㕯, 吶]	[738]	674.3	口	4	U+5450
 0545F	呟					[]	[]	689.3	口	5	U+545F
 05468	周					[]	[1192]	698.2	口	5	U+5468
 0546C	呬					[]	[]	692.2	口	5	U+546C
 05474	呴					[]	[]	703.2	口	5	U+5474
+0547B	呻					[]	[1095]	691.3	口	5	U+547B
 05484	咄					[]	[1103]	704.1	口	5	U+5484
 05486	咆					[]	[3917]	703.3	口	5	U+5486
 0548E	咎					[]	[3989]	698.1	口	5	U+548E
+0548F	咏					[]	[1101]	689.3	言	5	U+548F
 054AC	咬					[]	[1512]	704.3	口	6	U+54AC
 054AE	咮					[]	[]	711.1	口	6	U+54AE
 054B2	咲		笑			[㗛]	[1952]	707.1	口	6	U+54B2
@@ -329,9 +361,11 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 054C4	哄					[]	[1483]	707.2	口	6	U+54C4
 054C8	哈					[]	[1510]	710.3	口	6	U+54C8
 054E1	員			员		[貟]	[737]	718.3	口	7	U+54E1
+054E2	哢					[]	[6982]	716.2	口	7	U+54E2
 054E6	哦					[]	[1908]	720.1	口	7	U+54E6
 054E8	哨					[]	[1904]	718.1	口	7	U+54E8
 054E9	哩					[]	[1905]	719.2	口	7	U+54E9
+05501	唁					[]	[1912]	712.2	口	7	U+5501
 05504	唄			呗		[]	[3708]	718.2	口	7	U+5504
 05506	唆					[]	[1917]	720.2	口	7	U+5506
 05508	唈					[]	[]	719.3	null	null	U+5508
@@ -342,12 +376,14 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05541	啁					[]	[4842]	730.3	口	8	U+5541
 05546	商					[]	[2391]	721.1	口	8	U+5546
 0554E	啎		忤			[]	[3786]	729.2	null	null	U+554E
+0554F	問			问		[]	[528]	726.3	口	8	U+554F
 05555	啕					[]	[4843]	731.1	null	null	U+5555
 0557E	啾					[]	[5154]	744.1	口	9	U+557E
 05580	喀					[]	[5160]	732.1	口	9	U+5580
 05583	喃					[]	[5130]	738.2	口	9	U+5583
 0558B	喋					[]	[5128]	738.2	口	9	U+558B
 05591	喑					[]	[5156]	732.2	口	9	U+5591
+0559F	喟					[]	[5153]	740.3	口	9	U+559F
 055A4	喤					[]	[7358]	745.2	口	9	U+55A4
 055A6	喦					[]	[]	743.2	null	null	U+55A6
 055C7	嗇			啬		[]	[4780]	748.1	口	10	U+55C7
@@ -405,11 +441,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 057A2	垢					[]	[1384]	836.1	土	6	U+57A2
 057A4	垤					[]	[4098]	835.3	土	6	U+57A4
 057BB	垻			坝		[]	[629]	837.2	null	null	U+57BB
+057BE	垾					[]	[6943]	0	null	null	U+57BE
 057C7	埇					[]	[6948]	839.1	土	7	U+57C7
 057CB	埋					[]	[1794]	837.2	土	7	U+57CB
 057CE	城					[]	[1373]	833.2	土	6	U+57CE
 057DC	埜		野			[]	[2265]	844.2	里	4	U+57DC
 057E7	埧					[]	[]	848.3	null	null	U+57E7
+057F4	埴					[]	[4717]	844.2	土	8	U+57F4
 057F6	埶					[]	[]	849.1	土	8	U+57F6
 05800	堀					[]	[]	851.2	土	8	U+5800
 05805	堅			坚		[]	[712]	844.3	土	9	U+5805
@@ -428,6 +466,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05875	塵			尘		[]	[414]	863.3	土	11	U+5875
 05885	墅					[]	[3102]	868.2	土	11	U+5885
 05889	墉					[]	[5639]	863.3	土	11	U+5889
+0589C	墜			坠		[]	[917]	875.1	土	12	U+589C
 058A8	墨					[]	[3255]	870.3	土	11	U+58A8
 058AB	墫					[壿]	[]	869.2	木	12	U+58AB
 058AD	墭					[]	[]	null	null	null	U+58AD
@@ -455,16 +494,20 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05928	夨					[]	[]	null	null	null	U+5928
 05929	天					[]	[78]	948.1	大	1	U+5929
 0592A	太					[]	[93]	937.2	大	1	U+592A
+05931	失					[]	[265]	972.2	大	2	U+5931
 05955	奕					[]	[4306]	987.1	大	6	U+5955
 05958	奘					[]	[4683]	991.1	大	7	U+5958
 05961	奡					[]	[7338]	991.3	大	9	U+5961
 05962	奢					[]	[2242]	991.1	大	9	U+5962
 05969	奩			奁		[匳]	[3687]	992.3	匚	13	U+5969
+0596A	奪			夺		[]	[396]	993.1	大	11	U+596A
 0596C	奬			奖	奨	[獎, 㢡]	[1618]	994.1	大	10	U+596C
 0596D	奭					[]	[5858]	994.2	大	12	U+596D
 0596E	奮			奋		[]	[1051]	994.2	大	13	U+596E
+05970	奰					[]	[0]	995.2	null	null	U+5970
 05973	女					[]	[67]	995.1	女	0	U+5973
 05974	奴					[]	[333]	1000.2	女	2	U+5974
+05978	奸					[]	[577]	1001.3	女	3	U+5978
 0597D	好					[]	[581]	1004.2	女	3	U+597D
 05982	如					[]	[578]	1002.1	女	3	U+5982
 05983	妃					[]	[580]	1004.1	女	3	U+5983
@@ -484,9 +527,11 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 059E3	姣					[]	[4386]	1019.2	女	6	U+59E3
 059E4	姤					[]	[6913]	1025.3	女	6	U+59E4
 059E5	姥					[]	[1736]	1020.3	女	6	U+59E5
+059E6	姦		奸			[]	[577]	1026.1	女	6	U+59E6
 059EA	姪		侄			[]	[1144]	1023.1	女	6	U+59EA
 059F6	姶					[]	[6914]	1024.1	女	6	U+59F6
 05A01	威					[]	[1444]	1021.1	女	6	U+5A01
+05A09	娉					[]	[4690]	1028.1	女	7	U+5A09
 05A0C	娌					[]	[4689]	1028.1	女	7	U+5A0C
 05A18	娘					[]	[2144]	1027.1	女	7	U+5A18
 05A25	娥					[]	[2143]	1028.2	女	7	U+5A25
@@ -499,6 +544,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05A9F	媟					[]	[]	1036.1	女	9	U+5A9F
 05AB5	媵					[]	[5523]	1040.1	女	10	U+5AB5
 05AB8	媸					[]	[5609]	1040.3	null	null	U+5AB8
+05AC4	嫄					[]	[7612]	1039.3	女	10	U+5AC4
 05AE0	嫠					[]	[5627]	1041.1	女	11	U+5AE0
 05AFA	嫺		嫻	娴		[𡢃]	[4693]	1043.2	女	12	U+5AFA
 05AFB	嫻			娴		[]	[4693]	1043.2	女	12	U+5AFB
@@ -506,11 +552,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05B03	嬃			媭		[]	[5218]	1044.3	null	null	U+5B03
 05B17	嬗					[]	[6190]	1044.3	女	13	U+5B17
 05B19	嬙			嫱		[]	[5831]	1045.2	女	13	U+5B19
+05B25	嬥					[]	[7978]	1047.1	女	14	U+5B25
 05B34	嬴					[]	[6164]	1044.3	女	14	U+5B34
 05B38	嬸			婶		[]	[2482]	1047.1	null	null	U+5B38
 05B3E	嬾		懶	懒		[]	[3380]	1047.2	女	16	U+5B3E
 05B40	孀					[]	[6446]	1047.3	女	17	U+5B40
 05B50	子					[]	[64]	1049.1	子	0	U+5B50
+05B51	孑					[]	[3505]	1054.2	子	0	U+5B51
 05B54	孔					[]	[179]	1054.3	子	1	U+5B54
 05B55	孕					[]	[338]	1058.2	子	2	U+5B55
 05B57	字					[]	[thovjyov_kyebyam_zioxau]	1058.3	子	3	U+5B57
@@ -539,6 +587,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05BBF	宿					[]	[2455]	1144.1	宀	8	U+5BBF
 05BC7	寇					[𡨥]	[2451]	1140.3	宀	8	U+5BC7
 05BD2	寒					[]	[2780]	1146.3	宀	9	U+5BD2
+05BE1	寡					[]	[3173]	1155.2	宀	11	U+5BE1
 05BE4	寤					[]	[5816]	1157.3	宀	11	U+5BE4
 05BE6	實			实	実	[]	[1285]	1159.1	宀	5	U+5BE6
 05BE9	審			审		[]	[1279]	1161.2	宀	12	U+5BE9
@@ -565,7 +614,9 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05C45	居					[]	[1308]	1219.2	尸	5	U+5C45
 05C48	屈					[]	[1311]	1221.2	尸	5	U+5C48
 05C4A	届					[屆]	[1219.1]	1221.2	尸	5	U+5C4A
+05C5A	屚					[]	[0]	0	水	11	U+5C5A
 05C60	屠					[]	[2472]	1228.2	尸	9	U+5C60
+05C65	履					[]	[3312]	1230.3	尸	12	U+5C65
 05C67	屧					[屟]	[]	1230.3	尸	12	U+5C67
 05C6E	屮					[]	[]	1234.1	屮	0	U+5C6E
 05C71	山					[]	[39]	1236.1	山	0	U+5C71
@@ -581,6 +632,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05CA9	岩					[]	[1106]	1248.3	山	5	U+5CA9
 05CAB	岫					[]	[3926]	1249.1	山	5	U+5CAB
 05CB5	岵					[]	[6681]	1248.2	山	5	U+5CB5
+05CB8	岸					[]	[1105]	1248.2	山	5	U+5CB8
 05CC9	峉					[]	[]	1252.1	山	6	U+5CC9
 05CD2	峒					[]	[4234]	1252.1	山	6	U+5CD2
 05CD9	峙					[]	[4230]	1251.3	山	6	U+5CD9
@@ -618,10 +670,12 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05DDE	州					[]	[535]	1277.1	巛	3	U+5DDE
 05DDF	巟					[]	[]	1278.1	null	null	U+5DDF
 05DE1	巡					[廵]	[598]	1278.1	巛	3	U+5DE1
+05DE4	巤					[]	[0]	1280.3	巛	12	U+5DE4
 05DE5	工					[]	[26]	1280.1	工	0	U+5DE5
 05DE6	左					[]	[214]	1282.1	工	2	U+5DE6
 05DE8	巨					[]	[101]	534.1	丨	4	U+5DE8
 05DE9	巩					[]	[361]	null	工	3	U+5DE9
+05DEB	巫					[]	[686]	1290.2	工	4	U+5DEB
 05DEE	差					[]	[1640]	1291.3	工	7	U+5DEE
 05DF1	己					[]	[60]	1293.1	己	0	U+5DF1
 05DF7	巷					[]	[1406]	1296.2	己	6	U+5DF7
@@ -630,6 +684,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05E11	帑					[]	[4067]	1307.3	巾	5	U+5E11
 05E15	帕					[帞]	[1110]	1307.1	巾	5	U+5E15
 05E18	帘					[]	[1283]	1305.3	巾	5	U+5E18
+05E19	帙					[]	[3927]	1306.3	巾	5	U+5E19
 05E1A	帚					[]	[1306]	1307.3	巾	5	U+5E1A
 05E1B	帛					[]	[3967]	1307.1	巾	5	U+5E1B
 05E1F	帟					[]	[]	1310.1	巾	6	U+5E1F
@@ -638,7 +693,9 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05E2D	席					[]	[2023]	1310.3	巾	7	U+5E2D
 05E33	帳			帐		[]	[755]	1314.2	巾	8	U+5E33
 05E4C	幌					[]	[2935]	1321.1	巾	10	U+5E4C
+05E72	干					[]	[23]	1325.1	干	0	U+5E72
 05E74	年					[秊]	[444]	127.3	干	3	U+5E74
+05E79	幹			干		[]	[23]	1336.1	干	10	U+5E79
 05E7B	幻					[]	[189]	1337.1	幺	1	U+5E7B
 05E81	庁					[]	[]	null	广	2	U+5E81
 05E84	庄					[㽵]	[514]	1341.2	广	3	U+5E84
@@ -661,11 +718,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05EE7	廧					[]	[]	1369.3	null	null	U+5EE7
 05EEA	廪					[廩]	[6155]	1369.1	广	13	U+5EEA
 05EF1	廱					[]	[]	1371.2	广	18	U+5EF1
+05EF4	廴					[]	[0]	1371.1	廴	0	U+5EF4
 05EFB	廻		迴	回		[廽, 𢌞]	[438]	1374.3	廴	6	U+5EFB
 05EFE	廾					[]	[]	1378.1	廾	0	U+5EFE
 05EFF	廿					[卄]	[3510]	1378.1	廾	1	U+5EFF
 05F00	开					[幵]	[76]	1335.2	干	3	U+5F00
 05F03	弃					[]	[842]	1379.2	木	9	U+5F03
+05F04	弄					[]	[600]	1379.3	廾	4	U+5F04
 05F08	弈					[]	[4305]	1381.1	廾	6	U+5F08
 05F0C	弌					[]	[]	null	一	0	U+5F0C
 05F0D	弍					[]	[]	null	二	0	U+5F0D
@@ -679,6 +738,10 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05F3A	强				強	[]	[2802]	1407.1	弓	8	U+5F3A
 05F49	彉					[彍]	[]	1411.2	弓	12	U+5F49
 05F4A	彊		强			[]	[2802]	1409.1	弓	13	U+5F4A
+05F50	彐					[彑]	[0]	1411.1	彐	3	U+5F50
+05F58	彘					[]	[5331]	1412.1	彐	9	U+5F58
+05F59	彙			汇		[彚]	[309]	1412.1	彐	10	U+5F59
+05F5D	彝					[]	[6364]	1412.2	彐	15	U+5F5D
 05F61	彡					[]	[]	1413.1	彡	0	U+5F61
 05F62	形					[𢒈]	[604]	1413.1	彡	4	U+5F62
 05F64	彤					[]	[817]	1415.1	彡	4	U+5F64
@@ -692,11 +755,14 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05F85	待					[]	[1580]	1424.3	彳	6	U+5F85
 05F8A	徊					[]	[1581]	1424.2	彳	6	U+5F8A
 05F8B	律					[]	[1583]	1425.3	彳	6	U+5F8B
+05F8C	後			后		[]	[482]	1427.1	彳	6	U+5F8C
 05F90	徐					[]	[1976]	1431.3	彳	7	U+5F90
 05F92	徒					[]	[1975]	1429.3	彳	7	U+5F92
+05F97	得					[]	[2341]	1435.3	彳	8	U+5F97
 05FA0	徠			徕		[]	[4584]	1435.1	彳	8	U+5FA0
 05FA1	御					[]	[2704]	1441.2	彳	9	U+5FA1
 05FA8	徨					[]	[5217]	1445.2	彳	9	U+5FA8
+05FB7	德				徳	[]	[3272]	1449.1	彳	11	U+5FB7
 05FCC	忌					[]	[910]	1463.2	心	3	U+5FCC
 05FD4	忔					[忾]	[]	1463.1	心	3	U+5FD4
 05FD6	忖					[]	[3629]	1461.3	心	3	U+5FD6
@@ -720,6 +786,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0602A	怪					[恠]	[1271]	1481.1	心	5	U+602A
 0602C	怬					[]	[]	1465.3	null	null	U+602C
 06033	怳		恍			[]	[1687]	1475.2	心	5	U+6033
+06035	怵					[]	[4026]	1472.2	心	5	U+6035
 06043	恃					[]	[1684]	1485.1	心	6	U+6043
 06047	恇					[]	[]	1484.3	心	6	U+6047
 0604D	恍					[]	[1687]	1488.1	心	6	U+604D
@@ -730,11 +797,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06062	恢					[]	[1686]	1487.2	心	6	U+6062
 0606A	恪					[]	[4356]	1493.2	心	6	U+606A
 0606B	恫					[]	[4352]	1488.2	心	6	U+606B
+0606C	恬					[]	[1688]	1490.3	心	6	U+606C
 0606D	恭					[]	[1820]	1485.3	心	6	U+606D
 06070	恰					[]	[1690]	1490.2	心	6	U+6070
 0607F	恿					[]	[5025]	1499.3	力	7	U+607F
 06083	悃					[]	[7068]	1496.3	心	7	U+6083
 06084	悄					[]	[2092]	1496.2	心	7	U+6084
+0608D	悍					[]	[2093]	1496.2	心	7	U+608D
 06092	悒					[]	[4662]	1497.3	心	7	U+6092
 0609B	悛					[]	[4664]	1499.3	心	7	U+609B
 0609D	悝					[]	[4661]	1496.3	心	7	U+609D
@@ -743,14 +812,17 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 060A3	患					[]	[2285]	1497.2	心	7	U+60A3
 060AE	悮					[悞]	[]	1497.3	心	7	U+60AE
 060B5	悵			怅		[]	[3788]	1504.2	心	8	U+60B5
+060B6	悶			闷		[]	[848]	1512.2	心	8	U+60B6
 060B8	悸					[]	[4988]	1513.2	心	8	U+60B8
 060BE	悾					[]	[]	1500.2	心	8	U+60BE
 060C5	情					[]	[2438]	1501.2	心	8	U+60C5
+060C6	惆					[]	[4989]	1514.1	心	8	U+60C6
 060C6	惆					[]	[4989]	1514.1	心	8	U+60C6
 060CF	惏		婪			[]	[2222]	1507.3	null	null	U+60CF
 060D8	惘					[]	[4987]	1512.2	心	8	U+60D8
 060DA	惚					[]	[4990]	1514.2	心	8	U+60DA
 060E7	惧					[]	[2442]	null	心	8	U+60E7
+060EA	惪		德			[悳, 𢛳]	[3272]	1507.3	彳	11	U+60EA
 060F3	想					[]	[2867]	1521.1	心	9	U+60F3
 060F5	惵					[]	[]	1520.3	心	9	U+60F5
 060F6	惶					[]	[2775]	1528.3	心	9	U+60F6
@@ -761,7 +833,9 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06114	愔					[]	[5300]	1514.3	null	null	U+6114
 0613A	愺					[]	[]	1531.2	心	9	U+613A
 0613E	愾			忾		[]	[3787]	1533.2	心	10	U+613E
+0613F	愿					[]	[3094]	1532.1	心	10	U+613F
 06142	慂		恿			[]	[5025]	1530.2	心	10	U+6142
+06144	慄		栗			[]	[1855]	1532.1	心	10	U+6144
 06148	慈					[]	[3002]	1517.3	心	9	U+6148
 0614C	慌					[]	[2771]	1531.1	心	9	U+614C
 06163	慣			惯		[]	[2450]	1545.3	心	11	U+6163
@@ -779,6 +853,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 061DF	懟			怼		[]	[4389]	1557.2	心	14	U+61DF
 061F6	懶			懒		[]	[3380]	1561.3	心	16	U+61F6
 06209	戉					[]	[]	1569.1	戈	1	U+6209
+0620C	戌					[]	[387]	1571.1	戈	2	U+620C
 06210	成					[]	[401]	1571.1	戈	2	U+6210
 06211	我					[]	[761]	1576.2	戈	3	U+6211
 06212	戒					[]	[606]	1575.1	戈	3	U+6212
@@ -796,6 +871,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06252	扒					[]	[201]	1603.1	手	2	U+6252
 06253	打					[]	[196]	1598.2	手	2	U+6253
 0625B	扛					[]	[354]	1604.1	手	3	U+625B
+0625E	扞		捍			[]	[1792, 6522]	1603.2	手	3	U+625E
 06262	扢					[㧉]	[]	1605.1	null	null	U+6262
 06263	扣					[]	[357]	1604.1	手	3	U+6263
 0626F	扯					[]	[624]	1612.2	手	4	U+626F
@@ -808,6 +884,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06296	抖					[]	[648]	1606.1	手	4	U+6296
 062B1	抱					[]	[978]	1637.1	手	5	U+62B1
 062B4	抴					[]	[]	1627.2	null	null	U+62B4
+062B6	抶					[]	[0]	1633.1	手	5	U+62B6
 062BD	抽					[]	[966]	1631.3	手	5	U+62BD
 062C5	担					[]	[963]	1631.1	手	5	U+62C5
 062C9	拉					[]	[981]	1623.3	手	5	U+62C9
@@ -835,10 +912,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06344	捄		救			[]	[2232]	1659.2	手	7	U+6344
 06345	捅					[]	[1813]	null	null	null	U+6345
 06349	捉					[]	[1795]	1663.2	手	7	U+6349
+0634D	捍					[]	[1792]	1662.3	手	7	U+634D
 0634E	捎					[]	[1791]	1662.2	手	7	U+634E
 0634F	捏					[揑]	[1793]	1663.1	手	7	U+634F
+06357	捗					[]	[0]	0	手	7	U+6357
 06366	捦					[]	[]	1686.2	null	null	U+6366
 06368	捨			舍		[]	[1165]	1686.2	手	8	U+6368
+0636B	捫			扪		[]	[3575]	1683.2	手	8	U+636B
 0636E	据					[]	[2189]	1692.3	手	8	U+636E
 0637B	捻					[]	[2178]	1685.3	手	8	U+637B
 06388	授					[]	[2177]	1684.1	手	8	U+6388
@@ -868,11 +948,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0649D	撝			㧑		[]	[6567]	1727.2	手	12	U+649D
 064A6	撦		扯			[]	[624]	1719.2	null	null	U+64A6
 064BF	撿			捡		[]	[1804]	1736.2	手	13	U+64BF
+064C0	擀					[]	[6039]	1733.1	手	3	U+64C0
 064C1	擁			拥		[]	[974]	1732.1	水	13	U+64C1
 064C5	擅					[]	[3318]	1731.2	手	13	U+64C5
 064CE	擎					[]	[3324]	1733.1	手	12	U+64CE
 064D2	擒					[]	[3200]	1727.1	手	13	U+64D2
 064E1	擡					[]	[]	1739.1	手	14	U+64E1
+064E2	擢					[]	[6204]	1740.2	手	14	U+64E2
 064F4	擴			扩	拡	[]	[364]	1740.3	手	5	U+64F4
 064F7	擷			撷		[]	[5861]	1741.3	手	15	U+64F7
 064FE	擾			扰		[]	[618]	1742.3	手	15	U+64FE
@@ -912,6 +994,8 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 065E6	旦					[]	[235]	1843.2	日	1	U+65E6
 065E9	早					[]	[419]	1844.2	日	2	U+65E9
 065ED	旭					[]	[502]	1846.1	日	2	U+65ED
+065F0	旰					[]	[3697]	1847.1	日	3	U+65F0
+065F1	旱					[]	[714]	1847.2	日	3	U+65F1
 065FA	旺					[]	[1076]	1848.3	日	4	U+65FA
 065FB	旻					[]	[3905]	1848.2	日	4	U+65FB
 065FC	旼					[]	[]	1848.2	日	4	U+65FC
@@ -925,6 +1009,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0661F	星					[]	[1488]	1874.3	日	5	U+661F
 0662B	昫					[]	[6829]	1879.1	日	5	U+662B
 06631	昱					[]	[4200]	1867.2	日	5	U+6631
+06633	昳					[]	[6825]	1878.3	日	5	U+6633
 06642	時			时		[]	[717]	1883.2	日	6	U+6642
 06643	晃					[晄]	[1893]	1890.2	日	6	U+6643
 06648	晈					[]	[]	1883.1	白	6	U+6648
@@ -949,6 +1034,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 066C6	曆			历	暦	[]	[95]	1913.3	日	10	U+66C6
 066C7	曇			昙		[]	[3898]	1912.2	日	12	U+66C7
 066D9	曙					[]	[3407]	1915.1	日	13	U+66D9
+066DC	曜					[]	[6331]	1916.2	日	14	U+66DC
 066E0	曠			旷		[]	[727]	1916.2	日	15	U+66E0
 066E6	曦					[]	[6428]	1918.2	日	16	U+66E6
 066F0	曰					[]	[111]	1919.1	曰	0	U+66F0
@@ -967,15 +1053,18 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06728	木					[]	[87]	1969.1	木	0	U+6728
 0672C	本					[]	[210]	1981.1	木	1	U+672C
 0672D	札					[]	[3532]	1984.3	木	1	U+672D
+0672F	术					[朮]	[211]	1976.3	木	1	U+672F
 06731	朱					[]	[445]	1986.3	木	2	U+6731
 06738	朸					[]	[6528]	1994.3	木	2	U+6738
 06743	权					[]	[378]	null	null	null	U+6743
 06744	杄					[]	[6580]	null	null	null	U+6744
+06746	杆					[]	[678]	1995.1	木	3	U+6746
 06749	杉					[]	[685]	2006.2	木	3	U+6749
 0674E	李					[]	[688]	2007.3	木	3	U+674E
 0674F	杏					[]	[684]	2003.1	木	3	U+674F
 06751	村					[]	[682]	1995.2	木	3	U+6751
 06755	杕					[]	[6578]	2001.2	木	3	U+6755
+06756	杖					[]	[683]	2001.2	木	3	U+6756
 06757	杗					[]	[]	1994.3	null	null	U+6757
 0675C	杜					[]	[680]	1996.2	木	3	U+675C
 0675E	杞					[]	[3680]	2007.1	糸	3	U+675E
@@ -1009,7 +1098,10 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 067FE	柾					[]	[]	null	木	5	U+67FE
 06803	栃					[]	[]	null	木	5	U+6803
 06813	栓					[]	[1843]	2072.1	木	6	U+6813
+06817	栗					[]	[1855]	2067.1	木	6	U+6817
 0681A	栚					[㮳]	[]	2062.3	null	null	U+681A
+0681D	栝					[]	[4456]	2075.3	木	6	U+681D
+0681E	栞		刊			[]	[191]	2063.1	木	6	U+681E
 06821	校					[挍]	[1847]	2060.3	木	6	U+6821
 0682A	株					[]	[1840]	2075.1	木	6	U+682A
 0682B	栫					[]	[]	2068.2	木	6	U+682B
@@ -1026,12 +1118,14 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06876	桶					[]	[2230]	2099.3	木	7	U+6876
 06879	桹					[]	[7142]	2090.3	null	null	U+6879
 0687E	桾					[]	[]	2100.2	木	7	U+687E
+0687F	桿		杆			[]	[678]	2094.2	木	3	U+687F
 06881	梁					[]	[2436]	2086.1	木	7	U+6881
 06882	梂					[]	[]	2091.1	木	7	U+6882
 0689F	梟			枭		[]	[3991]	2098.2	木	7	U+689F
 068A0	梠					[]	[6961]	2095.1	木	7	U+68A0
 068A2	梢					[]	[2225]	2093.3	木	7	U+68A2
 068A7	梧					[]	[2224]	2093.1	木	7	U+68A7
+068AC	梬					[]	[0]	2094.3	null	null	U+68AC
 068AD	梭					[]	[2231]	2100.1	木	7	U+68AD
 068B0	械					[]	[2219]	2090.3	木	7	U+68B0
 068B1	梱					[]	[]	2094.3	木	7	U+68B1
@@ -1045,6 +1139,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06906	椆					[]	[7328]	2120.3	木	14	U+6906
 06907	椇					[]	[]	2115.1	木	8	U+6907
 0690B	椋					[]	[5101]	2101.1	木	8	U+690B
+0690D	植					[]	[2566]	2106.1	木	8	U+690D
 06910	椐					[]	[5105]	2121.3	null	null	U+6910
 0691B	椛					[]	[]	null	木	7	U+691B
 0694A	楊			杨		[]	[689]	2129.3	木	9	U+694A
@@ -1055,8 +1150,10 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0696E	楮					[]	[5094]	2104.2	木	9	U+696E
 06978	楸					[]	[5397]	2137.1	木	9	U+6978
 06979	楹					[]	[5407]	2139.1	木	9	U+6979
+0698A	榊					[]	[0]	0	木	10	U+698A
 06994	榔					[]	[2578]	2122.2	木	10	U+6994
 06998	榘		矩			[]	[1540]	2137.1	矢	5	U+6998
+069A9	榩					[]	[0]	2146.2	null	null	U+69A9
 069AD	榭					[]	[5664]	2147.3	木	10	U+69AD
 069BA	榺					[]	[]	null	木	10	U+69BA
 069CE	槎					[]	[5403]	2122.1	木	10	U+69CE
@@ -1087,11 +1184,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06AA3	檣			樯		[]	[5884]	2179.2	木	13	U+6AA3
 06AAF	檯			台		[]	[342]	2182.3	null	null	U+6AAF
 06ABB	檻			槛		[]	[3079]	2183.1	木	14	U+6ABB
+06AC2	櫂		棹			[]	[5097]	2184.1	木	14	U+6AC2
 06AC3	櫃			柜		[]	[1022]	2182.3	木	14	U+6AC3
 06AD3	櫓			橹		[]	[6061]	2185.3	木	15	U+6AD3
 06AD4	櫔					[]	[]	2184.3	木	14	U+6AD4
 06ADA	櫚			榈		[]	[5402]	2184.3	木	15	U+6ADA
 06ADC	櫜					[]	[]	2184.3	木	15	U+6ADC
+06ADD	櫝			椟		[]	[5096]	2184.2	木	15	U+6ADD
 06AE7	櫧			槠		[]	[5669]	2184.2	木	16	U+6AE7
 06AEA	櫪			枥		[]	[3874]	2186.2	木	16	U+6AEA
 06B16	欖			榄		[]	[2866]	2191.3	木	21	U+6B16
@@ -1099,6 +1198,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06B2E	欮					[]	[]	null	null	null	U+6B2E
 06B31	欱					[]	[]	2194.2	null	null	U+6B31
 06B3D	欽			钦		[]	[1532]	2197.3	欠	8	U+6B3D
+06B3E	款					[欵]	[2508]	2195.3	欠	8	U+6B3E
 06B46	歆					[]	[5549]	2198.3	欠	9	U+6B46
 06B59	歙					[]	[6135]	2203.3	欠	12	U+6B59
 06B5B	歛		斂	敛		[]	[2350]	2204.2	欠	13	U+6B5B
@@ -1110,11 +1210,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06B7E	歾					[]	[]	2233.1	歹	4	U+6B7E
 06B81	殁					[歿]	[3891]	2233.1	歹	4	U+6B81
 06B8A	殊					[]	[1872]	2233.3	歹	6	U+6B8A
+06B96	殖					[]	[2594]	2236.1	歹	8	U+6B96
 06B9E	殞			殒		[]	[4802]	2238.1	歹	10	U+6B9E
 06BA4	殤			殇		[]	[4175]	2238.3	歹	11	U+6BA4
 06BAD	殭		僵			[]	[3269]	2239.1	歹	13	U+6BAD
 06BAE	殮			殓		[]	[4803]	2239.2	歹	13	U+6BAE
 06BB3	殳					[]	[6505]	2239.1	殳	0	U+6BB3
+06BB8	殸					[]	[0]	0	null	null	U+6BB8
 06BCC	毌					[]	[6507]	2247.2	毋	0	U+6BCC
 06BE6	毦					[]	[]	2255.3	毛	6	U+6BE6
 06BEC	毬		球			[]	[2155]	2256.3	毛	7	U+6BEC
@@ -1125,6 +1227,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06C14	气					[]	[122]	2262.1	气	0	U+6C14
 06C23	氣			气	気	[]	[122]	2263.1	气	2	U+6C23
 06C34	水					[]	[117]	2266.1	水	0	U+6C34
+06C38	永					[]	[324]	2276.3	水	1	U+6C38
 06C3F	氿					[]	[6515]	2282.2	水	2	U+6C3F
 06C40	汀					[]	[3553]	2282.1	水	2	U+6C40
 06C41	汁					[]	[308]	2281.3	水	2	U+6C41
@@ -1132,6 +1235,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06C50	汐					[]	[3625]	2290.3	水	3	U+6C50
 06C54	汔					[汽]	[3624]	2290.1	水	3	U+6C54
 06C55	汕					[]	[3623]	2290.1	水	3	U+6C55
+06C57	汗					[]	[536]	2283.2	水	3	U+6C57
 06C5D	汝					[]	[541]	2292.1	水	3	U+6C5D
 06C5E	汞					[]	[628]	2289.3	水	3	U+6C5E
 06C5F	江					[]	[538]	2285.1	水	3	U+6C5F
@@ -1152,6 +1256,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06C95	沕					[]	[]	2310.2	水	4	U+6C95
 06C9A	沚					[]	[3772]	2302.2	手	4	U+6C9A
 06CA1	没					[沒]	[867]	2311.1	水	4	U+6CA1
+06CAD	沭					[]	[4010]	2327.2	水	5	U+6CAD
 06CB9	油					[]	[1248]	2335.1	水	5	U+6CB9
 06CBA	沺					[]	[6720]	2336.3	水	5	U+6CBA
 06CBD	沽					[]	[1243]	2326.3	水	5	U+6CBD
@@ -1165,6 +1270,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06CEB	泫					[]	[4019]	2316.2	水	5	U+6CEB
 06CEE	泮					[]	[4020]	2316.2	水	5	U+6CEE
 06CF0	泰					[]	[1771]	2317.1	水	5	U+6CF0
+06CF3	泳					[]	[1257]	2317.1	水	5	U+6CF3
 06D01	洁					[]	[1663]	null	null	null	U+6D01
 06D04	洄					[𭰁]	[4337]	2358.3	水	6	U+6D04
 06D0A	洊					[]	[]	2355.2	水	6	U+6D0A
@@ -1222,9 +1328,11 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06E20	渠					[]	[2416]	2421.3	水	9	U+6E20
 06E21	渡					[]	[2765]	2434.1	水	9	U+6E21
 06E2B	渫					[𠗨]	[5278]	2442.2	水	9	U+6E2B
+06E2D	渭					[]	[5282]	2450.1	水	9	U+6E2D
 06E2F	港					[]	[2749]	2442.1	水	9	U+6E2F
 06E3A	渺					[]	[2755]	2446.1	水	9	U+6E3A
 06E43	湃					[]	[2762]	2452.2	水	9	U+6E43
+06E49	湉					[]	[5290]	2433.2	水	9	U+6E49
 06E4E	湎					[]	[5280]	2445.3	水	9	U+6E4E
 06E56	湖					[]	[2751]	2442.2	水	9	U+6E56
 06E58	湘					[]	[2752]	2443.2	水	9	U+6E58
@@ -1235,9 +1343,12 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06E6F	湯			汤		[]	[542]	2447.1	水	9	U+6E6F
 06E86	溆					[漵, 潊]	[5287]	2486.1	水	11	U+6E86
 06E8F	溏					[]	[5583]	2457.3	水	10	U+6E8F
+06E90	源					[]	[3008]	2462.1	水	10	U+6E90
 06EA0	溠					[]	[7433]	2437.3	null	null	U+6EA0
+06EA7	溧					[]	[5572]	2461.1	水	10	U+6EA7
 06EB3	溳			涢		[]	[7059]	2462.3	null	null	U+6EB3
 06EC1	滁					[]	[5293]	2471.1	水	10	U+6EC1
+06EC5	滅			灭		[]	[223]	2461.1	水	10	U+6EC5
 06EC9	滉					[]	[7591]	2462.2	水	10	U+6EC9
 06ECB	滋					[]	[2767]	2438.1	水	9	U+6ECB
 06ECD	滍					[]	[7597]	2471.1	null	null	U+6ECD
@@ -1246,6 +1357,8 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06EF7	滷			卤		[]	[711]	2484.1	水	11	U+6EF7
 06EF8	滸			浒		[]	[4345]	2472.3	水	11	U+6EF8
 06F01	漁			渔		[]	[2425]	2487.2	水	11	U+6F01
+06F09	漉					[]	[5808]	2473.2	水	11	U+6F09
+06F0F	漏					[]	[3168]	2488.3	水	11	U+6F0F
 06F22	漢			汉		[]	[311]	2475.1	水	10	U+6F22
 06F23	漣			涟		[]	[4647]	2460.2	水	11	U+6F23
 06F26	漦					[]	[7750]	2474.2	null	null	U+6F26
@@ -1266,6 +1379,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06F90	澐			沄		[]	[6614]	2491.2	水	12	U+6F90
 06F92	澒					[]	[]	2492.2	水	12	U+6F92
 06F97	澗			涧		[㵎]	[2082]	2497.1	水	12	U+6F97
+06FA3	澣		浣			[]	[4657]	2502.2	水	7	U+6FA3
 06FA6	澦			滪		[]	[5587]	2508.1	null	null	U+6FA6
 06FA7	澧					[]	[6177]	2503.2	水	13	U+6FA7
 06FA8	澨					[]	[]	2505.3	水	13	U+6FA8
@@ -1275,6 +1389,8 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06FCA	濊					[]	[]	2502.2	水	13	U+6FCA
 06FDE	濞					[]	[6295]	2513.2	水	14	U+6FDE
 06FEB	濫			滥		[]	[3010]	2511.3	水	15	U+6FEB
+06FEF	濯					[]	[6297]	2513.3	水	14	U+6FEF
+07006	瀆			渎		[涜]	[4968]	2515.2	水	15	U+7006
 07007	瀇					[]	[]	2515.1	水	15	U+7007
 0700B	瀋			沈		[]	[870]	2514.3	水	15	U+700B
 0700D	瀍					[湹]	[8026]	2515.1	null	null	U+700D
@@ -1298,8 +1414,11 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 070C8	烈					[]	[1871]	2541.1	火	6	U+70C8
 070CB	烋					[]	[]	2541.3	火	6	U+70CB
 070D4	烔					[]	[7050]	null	火	6	U+70D4
+070D5	烕					[]	[0]	2540.3	null	null	U+70D5
 070D8	烘					[]	[2058]	2540.2	火	6	U+70D8
 070D9	烙					[]	[2063]	2548.1	火	6	U+70D9
+070F9	烹					[]	[2377]	2548.3	火	7	U+70F9
+0710A	焊					[]	[2408]	2549.3	null	null	U+710A
 0711A	焚					[]	[2568]	2551.3	火	8	U+711A
 0711C	焜					[]	[5273]	2553.1	火	8	U+711C
 0712B	焫					[]	[]	2551.2	火	7	U+712B
@@ -1316,11 +1435,14 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 071B1	熱			热		[]	[1809]	2577.3	火	11	U+71B1
 071B2	熲			颎		[]	[5246]	2579.1	null	null	U+71B2
 071C1	燁			烨		[爗]	[4638]	2577.3	火	11	U+71C1
+071E7	燧					[]	[6173]	2580.2	火	13	U+71E7
 071EE	燮					[]	[6284]	2589.3	火	13	U+71EE
+071FF	燿		耀			[]	[3476]	2594.1	火	14	U+71FF
 07207	爇					[]	[7984]	2594.3	火	14	U+7207
 0721A	爚					[]	[8086]	2596.2	null	null	U+721A
 0721D	爝					[]	[6458]	2596.2	null	null	U+721D
 0721E	爞					[]	[]	2596.3	null	null	U+721E
+0722F	爯					[]	[0]	0	null	null	U+722F
 07232	爲			为	為	[]	[165]	2602.1	火	5	U+7232
 07235	爵					[]	[3421]	2603.2	爪	13	U+7235
 0723F	爿					[]	[3526]	2607.1	爿	0	U+723F
@@ -1330,6 +1452,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07247	片					[]	[130]	2608.1	片	0	U+7247
 07249	牉					[]	[]	2610.1	null	null	U+7249
 07252	牒					[]	[5505]	2611.1	片	9	U+7252
+07258	牘			牍		[]	[5211]	2612.2	片	15	U+7258
 0725B	牛					[]	[120]	2616.1	牛	0	U+725B
 07269	物					[]	[1127]	2624.2	牛	4	U+7269
 0726F	牯					[]	[4249]	2626.1	牛	5	U+726F
@@ -1338,8 +1461,10 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07278	牸					[]	[]	2626.3	牛	6	U+7278
 07279	特					[]	[1938]	2626.3	牛	6	U+7279
 0727D	牽			牵		[]	[1458]	2628.2	牛	7	U+727D
+07280	犀					[]	[2799]	2631.1	牛	8	U+7280
 07296	犖			荦		[]	[4131]	2632.3	牛	10	U+7296
 0729B	犛		牦			[]	[3947]	2633.2	牛	11	U+729B
+072A2	犢			犊		[]	[5196]	2633.3	牛	15	U+72A2
 072A7	犧			牺	犠	[]	[1939]	2634.2	牛	13	U+72A7
 072A8	犨					[]	[8061]	2634.3	null	null	U+72A8
 072AC	犬					[]	[92]	2635.1	犬	0	U+72AC
@@ -1357,6 +1482,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 072F0	狰					[猙]	[1603]	2652.2	犬	8	U+72F0
 072F3	狳					[]	[4603]	2650.1	犬	7	U+72F3
 072F8	狸					[]	[2004]	2649.2	犬	7	U+72F8
+072FA	狺					[]	[4605]	2646.3	犬	7	U+72FA
 072FB	狻					[]	[7037]	2650.1	犬	7	U+72FB
 072FC	狼					[]	[2005]	2647.1	犬	7	U+72FC
 072FD	狽			狈		[]	[813]	2649.2	犬	7	U+72FD
@@ -1364,10 +1490,12 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07322	猢					[]	[5239]	2654.1	null	null	U+7322
 07329	猩					[]	[2718]	2654.1	犬	9	U+7329
 0732A	猪					[豬]	[2365]	3870.2	犬	8	U+732A
+0732C	猬					[]	[2719]	2655.1	虫	9	U+732C
 0733F	猿					[]	[2978]	2656.2	犬	10	U+733F
 07352	獒					[]	[5624]	2658.3	犬	11	U+7352
 07369	獩					[]	[]	null	null	null	U+7369
 0736B	獫			猃		[]	[4604]	2662.3	犬	13	U+736B
+07375	獵			猎	猟	[]	[2366]	2665.1	犬	8	U+7375
 07377	獷			犷		[]	[3617]	2664.1	犬	15	U+7377
 07378	獸			兽	獣	[]	[2407]	2664.2	犬	12	U+7378
 0737A	獺			獭		[]	[6148]	2665.3	犬	16	U+737A
@@ -1375,6 +1503,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07385	玅		妙			[]	[919]	2688.2	女	4	U+7385
 07389	玉					[]	[190]	2690.1	玉	0	U+7389
 0738B	王					[]	[75]	2711.3	玉	0	U+738B
+07395	玕					[]	[3648]	2726.3	玉	3	U+7395
 07396	玖					[]	[602]	2727.1	玉	3	U+7396
 0739F	玟					[]	[6648]	2727.1	玉	5	U+739F
 073A0	玠					[]	[3829]	2728.2	玉	4	U+73A0
@@ -1406,8 +1535,11 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07497	璗			𬍡		[]	[7241]	2760.3	玉	12	U+7497
 0749C	璜					[]	[5852]	2761.1	玉	12	U+749C
 0749F	璟					[]	[6030]	2761.2	玉	12	U+749F
+074B2	璲					[]	[7833]	2761.1	null	null	U+74B2
+074DE	瓞					[]	[7027]	2772.2	瓜	5	U+74DE
 07503	甃					[]	[]	2673.3	瓦	9	U+7503
 07515	甕		瓮			[]	[3975]	2675.1	瓦	13	U+7515
+0751C	甜					[]	[2311]	2778.3	甘	6	U+751C
 0751F	生					[]	[263]	2779.1	生	0	U+751F
 07521	甡					[]	[7011]	2785.1	生	5	U+7521
 07525	甥					[]	[2667]	2785.3	生	7	U+7525
@@ -1416,8 +1548,10 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0752C	甬					[]	[3819]	2787.1	用	2	U+752C
 07530	田					[]	[244]	2787.1	田	0	U+7530
 07531	由					[]	[245]	2791.1	田	0	U+7531
+07533	申					[]	[240]	2794.2	田	0	U+7533
 07537	男					[]	[733]	2797.2	田	2	U+7537
 07538	甸					[]	[809]	2797.1	田	2	U+7538
+07539	甹					[]	[0]	2797.1	null	null	U+7539
 0753A	町					[]	[3706]	2796.3	田	2	U+753A
 0753F	甿					[]	[]	2798.2	null	null	U+753F
 07540	畀					[]	[3909]	2798.1	田	3	U+7540
@@ -1427,6 +1561,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07551	畑					[]	[]	null	田	4	U+7551
 07554	畔					[]	[1899]	2800.2	田	5	U+7554
 07560	畠					[]	[]	null	田	5	U+7560
+07562	畢			毕		[]	[409]	2804.1	田	6	U+7562
 07563	畣					[]	[]	2807.3	null	null	U+7563
 07564	畤					[]	[7160]	2803.3	田	6	U+7564
 07565	略					[畧]	[2277]	2807.3	田	6	U+7565
@@ -1441,6 +1576,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07599	疙					[]	[1214]	2827.1	null	null	U+7599
 0759A	疚					[]	[1215]	2827.1	疒	3	U+759A
 0759D	疝					[]	[3998]	2826.3	疒	3	U+759D
+075A2	疢					[]	[6876]	2827.2	疒	4	U+75A2
 075A3	疣					[]	[4309]	2827.2	疒	4	U+75A3
 075A5	疥					[]	[4310]	2827.3	疒	4	U+75A5
 075B1	疱					[]	[4619]	2831.3	疒	5	U+75B1
@@ -1500,6 +1636,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 076EE	目					[]	[236]	2912.1	目	0	U+76EE
 076EF	盯					[]	[715]	2914.3	null	null	U+76EF
 076F2	盲					[]	[1222]	2914.3	目	3	U+76F2
+076F4	直					[]	[1011]	568.1	目	3	U+76F4
 076F8	相					[]	[1430]	2915.3	目	4	U+76F8
 076FB	盻					[]	[]	2922.3	目	4	U+76FB
 07701	省					[]	[1474]	2921.2	目	4	U+7701
@@ -1512,6 +1649,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07736	眶					[]	[2258]	2928.3	目	6	U+7736
 07740	着					[]	[2398]	2927.3	羊	6	U+7740
 07741	睁					[睜]	[2261]	2935.1	目	8	U+7741
+07745	睅					[]	[0]	2932.1	目	7	U+7745
 0774D	睍			𪾢		[]	[6820]	2932.2	目	7	U+774D
 0775B	睛					[]	[2895]	2933.1	目	8	U+775B
 0775E	睞			睐		[]	[2612]	2933.3	null	null	U+775E
@@ -1532,6 +1670,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07821	砡					[]	[]	2969.1	石	5	U+7821
 0782E	砮					[]	[7087]	2970.2	null	null	U+782E
 07832	砲		炮			[]	[1658]	2970.1	石	5	U+7832
+07837	砷					[]	[4477]	0	null	null	U+7837
 07843	硃			朱		[]	[445]	2973.3	石	6	U+7843
 0784E	硎					[]	[4789]	2973.2	石	6	U+784E
 07850	硐					[]	[4794]	2973.3	null	null	U+7850
@@ -1540,6 +1679,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0786A	硪					[]	[7340]	2976.2	石	7	U+786A
 0786F	硯			砚		[]	[1453]	2975.3	石	7	U+786F
 07887	碇					[]	[5422]	2976.3	石	8	U+7887
+0788D	碍					[]	[2876]	2978.1	石	8	U+788D
 07898	碘					[]	[2877]	null	null	null	U+7898
 0789E	碞					[]	[]	2984.2	石	9	U+789E
 078A7	碧					[]	[3050]	2980.2	石	9	U+78A7
@@ -1549,6 +1689,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 078CB	磋					[]	[5680]	2979.3	石	10	U+78CB
 078D4	磔					[]	[5895]	2987.1	石	10	U+78D4
 078E0	磠					[]	[]	null	石	11	U+78E0
+078EC	磬					[]	[6044]	2989.2	石	11	U+78EC
 078F2	磲					[]	[6072]	2987.2	石	12	U+78F2
 07910	礐			𬒈		[]	[7070]	2992.3	石	13	U+7910
 07912	礒					[]	[]	2992.1	石	13	U+7912
@@ -1562,6 +1703,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0794F	祏					[]	[6904]	3001.1	null	null	U+794F
 07950	祐					[]	[6905]	3001.1	示	5	U+7950
 0795C	祜					[]	[4365]	3001.1	示	5	U+795C
+0795E	神					[]	[1711]	3004.1	示	5	U+795E
 0796B	祫					[]	[]	3016.1	null	null	U+796B
 07980	禀					[稟]	[2987]	3055.1	禾	8	U+7980
 07981	禁					[]	[2863]	3017.3	示	8	U+7981
@@ -1573,22 +1715,32 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 079B9	禹					[]	[1575]	3029.3	禸	4	U+79B9
 079BC	禼					[]	[]	3031.1	null	null	U+79BC
 079BD	禽					[]	[2711]	3031.2	禸	8	U+79BD
+079C6	秆					[]	[1130]	3038.2	禾	7	U+79C6
 079C8	秈		籼			[]	[4322]	3038.2	禾	3	U+79C8
 079CB	秋					[秌]	[1550]	3041.1	禾	4	U+79CB
 079CD	种					[]	[1549]	3044.1	禾	4	U+79CD
 079D2	秒					[]	[1547]	3043.3	禾	4	U+79D2
+079E4	秤					[]	[1943]	3044.3	禾	5	U+79E4
+079E9	秩					[]	[1947]	3048.3	禾	5	U+79E9
+079EB	秫					[]	[4554]	3048.1	禾	5	U+79EB
 079EC	秬					[]	[6853]	3043.3	禾	5	U+79EC
 079F8	秸					[]	[2312]	3049.2	null	null	U+79F8
 07A02	稂					[]	[5204]	3052.1	禾	7	U+7A02
 07A03	稃					[]	[5203]	3054.3	禾	7	U+7A03
+07A08	稈		秆			[]	[1130]	3052.3	禾	7	U+7A08
+07A0B	程					[]	[2677]	3052.3	禾	7	U+7A0B
 07A0C	稌					[]	[7386]	3054.3	禾	7	U+7A0C
 07A0D	稍					[]	[2676]	3052.1	禾	7	U+7A0D
 07A11	稑					[]	[7538]	3055.3	禾	8	U+7A11
 07A14	稔					[]	[5499]	3056.2	禾	8	U+7A14
+07A19	稙					[]	[7539]	3056.1	禾	8	U+7A19
 07A20	稠					[]	[2949]	3057.2	禾	8	U+7A20
+07A31	稱			称	称	[]	[1948]	3058.1	禾	5	U+7A31
 07A45	穅		糠			[]	[3429]	3065.1	米	11	U+7A45
+07A46	穆					[]	[3356]	3067.2	禾	11	U+7A46
 07A4C	穌			稣		[]	[5529]	3068.3	艸	16	U+7A4C
 07A4E	穎			颖		[頴]	[2979]	3068.3	禾	11	U+7A4E
+07A5F	穟					[]	[7950]	3069.1	禾	13	U+7A5F
 07A61	穡			穑		[]	[6123]	3069.2	禾	13	U+7A61
 07A62	穢			秽		[]	[2315]	3069.3	禾	13	U+7A62
 07A71	穱					[]	[]	3071.3	null	null	U+7A71
@@ -1606,6 +1758,8 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07AAE	窮			穷		[]	[882]	3085.3	穴	10	U+7AAE
 07AAF	窯		窑			[]	[2457]	3085.2	穴	10	U+7AAF
 07ABA	窺			窥		[]	[3027]	3089.2	穴	11	U+7ABA
+07ABE	窾					[窽]	[0]	3090.2	穴	12	U+7ABE
+07AC7	竇			窦		[]	[5593]	3091.1	穴	15	U+7AC7
 07ACA	竊			窃	窃	[]	[1702]	3093.1	穴	4	U+7ACA
 07ACB	立					[]	[302]	3094.1	立	0	U+7ACB
 07AD8	竘					[]	[7044]	3097.2	null	null	U+7AD8
@@ -1613,6 +1767,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07AEB	竫					[]	[7225]	3102.3	青	5	U+7AEB
 07AF9	竹					[]	[450]	3107.1	竹	0	U+7AF9
 07AFA	竺					[]	[3948]	3110.2	竹	2	U+7AFA
+07AFF	竿					[]	[1554]	3111.1	竹	3	U+7AFF
 07B04	笄					[筓]	[4556]	3111.2	竹	6	U+7B04
 07B08	笈					[]	[4254]	3113.1	竹	4	U+7B08
 07B0B	笋					[]	[1953]	3113.1	竹	6	U+7B0B
@@ -1655,13 +1810,18 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07BC9	築			筑		[]	[2682]	3139.2	竹	10	U+7BC9
 07BD4	篔			筼		[]	[7543]	3140.2	竹	10	U+7BD4
 07BE4	篤			笃		[]	[4255]	3138.3	竹	10	U+7BE4
+07BE5	篥					[]	[6125]	3140.1	竹	10	U+7BE5
 07BE8	篨					[]	[]	3141.2	null	null	U+7BE8
+07BF3	篳			筚		[]	[5205]	3142.3	竹	12	U+7BF3
 07C09	簉					[]	[7879]	3140.2	竹	11	U+7C09
+07C0F	簏					[]	[7953]	3141.2	竹	11	U+7C0F
 07C21	簡			简		[𥳑]	[2954]	3145.1	竹	12	U+7C21
 07C23	簣			篑		[]	[5956]	3147.1	竹	12	U+7C23
 07C27	簧					[]	[3417]	3143.3	竹	12	U+7C27
+07C33	簳					[]	[0]	3149.2	竹	13	U+7C33
 07C3D	簽			签		[]	[2953]	3149.3	竹	13	U+7C3D
 07C43	籃			篮		[]	[3357]	3151.3	竹	14	U+7C43
+07C4A	籊					[]	[0]	3152.1	竹	14	U+7C4A
 07C50	籐		藤			[]	[3439]	3152.1	竹	15	U+7C50
 07C5F	籟			籁		[]	[6399]	3153.2	竹	16	U+7C5F
 07C65	籥					[]	[8098]	3154.1	竹	17	U+7C65
@@ -1688,6 +1848,8 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07CE0	糠					[]	[3429]	3167.2	米	11	U+7CE0
 07CE7	糧			粮		[]	[2998]	3169.1	米	12	U+7CE7
 07CF2	糲			粝		[䊪]	[4953]	3169.3	米	14	U+7CF2
+07CF4	糴			籴		[]	[3974]	3169.3	米	16	U+7CF4
+07CF6	糶			粜		[]	[5013]	3170.1	米	19	U+7CF6
 07CF8	糸					[]	[]	3170.1	糸	0	U+7CF8
 07CFB	系					[]	[825]	3170.1	糸	1	U+7CFB
 07CFE	糾			纠		[糺]	[344]	3170.2	糸	3	U+7CFE
@@ -1703,9 +1865,11 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07D15	紕			纰		[]	[3822]	3186.2	糸	4	U+7D15
 07D1A	級			级		[]	[594]	3190.2	糸	3	U+7D1A
 07D1C	紜			纭		[]	[3821]	3183.3	糸	4	U+7D1C
+07D29	紩					[]	[0]	3196.2	null	null	U+7D29
 07D2C	紬		綢	绸		[]	[2495]	3196.1	糸	5	U+7D2C
 07D2E	紮		扎			[]	[85]	3192.1	糸	5	U+7D2E
 07D32	紲			绁		[]	[4075]	3191.3	糸	5	U+7D32
+07D33	紳			绅		[]	[1339]	3192.3	糸	5	U+7D33
 07D40	絀			绌		[]	[4080]	3198.1	糸	5	U+7D40
 07D42	終			终		[]	[1344]	3196.2	糸	5	U+7D42
 07D43	絃		弦			[]	[1314]	3191.1	糸	5	U+7D43
@@ -1723,6 +1887,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07D70	絰			绖		[]	[6917]	3204.1	糸	6	U+7D70
 07D71	統			统		[]	[1765]	3199.1	糸	6	U+7D71
 07D72	絲			丝	糸	[]	[347]	3217.1	糸	0	U+7D72
+07D76	絶			绝		[絕]	[1762]	3213.1	糸	6	U+7D76
 07D7F	絿					[]	[]	3218.3	糸	7	U+7D7F
 07D83	綃			绡		[]	[4701]	3223.3	糸	7	U+7D83
 07D9D	綝			𬘭		[]	[7274]	3227.3	糸	8	U+7D9D
@@ -1754,23 +1919,29 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07E86	纆			𬙊		[]	[8030]	3271.3	糸	15	U+7E86
 07E88	纈			缬		[]	[6021]	3270.2	糸	15	U+7E88
 07E8A	纊			纩		[]	[6554]	3269.2	糸	15	U+7E8A
+07E8C	續			续	続	[]	[2488]	3270.2	糸	7	U+7E8C
 07E8F	纏			缠		[緾]	[3046]	3269.3	糸	15	U+7E8F
 07E9C	纜			缆		[]	[2815]	3274.3	糸	21	U+7E9C
 07F36	缶					[]	[3598]	3274.1	缶	0	U+7F36
 07F38	缸					[]	[1537]	3274.2	缶	3	U+7F38
 07F3F	缿					[]	[]	3275.3	null	null	U+7F3F
+07F44	罄					[]	[6203]	3276.1	缶	11	U+7F44
 07F47	罇		樽			[]	[6062]	3276.2	木	12	U+7F47
 07F4B	罋		瓮			[]	[3975]	3276.2	瓦	13	U+7F4B
 07F4E	罎			坛		[]	[614]	3276.3	土	16	U+7F4E
 07F51	网					[]	[442]	3277.1	网	0	U+7F51
 07F54	罔					[]	[3938]	3277.1	网	3	U+7F54
+07F55	罕					[䍐]	[895]	3277.3	网	3	U+7F55
 07F5F	罟					[]	[4523]	3278.2	网	5	U+7F5F
+07F6E	置					[]	[2931]	3280.1	网	8	U+7F6E
 07F71	罱					[]	[5724]	3282.1	null	null	U+7F71
 07F72	署					[]	[2930]	3279.2	网	8	U+7F72
 07F7B	罻					[]	[]	3283.2	null	null	U+7F7B
+07F7D	罽					[]	[6238]	3283.3	网	12	U+7F7D
 07F91	羑					[]	[4320]	3294.2	羊	3	U+7F91
 07F94	羔					[]	[2050]	3294.2	羊	4	U+7F94
 07F96	羖					[]	[7045]	3294.3	羊	4	U+7F96
+07F9E	羞					[]	[2049]	3294.3	羊	5	U+7F9E
 07FA4	群					[羣]	[3035]	3301.1	羊	7	U+7FA4
 07FA9	義			义		[]	[57]	3297.1	羊	7	U+7FA9
 07FB2	羲					[]	[6166]	3303.1	羊	10	U+7FB2
@@ -1780,9 +1951,11 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07FCA	翊					[]	[4941]	3308.3	羽	5	U+7FCA
 07FCC	翌					[]	[5024]	3309.1	羽	5	U+7FCC
 07FD5	翕					[]	[5222]	3311.2	羽	6	U+7FD5
+07FDF	翟					[]	[5838]	3314.1	羽	8	U+7FDF
 07FE5	翥					[]	[5636]	3314.1	羽	9	U+7FE5
 07FF1	翱					[翶, 翺]	[6131]	3318.1	羽	12	U+7FF1
 07FFD	翽			翙		[]	[7366]	3322.1	null	null	U+7FFD
+08000	耀					[]	[3476]	3322.2	羽	14	U+8000
 08005	者					[]	[969]	3330.3	老	4	U+8005
 08007	耇					[耈]	[6773]	3332.2	老	5	U+8007
 0800B	耋					[耊]	[5070]	3332.3	老	6	U+800B
@@ -1793,10 +1966,15 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08033	耳					[]	[369]	3337.1	耳	0	U+8033
 0803B	耻				恥	[]	[1816]	1485.3	心	6	U+803B
 0803F	耿					[]	[1817]	3340.2	耳	4	U+803F
+08058	聘					[]	[2845]	3346.1	耳	7	U+8058
+0805E	聞			闻		[]	[1636]	3346.3	耳	8	U+805E
 0806F	聯			联		[聮, 䏈]	[2544]	3351.3	耳	11	U+806F
 08071	聱					[]	[6034]	3348.3	耳	11	U+8071
+08072	聲			声	声	[]	[654]	3349.1	士	4	U+8072
 08075	聵			聩		[]	[5869]	3354.1	耳	12	U+8075
 0807F	聿					[]	[3635]	3355.1	聿	0	U+807F
+08084	肄					[]	[5532]	3356.3	聿	7	U+8084
+08086	肆					[]	[2831]	3355.3	聿	7	U+8086
 08089	肉					[宍]	[443]	3358.1	肉	0	U+8089
 0808B	肋					[]	[496]	3360.3	肉	2	U+808B
 08093	肓					[]	[3760]	3360.3	肉	3	U+8093
@@ -1805,22 +1983,27 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0809A	肚					[]	[805]	3361.2	肉	3	U+809A
 0809B	肛					[]	[804]	3361.2	肉	3	U+809B
 0809C	肜					[]	[]	3361.3	肉	3	U+809C
+0809D	肝					[]	[803]	3360.3	肉	3	U+809D
 080A1	股					[]	[1186]	3364.3	肉	4	U+80A1
 080A5	肥					[]	[1189]	3365.1	肉	4	U+80A5
 080A9	肩					[]	[1289]	3362.2	肉	4	U+80A9
 080AC	肬					[]	[]	3363.2	肉	4	U+80AC
 080AD	肭					[]	[6709]	3364.1	月	4	U+80AD
+080C3	胃					[]	[1494]	3372.3	肉	5	U+80C3
 080C4	胄					[冑]	[4208]	3372.2	肉	5	U+80C4
 080C6	胆					[]	[1593]	3372.2	肉	5	U+80C6
 080D6	胖					[]	[1596]	3366.2	肉	5	U+80D6
 080DC	胜					[]	[1594]	3372.3	肉	9	U+80DC
 080DE	胞					[]	[1595]	3374.1	肉	5	U+80DE
 080E1	胡					[]	[1419]	3366.3	肉	5	U+80E1
+080E4	胤					[]	[4302]	3373.3	肉	5	U+80E4
 080F1	胱					[]	[4590]	3376.3	肉	6	U+80F1
 080F3	胳					[]	[1997]	3378.1	肉	6	U+80F3
 080F4	胴					[]	[4591]	3376.3	肉	6	U+80F4
 080F6	胶					[]	[2000]	null	null	null	U+80F6
 080F8	胸					[胷]	[1996]	3379.1	肉	6	U+80F8
+08106	脆					[脃]	[1994]	3378.1	肉	6	U+8106
+0811D	脝					[]	[0]	3380.3	null	null	U+811D
 0812C	脬					[]	[4921]	3384.2	肉	7	U+812C
 08139	脹			胀		[]	[1184]	3386.1	肉	8	U+8139
 08146	腆					[]	[5230]	3386.2	肉	8	U+8146
@@ -1838,6 +2021,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 081BB	膻					[]	[6273]	3398.2	肉	13	U+81BB
 081C6	臆					[]	[6274]	3398.2	肉	13	U+81C6
 081C9	臉			脸		[]	[2359]	3399.3	肉	13	U+81C9
+081D8	臘			腊		[臈]	[2712]	3401.2	肉	15	U+81D8
 081DF	臟			脏	臓	[]	[1998]	3403.1	肉	15	U+81DF
 081E1	臡					[]	[]	3403.3	null	null	U+81E1
 081E3	臣					[]	[380]	3403.1	臣	0	U+81E3
@@ -1955,8 +2139,10 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 084A8	蒨					[]	[7485]	3559.2	null	null	U+84A8
 084AF	蒯					[]	[5379]	3562.1	艸	10	U+84AF
 084C6	蓆		席			[]	[2023]	3549.2	艸	10	U+84C6
+084CF	蓏					[]	[7486]	3560.1	艸	10	U+84CF
 084EE	蓮			莲		[]	[1823]	3554.2	艸	10	U+84EE
 084FA	蓺					[]	[]	3565.3	艸	4	U+84FA
+084FD	蓽			荜		[]	[4112]	3567.3	艸	11	U+84FD
 084FF	蓿					[]	[5656]	3564.1	艸	11	U+84FF
 08517	蔗					[]	[3072]	3564.2	艸	11	U+8517
 0851A	蔚					[]	[3076]	3570.2	艸	11	U+851A
@@ -1984,17 +2170,20 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 085B9	薹					[]	[6205]	3592.2	艸	14	U+85B9
 085CD	藍			蓝		[]	[2852]	3592.3	艸	15	U+85CD
 085CF	藏				蔵	[]	[3392]	3594.1	艸	12	U+85CF
+085DA	藚					[]	[0]	3598.3	艸	15	U+85DA
 085DD	藝			艺	芸	[]	[86]	3598.3	艸	4	U+85DD
 085E4	藤					[]	[3439]	3601.3	艸	15	U+85E4
 085ED	藭			䓖		[]	[6955]	3598.1	艸	15	U+85ED
 085F6	藶			苈		[]	[3663]	3604.1	艸	16	U+85F6
 085F7	藷		薯			[]	[3321]	3598.1	艸	16	U+85F7
+085FA	藺			蔺		[]	[5652]	3606.1	艸	16	U+85FA
 08605	蘅					[]	[6373]	3606.3	艸	16	U+8605
 08607	蘇			苏		[]	[677]	3607.1	艸	16	U+8607
 0860C	蘌					[籞]	[]	3615.3	null	null	U+860C
 0861E	蘞			蔹		[]	[7644]	3615.2	艸	17	U+861E
 08624	蘤		花			[]	[665]	3615.2	艸	4	U+8624
 08653	虓					[]	[7033]	3622.3	虍	4	U+8653
+08654	虔					[]	[4491]	3622.2	虍	4	U+8654
 0865E	虞					[]	[5430]	3628.3	虍	7	U+865E
 0865F	號			号	号	[]	[243]	3627.2	口	2	U+865F
 0866B	虫					[䖝]	[423]	3631.1	虫	0	U+866B
@@ -2033,10 +2222,12 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08730	蜰					[]	[]	3654.2	null	null	U+8730
 0873B	蜻					[]	[3105]	3651.2	虫	8	U+873B
 08757	蝗					[]	[3250]	3657.3	虫	9	U+8757
+0875F	蝟		猬			[]	[2719]	3657.1	虫	9	U+875F
 08772	蝲					[]	[7774]	3656.2	虫	9	U+8772
 08774	蝴					[]	[3246]	3656.1	虫	9	U+8774
 08776	蝶					[]	[3245]	3655.3	虫	9	U+8776
 08782	螂					[]	[5713]	3655.2	虫	7	U+8782
+08788	螈					[]	[6099]	3661.3	虫	10	U+8788
 0878D	融					[螎]	[3334]	3661.1	虫	10	U+878D
 08797	螗					[]	[7866]	3660.1	虫	10	U+8797
 087A3	螣					[]	[7883]	3662.3	虫	10	U+87A3
@@ -2051,17 +2242,21 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 087FA	蟺					[]	[]	3671.1	虫	13	U+87FA
 087FB	蟻			蚁		[]	[1499]	3671.2	虫	13	U+87FB
 08806	蠆			虿		[]	[4183]	3672.3	虫	12	U+8806
+0881F	蠟			蜡		[蝋]	[3106]	3677.3	虫	15	U+881F
 08823	蠣			蛎		[]	[4833]	3676.3	虫	14	U+8823
 08831	蠱			蛊		[]	[4836]	3680.2	虫	17	U+8831
 08839	蠹					[]	[6487]	3681.1	虫	18	U+8839
 08841	衁					[]	[]	3986.1	null	null	U+8841
 08846	衆			众		[眾]	[491]	2929.1	血	6	U+8846
 0884C	行					[]	[483]	3687.1	行	0	U+884C
+0884E	衎					[]	[6860]	3695.3	行	3	U+884E
 08852	衒					[]	[7202]	3696.1	行	5	U+8852
+08853	術			术		[]	[211]	3696.2	行	5	U+8853
 08855	衕		同			[]	[427]	3697.3	行	6	U+8855
 08856	衖		弄			[]	[600]	3697.3	己	6	U+8856
 08859	衙					[]	[2964]	3698.1	行	7	U+8859
 0885A	衚		胡			[]	[1419]	3698.3	行	9	U+885A
+0885B	衛			卫		[衞]	[65]	3699.3	行	10	U+885B
 08861	衡					[]	[3363]	3701.3	行	10	U+8861
 08863	衣					[]	[520]	3704.1	衣	0	U+8863
 0886B	衫					[]	[1293]	3708.2	衣	3	U+886B
@@ -2076,11 +2271,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0888D	袍					[]	[2117]	3714.2	衣	5	U+888D
 08892	袒					[]	[4671]	3713.1	衣	5	U+8892
 08896	袖					[]	[2116]	3713.2	衣	5	U+8896
+088A0	袠		帙			[]	[3927]	3714.1	衣	5	U+88A0
 088A2	袢					[]	[4672]	3712.2	衣	5	U+88A2
 088B7	袷		夾	夹		[]	[5000]	3719.2	衣	6	U+88B7
 088BA	袺					[]	[]	3716.2	衣	6	U+88BA
 088BD	袽					[]	[]	3720.1	衣	6	U+88BD
 088C2	裂					[]	[2595]	3719.1	衣	6	U+88C2
+088CE	裎					[]	[5306]	3722.2	衣	7	U+88CE
 088CF	裏			里		[裡]	[721]	3722.2	衣	7	U+88CF
 088D2	裒					[]	[5252]	3719.3	衣	7	U+88D2
 088D4	裔					[]	[5548]	3722.3	衣	7	U+88D4
@@ -2100,6 +2297,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0893B	褻			亵		[]	[5250]	3734.2	衣	11	U+893B
 08941	襁					[]	[6301]	3736.3	衣	11	U+8941
 08947	襇			裥		[襉]	[5307]	3737.2	衣	12	U+8947
+0895A	襚					[]	[7973]	3736.3	衣	13	U+895A
 0895F	襟					[]	[3449]	3737.3	衣	13	U+895F
 08962	襢		袒			[]	[4671]	3737.3	衣	13	U+8962
 08964	襤			褴		[]	[6011]	3739.2	衣	14	U+8964
@@ -2109,16 +2307,19 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0898F	規			规		[]	[952]	3760.1	見	4	U+898F
 089BA	覺			觉	覚	[]	[1694]	3765.3	見	5	U+89BA
 089BD	覽			览	覧	[]	[1472]	3766.2	見	10	U+89BD
+089BF	覿			觌		[]	[7337]	3766.3	見	15	U+89BF
 089D3	觓					[𧢳]	[]	3771.3	角	7	U+89D3
 089E5	觥					[]	[5535]	3773.1	角	6	U+89E5
 089E9	觩					[]	[]	3779.3	角	7	U+89E9
 089F4	觴			觞		[]	[5243]	3780.3	角	11	U+89F4
 089F5	觵					[]	[]	3781.1	角	6	U+89F5
+08A00	言					[]	[826]	3782.1	言	0	U+8A00
 08A02	訂			订		[]	[169]	3786.1	言	2	U+8A02
 08A04	訄					[]	[6873]	3786.2	null	null	U+8A04
 08A08	計			计		[]	[168]	3784.2	言	2	U+8A08
 08A0C	訌			讧		[]	[3555]	3787.2	言	3	U+8A0C
 08A0E	討			讨		[]	[315]	3786.3	言	3	U+8A0E
+08A10	訐			讦		[]	[3554]	3786.3	言	3	U+8A10
 08A13	訓			训		[]	[319]	3789.1	言	3	U+8A13
 08A15	訕			讪		[]	[3556]	3787.2	言	3	U+8A15
 08A16	訖			讫		[]	[3557]	3788.3	言	3	U+8A16
@@ -2130,10 +2331,12 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08A2D	設			设		[]	[560]	3794.3	言	4	U+8A2D
 08A31	許			许		[]	[554]	3792.2	言	4	U+8A31
 08A35	訵					[]	[]	null	言	5	U+8A35
+08A39	訹					[]	[0]	3797.1	null	null	U+8A39
 08A3C	証					[]	[]	3796.3	言	5	U+8A3C
 08A41	詁			诂		[]	[3794]	3796.3	言	5	U+8A41
 08A4E	詎			讵		[]	[3632]	3791.2	言	5	U+8A4E
 08A58	詘			诎		[]	[6627]	3801.1	言	5	U+8A58
+08A60	詠		咏			[]	[1101]	3795.3	言	5	U+8A60
 08A69	詩			诗		[]	[1288]	3804.2	言	6	U+8A69
 08A6C	詬			诟		[訽]	[4053]	3810.3	言	6	U+8A6C
 08A6E	詮			诠		[]	[4054]	3809.2	言	6	U+8A6E
@@ -2148,9 +2351,11 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08A9E	語			语		[]	[1707]	3816.1	言	7	U+8A9E
 08AA0	誠			诚		[]	[1291]	3808.2	言	6	U+8AA0
 08AA1	誡			诫		[]	[1704]	3815.1	言	7	U+8AA1
+08AA3	誣			诬		[]	[1706]	3815.3	言	7	U+8AA3
 08AA4	誤			误	誤	[]	[1714]	3816.3	言	7	U+8AA4
 08AA6	誦			诵		[]	[1718]	3818.2	言	7	U+8AA6
 08ABC	誼			谊		[]	[2128]	3818.3	言	8	U+8ABC
+08ABE	誾			訚		[]	[4631]	3824.3	言	8	U+8ABE
 08ABF	調			调		[]	[2123]	3826.2	言	8	U+8ABF
 08ACB	請			请		[]	[2108]	3820.2	言	8	U+8ACB
 08ACD	諍			诤		[]	[4056]	3825.1	言	8	U+8ACD
@@ -2160,10 +2365,12 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08ADC	諜			谍		[]	[2460]	3830.2	言	9	U+8ADC
 08AF3	諳			谙		[]	[5007]	3828.3	言	9	U+8AF3
 08AF8	諸			诸		[]	[2110]	3821.2	言	8	U+8AF8
+08B02	謂			谓		[]	[2466]	3832.1	言	9	U+8B02
 08B04	謄			誊		[]	[2997]	3838.3	言	10	U+8B04
 08B07	謇					[]	[6299]	3833.2	言	10	U+8B07
 08B0E	謎			谜		[]	[2468]	3829.2	言	10	U+8B0E
 08B1D	謝			谢		[]	[2795]	3836.2	言	10	U+8B1D
+08B26	謦					[]	[0]	3839.3	言	11	U+8B26
 08B37	謷					[謸]	[]	3839.2	言	11	U+8B37
 08B41	譁		嘩	哗		[]	[1507]	3839.2	言	11	U+8B41
 08B4C	譌		訛	讹		[]	[555]	3843.3	言	4	U+8B4C
@@ -2171,11 +2378,15 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08B66	警					[]	[3453]	3846.3	言	12	U+8B66
 08B70	議			议		[]	[320]	3846.1	言	13	U+8B70
 08B75	譵					[]	[]	null	null	null	U+8B75
+08B80	讀			读	読	[]	[2112]	3850.1	言	7	U+8B80
+08B86	讆					[讏]	[0]	3851.2	null	null	U+8B86
 08B8E	讎		仇			[雠, 讐]	[133]	3851.3	言	16	U+8B8E
+08B9F	讟					[]	[0]	3854.3	言	22	U+8B9F
 08C3C	谼					[]	[7552]	3856.1	null	null	U+8C3C
 08C3D	谽					[]	[]	3856.2	谷	7	U+8C3D
 08C47	豇					[]	[4468]	3858.3	豆	3	U+8C47
 08C4A	豊					[]	[]	3859.1	豆	6	U+8C4A
+08C55	豕					[]	[3688]	3863.1	豕	0	U+8C55
 08C6B	豫				予	[]	[3313]	3871.1	亅	3	U+8C6B
 08C85	貅					[㹯]	[5514]	3876.1	豸	6	U+8C85
 08C89	貉					[狢]	[5515]	3876.1	豸	6	U+8C89
@@ -2205,6 +2416,8 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08CF8	賸		剩			[]	[2675]	3913.2	貝	10	U+8CF8
 08D07	贇			赟		[]	[6153]	3914.1	貝	12	U+8D07
 08D0F	贏			赢		[]	[3427]	3915.2	貝	13	U+8D0F
+08D14	贔			赑		[]	[7370]	3916.2	貝	14	U+8D14
+08D16	贖			赎		[]	[2652]	3916.2	貝	15	U+8D16
 08D1C	贜			赃		[贓]	[1927]	3916.1	貝	14	U+8D1C
 08D64	赤					[]	[631]	3917.1	赤	0	U+8D64
 08D66	赦					[]	[2172]	3923.2	赤	4	U+8D66
@@ -2214,14 +2427,18 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08D6D	赭					[]	[5863]	3924.2	赤	9	U+8D6D
 08D6F	赯					[]	[]	3925.3	null	null	U+8D6F
 08D73	赳					[𧺇]	[4099]	3927.1	走	3	U+8D73
+08D76	赶					[]	[1788]	3927.1	null	null	U+8D76
 08D77	起					[]	[1789]	3927.2	走	3	U+8D77
 08D8A	越					[]	[2514]	3928.3	走	5	U+8D8A
+08D95	趕			赶		[]	[1788]	3936.1	走	7	U+8D95
 08D97	趗					[]	[]	3936.1	null	null	U+8D97
 08D99	趙			赵		[]	[1378]	3932.3	走	7	U+8D99
+08DAF	趯					[]	[8078]	3938.3	走	14	U+8DAF
 08DB3	足					[]	[731]	3989.1	足	0	U+8DB3
 08DBC	趼					[]	[7162]	3939.3	null	null	U+8DBC
 08DBE	趾					[]	[2274]	3940.2	足	4	U+8DBE
 08DC7	跇					[]	[]	3941.2	null	null	U+8DC7
+08DCC	跌					[]	[2630]	3942.2	足	5	U+8DCC
 08DD1	跑					[]	[2631]	3943.1	足	5	U+8DD1
 08DD4	跔					[]	[]	3943.1	null	null	U+8DD4
 08DD6	跖					[]	[5135]	3941.2	足	5	U+8DD6
@@ -2245,21 +2462,29 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08E40	蹀					[]	[6091]	3953.2	足	9	U+8E40
 08E47	蹇					[]	[6298]	3955.1	足	10	U+8E47
 08E49	蹉					[]	[6095]	3952.3	足	10	U+8E49
+08E55	蹕			跸		[]	[5454]	3959.1	足	11	U+8E55
 08E5C	蹜					[]	[7998]	3957.2	null	null	U+8E5C
 08E60	蹠		跖			[]	[5135]	3957.3	足	5	U+8E60
 08E61	蹡					[]	[]	3959.2	null	null	U+8E61
 08E72	蹲					[]	[3458]	3959.3	足	12	U+8E72
 08E76	蹶					[蹷]	[6384]	3960.2	足	12	U+8E76
 08E87	躇					[]	[6332]	3960.2	足	12	U+8E87
+08E8D	躍			跃		[]	[2276]	3962.2	足	14	U+8E8D
+08E90	躐					[]	[6471]	3963.2	足	15	U+8E90
 08E94	躔					[]	[8093]	3962.3	足	15	U+8E94
+08E97	躗					[躛]	[0]	3963.1	null	null	U+8E97
 08E9E	躞					[]	[6488]	3963.2	足	17	U+8E9E
+08EAA	躪			躏		[躙]	[3492]	3964.2	足	16	U+8EAA
+08EAB	身					[]	[786]	3964.1	身	0	U+8EAB
 08EAC	躬					[]	[1972]	3965.3	身	3	U+8EAC
 08EB0	躰					[]	[]	null	人	5	U+8EB0
 08EB3	躳		躬			[]	[1972]	3966.2	身	3	U+8EB3
 08ECA	車			车		[]	[100]	3967.1	車	0	U+8ECA
 08ECC	軌			轨		[]	[404]	3972.3	車	2	U+8ECC
 08ED1	軑			轪		[]	[6585]	3975.1	車	3	U+8ED1
+08ED2	軒			轩		[]	[709]	3973.2	車	3	U+8ED2
 08EF8	軸			轴		[]	[1462]	3976.3	車	5	U+8EF8
+08EFC	軼			轶		[]	[4181]	3977.3	車	5	U+8EFC
 08F03	較			较		[]	[1876]	3978.3	車	6	U+8F03
 08F05	輅			辂		[]	[4486]	3980.2	車	6	U+8F05
 08F07	輇			辁		[]	[6978]	3980.1	null	null	U+8F07
@@ -2268,6 +2493,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08F1E	輞			辋		[]	[5118]	3985.2	車	8	U+8F1E
 08F26	輦			辇		[]	[5057]	3984.1	車	8	U+8F26
 08F45	轅			辕		[]	[5686]	3990.2	車	10	U+8F45
+08F46	轆			辘		[]	[5898]	3992.2	車	11	U+8F46
 08F56	轖					[]	[]	3996.1	null	null	U+8F56
 08F5E	轞					[]	[]	3997.1	null	null	U+8F5E
 08F9C	辜					[]	[2560]	3999.1	辛	5	U+8F9C
@@ -2281,6 +2507,8 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 08FD5	迕					[]	[3724]	4010.3	辵	4	U+8FD5
 08FEA	迪					[]	[1091]	4013.3	辵	5	U+8FEA
 08FEB	迫					[]	[1156]	4014.3	辵	5	U+8FEB
+08FED	迭					[]	[1123]	4014.1	辵	5	U+8FED
+08FF0	述					[]	[1032]	4013.2	辵	5	U+8FF0
 08FF4	迴			回		[逥, 𮞉]	[438]	4018.3	廴	6	U+8FF4
 08FF5	迵					[]	[]	4018.3	辵	6	U+8FF5
 08FF7	迷					[]	[1647]	4017.1	辵	6	U+8FF7
@@ -2290,13 +2518,16 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09011	逑					[]	[4464]	4023.1	辵	7	U+9011
 09014	途					[]	[1982]	4029.3	辵	7	U+9014
 09016	逖					[]	[4606]	4032.1	辵	7	U+9016
+09019	這			这		[]	[837]	4022.3	辵	7	U+9019
 0901A	通					[]	[2145]	4032.1	辵	7	U+901A
 0901B	逛					[]	[2003]	4032.1	null	null	U+901B
+0901E	逞					[]	[1886]	4029.2	辵	7	U+901E
 09020	造					[]	[1940]	4029.3	辵	7	U+9020
 09021	逡					[]	[4698]	4037.3	辵	7	U+9021
 09023	連			连		[]	[708]	4023.2	辵	7	U+9023
 09031	週		周			[]	[1192]	4042.1	辵	8	U+9031
 09035	逵					[]	[4727]	4038.1	辵	8	U+9035
+09042	遂					[]	[2746]	4048.3	辵	9	U+9042
 09051	遑					[]	[5214]	4053.2	辵	9	U+9051
 09053	道					[衜, 𨕥, 衟]	[2745]	4045.1	辵	9	U+9053
 09060	遠			远		[]	[608]	4055.1	辵	10	U+9060
@@ -2305,10 +2536,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09075	遵					[]	[3288]	4060.2	辵	12	U+9075
 0907A	遺			遗		[]	[2633]	4063.3	辵	12	U+907A
 09081	邁			迈		[]	[408]	4068.2	辵	12	U+9081
+09083	邃					[]	[6300]	4071.1	辵	14	U+9083
 09085	邅					[]	[]	4068.1	辵	13	U+9085
 0908A	邊			边	辺	[]	[337]	4071.2	辵	2	U+908A
+0908D	邍					[]	[0]	4072.3	null	null	U+908D
 09091	邑					[]	[748]	4073.1	邑	0	U+9091
 09095	邕					[]	[4707]	4074.3	邑	3	U+9095
+09097	邗					[]	[3528]	4074.1	邑	3	U+9097
 09099	邙					[]	[3552]	4074.1	邑	3	U+9099
 0909B	邛					[]	[3529]	4074.1	邑	3	U+909B
 090A2	邢					[郉, 𨙷]	[3567]	4075.3	邑	4	U+90A2
@@ -2326,12 +2560,14 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 090DB	郛					[]	[4277]	4085.2	邑	7	U+90DB
 090DD	郝					[]	[4103]	4084.1	邑	7	U+90DD
 090E1	郡					[]	[4375]	4086.1	邑	7	U+90E1
+090E2	郢					[]	[4191]	4084.3	邑	7	U+90E2
 090F2	郲					[]	[]	4096.2	邑	8	U+90F2
 090F4	郴					[]	[4449]	4096.2	邑	8	U+90F4
 090F5	郵			邮		[]	[732]	4096.2	邑	8	U+90F5
 090FD	都					[]	[1801]	4090.2	邑	8	U+90FD
 09116	鄖			郧		[]	[4217]	4102.2	邑	10	U+9116
 09118	鄘					[]	[7574]	4104.1	邑	11	U+9118
+0911C	鄜					[]	[7576]	4104.1	邑	11	U+911C
 09134	鄴			邺		[]	[3696]	4112.2	邑	13	U+9134
 0913A	鄺			邝		[]	[3551]	4113.1	邑	15	U+913A
 0914A	酊					[]	[4162]	4115.1	酉	2	U+914A
@@ -2347,6 +2583,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0916A	酪					[]	[2873]	4124.1	酉	6	U+916A
 0916C	酬					[]	[2874]	4123.2	酉	6	U+916C
 0916E	酮					[]	[5412]	4124.1	null	null	U+916E
+09172	酲					[]	[7657]	4124.2	酉	7	U+9172
 09174	酴					[]	[7658]	4124.3	酉	7	U+9174
 09178	酸					[]	[3089]	4125.1	酉	7	U+9178
 09190	醐					[]	[6069]	4129.1	酉	9	U+9190
@@ -2367,6 +2604,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 091DD	針			针		[]	[757]	4169.3	金	2	U+91DD
 091E6	釦		扣			[]	[357]	4171.3	金	3	U+91E6
 091E7	釧			钏		[]	[3941]	4171.3	金	3	U+91E7
+091EC	釬		焊			[]	[2408]	4171.1	金	3	U+91EC
 091ED	釭					[]	[]	4171.2	金	3	U+91ED
 09203	鈃			钘		[銒, 𨥙]	[6843]	4174.1	null	null	U+9203
 09204	鈄			钭		[]	[6851]	null	null	null	U+9204
@@ -2377,12 +2615,15 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09214	鈔			钞		[]	[1527]	4175.1	金	4	U+9214
 09237	鈷			钴		[]	[4529]	4178.3	金	5	U+9237
 0923F	鈿			钿		[]	[4535]	4180.1	金	5	U+923F
+09244	鉄					[]	[0]	4227.2	金	5	U+9244
 09245	鉅			钜		[]	[6845]	4174.1	金	5	U+9245
 09249	鉉			铉		[]	[4541]	4177.3	金	5	U+9249
 0924B	鉋		刨			[]	[821]	4184.3	金	5	U+924B
 0925E	鉞			钺		[]	[4532]	4179.2	金	5	U+925E
 09262	鉢			钵		[缽]	[4530]	4179.1	金	5	U+9262
+09265	鉥			𬬸		[]	[7004]	4178.3	金	5	U+9265
 09266	鉦			钲		[]	[4528]	4178.1	金	5	U+9266
+0926E	鉮			𬬹		[]	[7007]	0	null	null	U+926E
 09276	鉶			铏		[𨦕]	[7176]	4185.2	null	null	U+9276
 09278	鉸			铰		[]	[4883]	4285.1	金	6	U+9278
 0927B	鉻			铬		[]	[4880]	4191.3	null	null	U+927B
@@ -2396,12 +2637,14 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09296	銖			铢		[]	[4872]	4189.2	金	6	U+9296
 09297	銗					[]	[]	4190.1	金	6	U+9297
 09298	銘			铭		[]	[2307]	4191.2	金	6	U+9298
+0929B	銛					[]	[0]	4190.1	金	6	U+929B
 0929C	銜			衔		[啣]	[2342]	4190.1	金	6	U+929C
 092B6	銶			𨱇		[]	[7377]	4195.3	null	null	U+92B6
 092B7	銷			销		[]	[2659]	4197.2	金	7	U+92B7
 092C1	鋁			铝		[]	[2305]	null	null	null	U+92C1
 092C3	鋃			锒		[]	[5188]	4195.3	null	null	U+92C3
 092D9	鋙			铻		[]	[5178]	4197.1	金	7	U+92D9
+092E5	鋥			锃		[]	[5181]	0	金	7	U+92E5
 092E9	鋩					[]	[]	4195.3	金	6	U+92E9
 092F0	鋰			锂		[]	[5182]	null	null	null	U+92F0
 092F8	鋸			锯		[]	[2944]	4208.2	金	8	U+92F8
@@ -2428,9 +2671,13 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 0940F	鐏			𨱔		[]	[7944]	4225.1	金	12	U+940F
 09452	鑒			鉴	鑑	[]	[2894]	4234.2	金	15	U+9452
 0945B	鑛		礦	矿	鉱	[]	[1045]	4234.3	金	5	U+945B
+0945E	鑞			镴		[]	[6436]	4235.2	金	15	U+945E
 09470	鑰			钥		[]	[1531]	4236.1	金	17	U+9470
 09577	長			长		[]	[127]	4239.1	長	0	U+9577
+09580	門			门		[]	[55]	4252.1	門	0	U+9580
 09586	閆			闫		[]	[6546]	null	門	8	U+9586
+09588	閈					[]	[0]	4257.2	門	3	U+9588
+09589	閉			闭		[]	[527]	4257.3	門	3	U+9589
 0958B	開			开		[]	[76]	4259.1	門	4	U+958B
 0958F	閏			闰		[閠]	[845]	4259.1	門	4	U+958F
 09591	閑			闲		[]	[846]	4264.2	門	4	U+9591
@@ -2439,13 +2686,16 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09594	閔			闵		[]	[3763]	4258.2	門	4	U+9594
 095A3	閣			阁		[]	[1639]	4270.2	門	6	U+95A3
 095A4	閤			阁		[]	[1639]	4270.1	門	6	U+95A4
+095A9	閩			闽		[]	[1637]	4269.2	門	6	U+95A9
 095AB	閫			阃		[]	[4629]	4272.2	門	7	U+95AB
 095AC	閬			阆		[]	[4632]	4272.1	門	7	U+95AC
 095AD	閭			闾		[]	[4317]	4272.3	門	7	U+95AD
+095B5	閵					[]	[0]	4274.3	null	null	U+95B5
 095C7	闇		暗			[]	[2909]	4276.1	門	9	U+95C7
 095CD	闍			阇		[]	[4945]	4273.3	門	9	U+95CD
 095D5	闕			阙		[]	[5554]	4277.3	門	10	U+95D5
 095DA	闚		窺	窥		[]	[3027]	4279.3	穴	11	U+95DA
+095DC	關			关	関	[]	[532]	4280.1	門	6	U+95DC
 095E0	闠					[]	[]	4284.1	null	null	U+95E0
 0961C	阜					[]	[3968]	4285.1	阜	0	U+961C
 0961E	阞					[]	[]	4285.3	null	null	U+961E
@@ -2454,19 +2704,24 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09629	阩					[]	[]	null	null	null	U+9629
 0962F	阯		址			[]	[623]	4289.1	土	4	U+962F
 09631	阱					[]	[3638]	4287.3	穴	4	U+9631
+0964B	陋					[]	[1317]	4299.2	阜	6	U+964B
 0964C	陌					[]	[1318]	4299.3	阜	6	U+964C
 0965E	陞		升			[]	[125, 6909]	4307	阜	7	U+965E
+0965F	陟					[]	[4381]	4304.3	阜	7	U+965F
 09661	陡					[]	[1727]	4303.1	阜	7	U+9661
 09664	除					[]	[1732]	4305.2	阜	7	U+9664
 09670	陰			阴		[隂]	[575]	4318.1	阜	8	U+9670
 09676	陶					[]	[2137]	4323.2	阜	8	U+9676
 09678	陸			陆		[]	[912]	4308.1	阜	8	U+9678
 0967D	陽			阳		[]	[572]	4328.1	阜	9	U+967D
+0968A	隊			队		[]	[180]	4326.2	阜	9	U+968A
 0968D	隍					[]	[5014]	4334.2	阜	9	U+968D
 09695	隕			陨		[]	[1731]	4337.1	阜	10	U+9695
 09699	隙					[]	[2806]	4336.3	阜	10	U+9699
 096A4	隤			𬯎		[]	[7260]	4341.3	阜	12	U+96A4
+096A7	隧					[]	[3182]	4338.3	阜	13	U+96A7
 096AA	險			险	険	[]	[1733]	4341.3	阜	8	U+96AA
+096B8	隸			隶	隷	[]	[1305]	4346.1	隶	8	U+96B8
 096C0	雀					[]	[2255]	4348.2	隹	3	U+96C0
 096C7	雇					[]	[2789]	4349.3	隹	4	U+96C7
 096CA	雊					[]	[7564]	4360.2	隹	5	U+96CA
@@ -2480,6 +2735,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 096EF	雯					[]	[5115]	4381.3	雨	4	U+96EF
 096F2	雲			云		[]	[82]	4382.1	雨	4	U+96F2
 096F9	雹					[]	[2887]	4393.3	雨	5	U+96F9
+096FB	電			电		[]	[242]	4390.1	雨	5	U+96FB
 09702	霂					[]	[]	4394.3	null	null	U+9702
 09704	霄					[]	[3230]	4396.2	雨	7	U+9704
 09716	霖					[]	[6076]	4397.2	雨	8	U+9716
@@ -2512,6 +2768,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 097C1	韁		繮	缰		[]	[3386]	4444.3	革	13	U+97C1
 097D4	韔					[䩨]	[]	4448.1	韋	8	U+97D4
 097D8	韘					[]	[]	4451.1	韋	9	U+97D8
+097E0	韠					[]	[0]	4452.2	韋	11	U+97E0
 097F3	音					[]	[1632]	4453.1	音	0	U+97F3
 097FB	韻		韵			[]	[2995]	4456.2	音	10	U+97FB
 097FD	韽					[]	[]	4457.2	null	null	U+97FD
@@ -2520,6 +2777,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09803	頃			顷		[]	[1058]	4459.3	頁	2	U+9803
 09805	項			项		[]	[1370]	4460.2	頁	3	U+9805
 09806	順			顺		[]	[1559]	4461.2	頁	3	U+9806
+09807	頇			顸		[]	[4090]	4460.2	null	null	U+9807
 09808	須			须		[]	[1585]	4463.1	頁	3	U+9808
 0980A	頊			顼		[]	[4403]	4464.2	頁	4	U+980A
 09810	預			预		[]	[2148]	4467.3	頁	4	U+9810
@@ -2531,6 +2789,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09837	頷			颔		[]	[5516]	4474.2	頁	7	U+9837
 0983D	頽			颓		[穨, 頹]	[2950]	4474.2	頁	7	U+983D
 0984D	額			额		[頟]	[3304]	4475.3	頁	9	U+984D
+09858	願			愿		[]	[3094]	4482.3	頁	10	U+9858
 09867	顧			顾		[]	[1874]	4483.2	頁	12	U+9867
 0986B	顫			颤		[]	[3465]	4486.1	頁	13	U+986B
 0986F	顯			显	顕	[]	[1485]	4486.2	頁	9	U+986F
@@ -2540,6 +2799,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 098E3	飣			饤		[]	[]	4510.1	食	2	U+98E3
 098F2	飲			饮		[㱃]	[824]	4512.1	食	4	U+98F2
 098FD	飽			饱		[]	[1202]	4516.3	食	5	U+98FD
+09909	餉			饷		[]	[4299]	4518.1	食	6	U+9909
 0990C	餌			饵		[]	[1610]	4517.3	食	6	U+990C
 09913	餓			饿		[]	[2012]	4520.3	食	7	U+9913
 09915	餕					[]	[]	4521.1	食	7	U+9915
@@ -2550,6 +2810,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09939	餹		糖			[]	[3374]	4524.1	null	null	U+9939
 0993B	餻		糕			[]	[3375]	4524.1	米	10	U+993B
 0993C	餼			饩		[]	[3751]	4524.2	食	10	U+993C
+09946	饆					[]	[0]	4525.1	食	11	U+9946
 0994A	饊			馓		[]	[5978]	4526.1	null	null	U+994A
 0994B	饋			馈		[]	[2724]	4526.1	食	12	U+994B
 09954	饔					[]	[6475]	4527.1	食	13	U+9954
@@ -2558,6 +2819,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09996	首					[𩠐]	[1651]	4528.1	首	0	U+9996
 09997	馗					[]	[4931]	4531.2	首	2	U+9997
 09999	香					[]	[1548]	4531.1	香	0	U+9999
+099A8	馨					[]	[3475]	4537.2	香	11	U+99A8
 099AD	馭			驭		[]	[3562]	4555.2	馬	2	U+99AD
 099B1	馱			驮	駄	[䭾]	[590]	4555.3	馬	4	U+99B1
 099B4	馴			驯		[]	[592]	4555.3	馬	3	U+99B4
@@ -2571,15 +2833,20 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 099FC	駼			𬳿		[]	[7093]	4565.1	馬	7	U+99FC
 099FF	駿			骏		[]	[2154]	4565.2	馬	7	U+99FF
 09A00	騀					[]	[]	4565.1	null	null	U+9A00
+09A01	騁			骋		[]	[4702]	4565.1	馬	7	U+9A01
 09A0A	騊			𫘦		[]	[7276]	4568.1	馬	8	U+9A0A
 09A0B	騋					[]	[]	4566.2	馬	8	U+9A0B
 09A2B	騫			骞		[]	[5592]	4569.1	馬	10	U+9A2B
+09A2D	騭			骘		[隲]	[5319]	4572.1	馬	10	U+9A2D
 09A30	騰			腾		[]	[2975]	4569.3	馬	10	U+9A30
+09A35	騵			𫘪		[]	[7617]	4569.2	馬	n	U+9A35
 09A41	驁			骜		[䮯]	[5347]	4572.1	馬	11	U+9A41
 09A4A	驊			骅		[]	[4395]	4572.2	null	null	U+9A4A
 09A57	驗			验	験	[]	[2152]	4577.2	馬	8	U+9A57
 09A5A	驚			惊		[]	[2445]	4575.3	馬	12	U+9A5A
+09A65	驥			骥		[]	[6418]	4578.1	馬	16	U+9A65
 09A66	驦			骦		[]	[8072]	4579.1	null	null	U+9A66
+09AAD	骭					[]	[0]	4539.2	骨	3	U+9AAD
 09AB0	骰					[]	[5481]	4540.1	骨	4	U+9AB0
 09AB9	骹					[]	[]	4540.3	骨	6	U+9AB9
 09ABC	骼					[]	[5944]	4541.1	骨	6	U+9ABC
@@ -2590,9 +2857,11 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09AFB	髻					[]	[6036]	4593.2	髟	6	U+9AFB
 09B0D	鬍			胡		[]	[1419]	4595.2	髟	9	U+9B0D
 09B1A	鬚			须		[]	[1585]	4596.2	髟	12	U+9B1A
+09B23	鬣					[]	[6494]	4597.2	髟	15	U+9B23
 09B25	鬥			斗		[]	[166]	4597.1	鬥	0	U+9B25
 09B28	鬨		哄			[閧]	[1483]	4598.1	鬥	6	U+9B28
 09B2D	鬭		鬥	斗	闘	[鬪]	[166]	4598.2	門	10	U+9B2D
+09B2E	鬮			阄		[]	[4630]	4599.3	鬥	16	U+9B2E
 09B2F	鬯					[]	[7028]	4600.1	鬯	0	U+9B2F
 09B31	鬱			郁		[欝]	[1043]	4600.1	鬯	19	U+9B31
 09B42	魂					[䰟]	[2830]	4607.3	鬼	4	U+9B42
@@ -2621,6 +2890,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09C0D	鰍			鳅		[]	[6280]	4631.1	魚	9	U+9C0D
 09C23	鰣			鲥		[]	[5972]	4632.2	魚	10	U+9C23
 09C27	鰧			䲢		[]	[8014]	4633.1	魚	10	U+9C27
+09C2C	鰬					[]	[0]	4632.2	null	null	U+9C2C
 09C31	鰱			鲢		[]	[5970]	4632.1	魚	11	U+9C31
 09C32	鰲			鳌		[]	[6311]	4633.3	黽	11	U+9C32
 09C39	鰹			鲣		[]	[5971]	4633.3	魚	11	U+9C39
@@ -2633,6 +2903,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09C67	鱧			鳢		[]	[6454]	4637.1	魚	13	U+9C67
 09CE9	鳩			鸠		[]	[3748]	4642.1	鳥	2	U+9CE9
 09CEC	鳬			凫		[鳧]	[3620]	4641.2	鳥	2	U+9CEC
+09CF4	鳴			鸣		[]	[1100]	4643.2	鳥	3	U+9CF4
 09D07	鴇			鸨		[]	[4289]	4651.1	鳥	4	U+9D07
 09D1D	鴝			鸲		[]	[4600]	4654.2	鳥	5	U+9D1D
 09D1E	鴞			鸮		[]	[4503]	4652.2	鳥	5	U+9D1E
@@ -2643,6 +2914,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09D3F	鴿			鸽		[]	[2349]	4658.1	鳥	6	U+9D3F
 09D41	鵁			䴔		[]	[7224]	4080.1	鳥	6	U+9D41
 09D42	鵂			鸺		[]	[7194]	4658.1	鳥	6	U+9D42
+09D50	鵐			鹀		[]	[7327]	0	鳥	7	U+9D50
 09D5D	鵝			鹅		[鵞, 䳘]	[2674]	4660.1	鳥	7	U+9D5D
 09D73	鵳					[]	[]	null	鳥	8	U+9D73
 09D7A	鵺					[]	[]	4662.2	鳥	8	U+9D7A
@@ -2667,9 +2939,11 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09E7A	鹺			鹾		[]	[7857]	4680.1	鹵	10	U+9E7A
 09E7C	鹼		碱			[硷, 鹸]	[3091]	4682.3	鹵	13	U+9E7C
 09E7D	鹽			盐	塩	[]	[1790]	4680.2	土	10	U+9E7D
+09E7F	鹿					[]	[2387]	4683.1	鹿	0	U+9E7F
 09E80	麀					[]	[7577]	4685.2	鹿	2	U+9E80
 09E8B	麋					[]	[6291]	4686.3	鹿	6	U+9E8B
 09E8C	麌					[]	[]	4687.1	鹿	7	U+9E8C
+09E93	麓					[]	[6374]	4687.3	鹿	8	U+9E93
 09E96	麖					[]	[8047]	4687.2	null	null	U+9E96
 09E9D	麝					[]	[6456]	4689.2	鹿	10	U+9E9D
 09EA5	麥			麦	麦	[]	[601]	4691.1	麥	0	U+9EA5
@@ -2685,6 +2959,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09EE0	黠					[]	[6340]	4721.1	黑	6	U+9EE0
 09EE5	黥					[]	[6433]	4721.2	黑	8	U+9EE5
 09EEF	黯					[]	[3493]	4722.3	黑	9	U+9EEF
+09EF7	黷			黩		[]	[6432]	4724.1	黑	15	U+9EF7
 09F04	鼄					[]	[]	4728.2	null	null	U+9F04
 09F07	鼇		鰲	鳌		[]	[6311]	4729.1	黽	11	U+9F07
 09F0E	鼎					[]	[2617]	4725.1	鼎	0	U+9F0E
@@ -2697,6 +2972,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09F2C	鼬					[]	[6350]	4734.3	鼠	5	U+9F2C
 09F2F	鼯					[]	[6440]	4735.1	鼠	7	U+9F2F
 09F3B	鼻					[]	[3128]	4736.1	鼻	0	U+9F3B
+09F3E	鼾					[]	[6264]	4737.1	鼻	3	U+9F3E
 09F41	齁					[]	[6400]	4737.2	鼻	5	U+9F41
 09F52	齒			齿	歯	[]	[1068]	4743.1	齒	15	U+9F52
 09F54	齔			龀		[齓]	[4489]	4744.2	齒	2	U+9F54
@@ -2708,6 +2984,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 09F72	齲			龋		[]	[6220]	4747.2	齒	9	U+9F72
 09F94	龔			龚		[]	[4801]	4763.1	龍	6	U+9F94
 09F95	龕			龛		[]	[4919]	4763.3	龍	6	U+9F95
+09F9C	龜			龟	亀	[]	[808]	4764.1	龜	0	U+9F9C
 09FA0	龠					[]	[6267]	4764.1	龠	0	U+9FA0
 09FA5	龥					[]	[]	null	竹	26	U+9FA5
 21484	𡒄	⿰土禀				[壈]	[]	877.1	null	null	U+21484
