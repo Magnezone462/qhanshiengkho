@@ -6,26 +6,38 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0342D-07980	禀		㐭			[禀]	[禾]		U+342D	U+7980
 0342D-21484	𡒄	⿰土禀	㐭			[禀]	[禾, 土]		U+342D	U+21484
 034B8-034B8	㒸		㒸			[]	[]		U+34B8	U+34B8
+034B8-0589C	墜		㒸			[]	[阜, 土]		U+34B8	U+589C
+034B8-071E7	燧		㒸			[遂]	[辵, 火]		U+34B8	U+71E7
+034B8-074B2	璲		㒸			[遂]	[辵, 玉]		U+34B8	U+74B2
+034B8-07A5F	穟		㒸			[遂]	[辵, 禾]		U+34B8	U+7A5F
+034B8-0895A	襚		㒸			[遂]	[辵, 衣]		U+34B8	U+895A
+034B8-09042	遂		㒸			[遂]	[辵]		U+34B8	U+9042
+034B8-09083	邃		㒸			[遂]	[辵, 穴]		U+34B8	U+9083
+034B8-0968A	隊		㒸			[]	[阜]		U+34B8	U+968A
+034B8-096A7	隧		㒸			[遂]	[辵, 阜]		U+34B8	U+96A7
 034F9-034F9	㓹		㓹			[]	[]		U+34F9	U+34F9
+034F9-07F7D	罽		㓹			[]	[网]		U+34F9	U+7F7D
 03537-03537	㔷		㔷			[]	[]		U+3537	U+3537
+03537-0964B	陋		㔷			[]	[阜]		U+3537	U+964B
 0355F-0355F	㕟		㕟			[]	[]		U+355F	U+355F
 0355F-084AF	蒯		㕟			[]	[刀]		U+355F	U+84AF
 03561-03561	㕡		㕡			[]	[]		U+3561	U+3561
 03561-058D1	壑		㕡			[]	[土]		U+3561	U+58D1
 03775-03775	㝵		㝵			[]	[]		U+3775	U+3775
+03775-05F97	得		㝵			[]	[彳]		U+3775	U+5F97
+03775-0788D	碍		㝵			[]	[石]		U+3775	U+788D
 038C7-038C7	㣇		㣇			[]	[]		U+38C7	U+38C7
+038C7-08084	肄		㣇			[]	[帇]		U+38C7	U+8084
+038C7-08086	肆		㣇		分	[]	[帇]		U+38C7	U+8086
 03951-03951	㥑		㥑			[]	[]		U+3951	U+3951
 03951-0512A	優		㥑			[憂]	[夊, 人]		U+3951	U+512A
 03951-06182	憂		㥑			[憂]	[夊]		U+3951	U+6182
 03951-08030	耰		㥑			[憂]	[夊, 耒]		U+3951	U+8030
-0395C-080C3	㥜		胃			[]	[心]		U+395C	U+80C3
-03D94-05970	㶔		奰			[]	[水]		U+3D94	U+5970
 03FDF-03FDF	㿟		㿟			[]	[]		U+3FDF	U+3FDF
 03FDF-0769B	皛		㿟			[]	[白]		U+3FDF	U+769B
 041DF-041DF	䇟		䇟			[]	[竹]		U+41DF	U+41DF
 041DF-09730	霰		䇟			[]	[竹, 雨]		U+41DF	U+9730
 045B5-045B5	䖵		䖵			[]	[]		U+45B5	U+45B5
-04BCE-05E72	䯎		干			[幹]	[倝, 骨]		U+4BCE	U+5E72
 04E00-04E00	一		一			[]	[]		U+4E00	U+4E00
 04E00-05F0C	弌		一			[]	[戌]		U+4E00	U+5F0C
 04E01-04E01	丁		丁			[]	[]		U+4E01	U+4E01
@@ -78,6 +90,8 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 04E03-09F54	齔		七			[]	[齒]		U+4E03	U+9F54
 04E07-04E07	万		万			[]	[]		U+4E07	U+4E07
 04E08-04E08	丈		丈			[]	[]		U+4E08	U+4E08
+04E08-04ED7	仗		丈			[]	[人]		U+4E08	U+4ED7
+04E08-06756	杖		丈			[]	[木]		U+4E08	U+6756
 04E09-04E09	三		三			[]	[]		U+4E09	U+4E09
 04E09-05F0E	弎		三			[]	[戌]		U+4E09	U+5F0E
 04E09-06749	杉		三			[]	[木]		U+4E09	U+6749
@@ -122,7 +136,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 04E2D-079CD	种		中			[]	[禾]		U+4E2D	U+79CD
 04E2D-0869B	蚛		中			[]	[虫]		U+4E2D	U+869B
 04E2D-08877	衷		中			[]	[衣]		U+4E2D	U+8877
-04E31-05375	丱		卵		分	[]	[]		U+4E31	U+5375
 04E32-04E32	串		串			[]	[]		U+4E32	U+4E32
 04E32-060A3	患		串			[患]	[心]		U+4E32	U+60A3
 04E32-06F36	漶		串			[患]	[心, 水]		U+4E32	U+6F36
@@ -341,7 +354,9 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 04EA6-08D66	赦		亦			[赦]	[攴]		U+4EA6	U+8D66
 04EA6-09D7A	鵺		亦			[夜]	[夕, 鳥]		U+4EA6	U+9D7A
 04EA8-04EA8	亨		亨			[]	[]		U+4EA8	U+4EA8
-04EAB-04EA8	享		亨		异	[]	[]		U+4EAB	U+4EA8
+04EA8-04EAB	享		亨		异	[]	[]		U+4EA8	U+4EAB
+04EA8-070F9	烹		亨			[]	[火]		U+4EA8	U+70F9
+04EA8-0811D	脝		亨			[]	[肉]		U+4EA8	U+811D
 04EAC-04EAC	京		京			[]	[]		U+4EAC	U+4EAC
 04EAC-04EAE	亮		京			[]	[人]		U+4EAC	U+4EAE
 04EAC-0501E	倞		京			[]	[人]		U+4EAC	U+501E
@@ -402,7 +417,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 04ECB-075A5	疥		介			[]	[疒]		U+4ECB	U+75A5
 04ECB-082A5	芥		介			[]	[艸]		U+4ECB	U+82A5
 04ECB-09F58	齘		介			[]	[齒]		U+4ECB	U+9F58
-04ED7-04E08	仗		丈			[]	[人]		U+4ED7	U+4E08
 04EDD-04EDD	仝		仝			[]	[]		U+4EDD	U+4EDD
 04EF6-04EF6	件		件			[]	[]		U+4EF6	U+4EF6
 04F01-04F01	企		企			[]	[]		U+4F01	U+4F01
@@ -416,7 +430,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 04F11-08C85	貅		休			[]	[豸]		U+4F11	U+8C85
 04F11-09AF9	髹		休			[]	[髟]		U+4F11	U+9AF9
 04F11-09D42	鵂		休			[]	[鳥]		U+4F11	U+9D42
-04F38-07533	伸		申			[]	[人]		U+4F38	U+7533
 04F59-04F58	佘		余		分	[]	[]		U+4F59	U+4F58
 04F59-04F59	余		余			[]	[]		U+4F59	U+4F59
 04F59-053D9	叙		余			[叙]	[攴]		U+4F59	U+53D9
@@ -444,7 +457,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 04F59-09664	除		余			[除]	[阜]		U+4F59	U+9664
 04F59-09918	餘		余			[]	[食]		U+4F59	U+9918
 04F59-099FC	駼		余			[]	[馬]		U+4F59	U+99FC
-04F5A-05931	佚		失			[]	[人]		U+4F5A	U+5931
 04F69-04F69	佩		佩			[]	[]		U+4F69	U+4F69
 04F86-04F86	來		來			[]	[]		U+4F86	U+4F86
 04F86-052D1	勑		來			[]	[力]		U+4F86	U+52D1
@@ -469,15 +481,12 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 04F86-09EA5	麥		來			[]	[夊]		U+4F86	U+9EA5
 04FC2-04FC2	係		係			[]	[]		U+4FC2	U+4FC2
 04FC2-07CFB	系		係		略	[]	[]		U+4FC2	U+7CFB
-04FDC-07539	俜		甹			[]	[人]		U+4FDC	U+7539
 04FDD-04FDD	保		保			[]	[]		U+4FDD	U+4FDD
 04FDD-05446	呆		保		略	[]	[]		U+4FDD	U+5446
 04FDD-05821	堡		保			[]	[土]		U+4FDD	U+5821
 04FDD-07DE5	緥		保			[]	[糸]		U+4FDD	U+7DE5
 04FDD-08446	葆		保			[]	[艸]		U+4FDD	U+8446
 04FDD-08913	褓		保			[]	[衣]		U+4FDD	U+8913
-0503C-076F4	值		直			[]	[人]		U+503C	U+76F4
-05041-0722F	偁		爯			[]	[人]		U+5041	U+722F
 05098-05098	傘		傘			[]	[]		U+5098	U+5098
 050C9-050C9	僉		僉			[]	[]		U+50C9	U+50C9
 050C9-05109	儉		僉			[]	[人]		U+50C9	U+5109
@@ -609,6 +618,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05179-093A1	鎡		兹			[]	[金]		U+5179	U+93A1
 05179-09DC0	鷀		兹			[]	[鳥]		U+5179	U+9DC0
 05180-05180	冀		冀			[]	[]		U+5180	U+5180
+05180-09A65	驥		冀			[]	[馬]		U+5180	U+9A65
 0518D-0518D	再		再			[]	[]		U+518D	U+518D
 051AC-04F5F	佟		冬			[]	[人]		U+51AC	U+4F5F
 051AC-051AC	冬		冬			[]	[]		U+51AC	U+51AC
@@ -618,7 +628,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 051AC-087BD	螽		冬			[]	[䖵]		U+51AC	U+87BD
 051AC-09F15	鼕		冬			[]	[鼓]		U+51AC	U+9F15
 051B6-051B6	冶		冶			[]	[]		U+51B6	U+51B6
-051D3-06817	凓		栗			[]	[冫]		U+51D3	U+6817
 051F6-05147	兇		凶			[]	[卩]		U+51F6	U+5147
 051F6-051F6	凶		凶			[]	[]		U+51F6	U+51F6
 051F6-05308	匈		凶			[匈]	[勹]		U+51F6	U+5308
@@ -647,7 +656,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05205-06881	梁		刅			[梁]	[梁]		U+5205	U+6881
 05205-06A11	樑		刅			[梁]	[梁, 木]		U+5205	U+6A11
 05205-07CB1	粱		刅			[梁]	[梁, 米]		U+5205	U+7CB1
-0520A-05E72	刊		干			[]	[刀]		U+520A	U+5E72
 05217-04F8B	例		列			[]	[刀, 人]		U+5217	U+4F8B
 05217-051BD	冽		列			[]	[刀, 冫]		U+5217	U+51BD
 05217-05217	列		列			[]	[刀]		U+5217	U+5217
@@ -744,7 +752,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05316-08A1B	訛		化			[]	[言]		U+5316	U+8A1B
 05316-08CA8	貨		化			[]	[貝]		U+5316	U+8CA8
 05316-09774	靴		化			[]	[革]		U+5316	U+9774
-05335-27DA0	匵		𧶠			[]	[貝, 匚]		U+5335	U+27DA0
 05339-05339	匹		匹			[]	[]		U+5339	U+5339
 05341-04EC0	什		十			[]	[人]		U+5341	U+4EC0
 05341-05341	十		十			[]	[]		U+5341	U+5341
@@ -791,9 +798,15 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05370-05370	印		印			[]	[]		U+5370	U+5370
 05370-06291	抑		印			[]	[手]		U+5370	U+6291
 05370-09BA3	鮣		印			[]	[魚]		U+5370	U+9BA3
+05375-04E31	丱		卵		分	[]	[]		U+5375	U+4E31
 05375-05375	卵		卵			[]	[]		U+5375	U+5375
+05375-095DC	關		卵			[]	[絲, 門]		U+5375	U+95DC
 0539A-0539A	厚		厚			[]	[]		U+539A	U+539A
 0539F-0539F	原		原			[]	[]		U+539F	U+539F
+0539F-05AC4	嫄		原			[]	[女]		U+539F	U+5AC4
+0539F-06E90	源		原			[]	[水]		U+539F	U+6E90
+0539F-08788	螈		原			[]	[虫]		U+539F	U+8788
+0539F-09A35	騵		原			[]	[馬]		U+539F	U+9A35
 053C8-04F51	佑		又			[右]	[口, 人]		U+53C8	U+4F51
 053C8-053C8	又		又			[]	[]		U+53C8	U+53C8
 053C8-053CB	友		又			[]	[又]		U+53C8	U+53CB
@@ -1036,6 +1049,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0540E-09297	銗		后			[]	[金]		U+540E	U+9297
 0540E-09B9C	鮜		后			[]	[魚]		U+540E	U+9B9C
 05411-05411	向		向			[]	[]		U+5411	U+5411
+05411-09909	餉		向			[]	[食]		U+5411	U+9909
 05415-04FA3	侣		吕			[]	[人]		U+5415	U+4FA3
 05415-05415	吕		吕			[]	[]		U+5415	U+5415
 05415-068A0	梠		吕			[]	[木]		U+5415	U+68A0
@@ -1054,12 +1068,19 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05434-08AA4	誤		吴			[]	[言]		U+5434	U+8AA4
 05434-09E8C	麌		吴			[]	[鹿]		U+5434	U+9E8C
 05448-05448	呈		呈			[]	[]		U+5448	U+5448
+05448-07A0B	程		呈			[]	[禾]		U+5448	U+7A0B
+05448-088CE	裎		呈			[]	[衣]		U+5448	U+88CE
+05448-0901E	逞		呈			[]	[辵]		U+5448	U+901E
+05448-090E2	郢		呈			[]	[邑]		U+5448	U+90E2
+05448-09172	酲		呈			[]	[酉]		U+5448	U+9172
+05448-092E5	鋥		呈			[]	[金]		U+5448	U+92E5
 05468-0501C	倜		周			[]	[人]		U+5468	U+501C
 05468-051CB	凋		周			[]	[冫]		U+5468	U+51CB
 05468-05468	周		周			[]	[]		U+5468	U+5468
 05468-05541	啁		周			[]	[口]		U+5468	U+5541
 05468-05A64	婤		周			[]	[女]		U+5468	U+5A64
 05468-05F6B	彫		周			[]	[彡]		U+5468	U+5F6B
+05468-060C6	惆		周			[]	[心]		U+5468	U+60C6
 05468-060C6	惆		周			[]	[心]		U+5468	U+60C6
 05468-06906	椆		周			[]	[木]		U+5468	U+6906
 05468-07431	琱		周			[]	[玉]		U+5468	U+7431
@@ -1072,13 +1093,11 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05468-09031	週		周			[]	[辵]		U+5468	U+9031
 05468-096D5	雕		周			[]	[隹]		U+5468	U+96D5
 05468-09BDB	鯛		周			[]	[魚]		U+5468	U+9BDB
-0547B-07533	呻		申			[]	[口]		U+547B	U+7533
 0548E-0548E	咎		咎			[]	[]		U+548E	U+548E
 0548E-06677	晷		咎			[]	[日]		U+548E	U+6677
 0548E-06ADC	櫜		咎			[]	[束]		U+548E	U+6ADC
 0548E-07DB9	綹		咎			[]	[糸]		U+548E	U+7DB9
 0548E-09F1B	鼛		咎			[]	[鼓]		U+548E	U+9F1B
-0548F-06C38	咏		永			[]	[口]		U+548F	U+6C38
 054C1-054C1	品		品			[]	[]		U+54C1	U+54C1
 054C1-081E8	臨		品			[]	[卧]		U+54C1	U+81E8
 054E1-052DB	勛		員			[]	[鼎, 力]		U+54E1	U+52DB
@@ -1093,11 +1112,8 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 054E1-09695	隕		員			[]	[鼎, 阜]		U+54E1	U+9695
 054E1-09723	霣		員			[]	[鼎, 雨]		U+54E1	U+9723
 054E1-097FB	韻		員			[]	[鼎, 音]		U+54E1	U+97FB
-054E2-05F04	哢		弄			[]	[口]		U+54E2	U+5F04
-05501-08A00	唁		言			[]	[口]		U+5501	U+8A00
+054ED-054ED	哭		哭			[]	[]		U+54ED	U+54ED
 05546-05546	商		商			[]	[]		U+5546	U+5546
-0554F-09580	問		門			[]	[口]		U+554F	U+9580
-0559F-080C3	喟		胃			[]	[口]		U+559F	U+80C3
 055A6-055A6	喦		喦			[]	[]		U+55A6	U+55A6
 055C7-058BB	墻		嗇			[]	[土]		U+55C7	U+58BB
 055C7-05B19	嬙		嗇			[]	[女]		U+55C7	U+5B19
@@ -1133,9 +1149,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0571F-0675C	杜		土			[]	[木]		U+571F	U+675C
 0571F-0793E	社		土			[]	[示]		U+571F	U+793E
 0571F-0809A	肚		土			[]	[肉]		U+571F	U+809A
-057BE-05E72	垾		干			[旱]	[日, 土]		U+57BE	U+5E72
 057DC-057DC	埜		埜			[]	[]		U+57DC	U+57DC
-057F4-076F4	埴		直			[]	[土]		U+57F4	U+76F4
 057F6-052E2	勢		埶			[]	[力]		U+57F6	U+52E2
 057F6-056C8	囈		埶			[蓺, 藝]	[艸, 云, 口]		U+57F6	U+56C8
 057F6-057F6	埶		埶			[]	[]		U+57F6	U+57F6
@@ -1147,7 +1161,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 057F6-08A2D	設		埶			[]	[設]		U+57F6	U+8A2D
 05831-05831	報		報			[]	[]		U+5831	U+5831
 05875-05875	塵		塵			[]	[]		U+5875	U+5875
-0589C-034B8	墜		㒸			[]	[阜, 土]		U+589C	U+34B8
 058FA-058FA	壺		壺			[]	[]		U+58FA	U+58FA
 058FC-058FC	壼		壼			[]	[]		U+58FC	U+58FC
 05903-05903	夃		夃			[]	[]		U+5903	U+5903
@@ -1196,14 +1209,28 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05929-05929	天		天			[]	[]		U+5929	U+5929
 05929-07946	祆		天			[]	[示]		U+5929	U+7946
 05929-08695	蚕		天			[]	[虫]		U+5929	U+8695
+05931-04F5A	佚		失			[]	[人]		U+5931	U+4F5A
 05931-05931	失		失			[]	[]		U+5931	U+5931
+05931-05E19	帙		失			[]	[巾]		U+5931	U+5E19
+05931-062B6	抶		失			[]	[手]		U+5931	U+62B6
+05931-06633	昳		失			[]	[日]		U+5931	U+6633
+05931-074DE	瓞		失			[]	[瓜]		U+5931	U+74DE
+05931-079E9	秩		失			[]	[禾]		U+5931	U+79E9
+05931-07D29	紩		失			[]	[糸]		U+5931	U+7D29
+05931-088A0	袠		失			[]	[衣]		U+5931	U+88A0
+05931-08DCC	跌		失			[]	[足]		U+5931	U+8DCC
+05931-08EFC	軼		失			[]	[車]		U+5931	U+8EFC
+05931-08FED	迭		失			[]	[辵]		U+5931	U+8FED
+05931-09244	鉄		失			[]	[金]		U+5931	U+9244
 05961-056C2	囂		奡			[]	[㗊]		U+5961	U+56C2
 05961-05961	奡		奡			[]	[]		U+5961	U+5961
 0596A-0596A	奪		奪			[]	[]		U+596A	U+596A
 0596D-0596D	奭		奭			[]	[]		U+596D	U+596D
 0596D-0896B	襫		奭			[]	[衣]		U+596D	U+896B
 0596E-0596E	奮		奮			[]	[]		U+596E	U+596E
+05970-03D94	㶔		奰			[]	[水]		U+5970	U+3D94
 05970-05970	奰		奰			[]	[]		U+5970	U+5970
+05970-08D14	贔		奰		异	[]	[]		U+5970	U+8D14
 05973-052AA	努		女			[奴]	[又, 力]		U+5973	U+52AA
 05973-05973	女		女			[]	[]		U+5973	U+5973
 05973-05974	奴		女			[奴]	[又]		U+5973	U+5974
@@ -1224,7 +1251,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05973-088BD	袽		女			[如]	[口, 衣]		U+5973	U+88BD
 05973-099D1	駑		女			[奴]	[又, 馬]		U+5973	U+99D1
 05973-09D3D	鴽		女			[如]	[口, 鳥]		U+5973	U+9D3D
-05978-05E72	奸		干			[]	[女]		U+5978	U+5E72
 0597D-0597D	好		好			[]	[]		U+597D	U+597D
 0597D-08585	薅		好			[]	[薅]		U+597D	U+8585
 05983-0572E	圮		妃			[]	[土]		U+5983	U+572E
@@ -1238,10 +1264,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05A01-05A01	威		威			[]	[]		U+5A01	U+5A01
 05A01-05D34	崴		威			[]	[山]		U+5A01	U+5D34
 05A01-08473	葳		威			[]	[艸]		U+5A01	U+8473
-05A09-07539	娉		甹			[]	[女]		U+5A09	U+7539
 05A66-05A66	婦		婦			[]	[]		U+5A66	U+5A66
-05AC4-0539F	嫄		原			[]	[女]		U+5AC4	U+539F
-05B25-07FDF	嬥		翟			[]	[女]		U+5B25	U+7FDF
 05B34-05B34	嬴		嬴			[]	[女]		U+5B34	U+5B34
 05B34-0701B	瀛		嬴			[]	[女, 水]		U+5B34	U+701B
 05B34-08D0F	贏		嬴			[]	[貝]		U+5B34	U+8D0F
@@ -1392,6 +1415,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05C39-09835	頵		尹			[君]	[口, 頁]		U+5C39	U+9835
 05C4A-05C4A	届		届			[]	[]		U+5C4A	U+5C4A
 05C5A-05C5A	屚		屚			[]	[]		U+5C5A	U+5C5A
+05C5A-06F0F	漏		屚			[]	[水]		U+5C5A	U+6F0F
 05C65-05C65	履		履			[]	[]		U+5C65	U+5C65
 05C6E-05C6E	屮		屮			[]	[]		U+5C6E	U+5C6E
 05C71-04ED9	仙		山			[]	[人]		U+5C71	U+4ED9
@@ -1405,7 +1429,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05CA1-07DB1	綱		岡			[]	[糸]		U+5CA1	U+7DB1
 05CA1-092FC	鋼		岡			[]	[金]		U+5CA1	U+92FC
 05CA9-05CA9	岩		岩			[]	[]		U+5CA9	U+5CA9
-05CB8-05E72	岸		干			[]	[屵]		U+5CB8	U+5E72
 05D47-05D47	嵇		嵇			[]	[山]		U+5D47	U+5D47
 05D52-05D52	嵒		嵒			[]	[]		U+5D52	U+5D52
 05D52-0764C	癌		嵒			[]	[疒]		U+5D52	U+764C
@@ -1422,6 +1445,12 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05DDE-06D32	洲		州			[]	[水]		U+5DDE	U+6D32
 05DDE-0916C	酬		州			[]	[酉]		U+5DDE	U+916C
 05DE4-05DE4	巤		巤			[]	[]		U+5DE4	U+5DE4
+05DE4-07375	獵		巤			[]	[犬]		U+5DE4	U+7375
+05DE4-081D8	臘		巤			[]	[肉]		U+5DE4	U+81D8
+05DE4-0881F	蠟		巤			[]	[虫]		U+5DE4	U+881F
+05DE4-08E90	躐		巤			[]	[足]		U+5DE4	U+8E90
+05DE4-0945E	鑞		巤			[]	[金]		U+5DE4	U+945E
+05DE4-09B23	鬣		巤			[]	[髟]		U+5DE4	U+9B23
 05DE5-05025	倥		工			[空]	[穴, 人]		U+5DE5	U+5025
 05DE5-0529F	功		工			[]	[力]		U+5DE5	U+529F
 05DE5-05D06	崆		工			[空]	[穴, 山]		U+5DE5	U+5D06
@@ -1489,6 +1518,8 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05DE8-08DDD	距		巨			[]	[足]		U+5DE8	U+8DDD
 05DE8-09245	鉅		巨			[]	[金]		U+5DE8	U+9245
 05DEB-05DEB	巫		巫			[]	[]		U+5DEB	U+5DEB
+05DEB-08AA3	誣		巫			[]	[言]		U+5DEB	U+8AA3
+05DEB-09D50	鵐		巫			[]	[鳥]		U+5DEB	U+9D50
 05DF1-05C7A	屺		己			[]	[山]		U+5DF1	U+5C7A
 05DF1-05DF1	己		己			[]	[]		U+5DF1	U+5DF1
 05DF1-05FCC	忌		己			[]	[心]		U+5DF1	U+5FCC
@@ -1502,11 +1533,45 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05DFE-051E7	凧		巾			[]	[几]		U+5DFE	U+51E7
 05DFE-05DFE	巾		巾			[]	[]		U+5DFE	U+5DFE
 05E18-05E18	帘		帘			[]	[穴]		U+5E18	U+5E18
-05E19-05931	帙		失			[]	[巾]		U+5E19	U+5931
 05E1A-05E1A	帚		帚			[]	[]		U+5E1A	U+5E1A
 05E1A-07B92	箒		帚			[]	[竹]		U+5E1A	U+7B92
+05E72-04BCE	䯎		干			[幹]	[倝, 骨]		U+5E72	U+4BCE
+05E72-0520A	刊		干			[]	[刀]		U+5E72	U+520A
+05E72-057BE	垾		干			[旱]	[日, 土]		U+5E72	U+57BE
+05E72-05978	奸		干			[]	[女]		U+5E72	U+5978
+05E72-05CB8	岸		干			[]	[屵]		U+5E72	U+5CB8
 05E72-05E72	干		干			[]	[]		U+5E72	U+5E72
-05E79-05E72	幹		干			[幹]	[倝]		U+5E79	U+5E72
+05E72-05E79	幹		干			[幹]	[倝]		U+5E72	U+5E79
+05E72-0608D	悍		干			[旱]	[日, 心]		U+5E72	U+608D
+05E72-0625E	扞		干			[]	[手]		U+5E72	U+625E
+05E72-0634D	捍		干			[旱]	[日, 手]		U+5E72	U+634D
+05E72-064C0	擀		干			[幹]	[倝, 手]		U+5E72	U+64C0
+05E72-065F0	旰		干			[]	[日]		U+5E72	U+65F0
+05E72-065F1	旱		干			[]	[日]		U+5E72	U+65F1
+05E72-06746	杆		干			[]	[木]		U+5E72	U+6746
+05E72-0687F	桿		干			[旱]	[日, 木]		U+5E72	U+687F
+05E72-06C57	汗		干			[]	[水]		U+5E72	U+6C57
+05E72-06FA3	澣		干			[幹]	[倝, 水]		U+5E72	U+6FA3
+05E72-0710A	焊		干			[旱]	[日, 火]		U+5E72	U+710A
+05E72-07395	玕		干			[]	[玉]		U+5E72	U+7395
+05E72-07745	睅		干			[旱]	[日, 目]		U+5E72	U+7745
+05E72-079C6	秆		干			[]	[禾]		U+5E72	U+79C6
+05E72-07A08	稈		干			[旱]	[日, 禾]		U+5E72	U+7A08
+05E72-07AFF	竿		干			[]	[竹]		U+5E72	U+7AFF
+05E72-07C33	簳		干			[幹]	[倝, 竹]		U+5E72	U+7C33
+05E72-07F55	罕		干			[]	[网]		U+5E72	U+7F55
+05E72-0809D	肝		干			[]	[肉]		U+5E72	U+809D
+05E72-0884E	衎		干			[]	[行]		U+5E72	U+884E
+05E72-08A10	訐		干			[]	[言]		U+5E72	U+8A10
+05E72-08D76	赶		干			[]	[走]		U+5E72	U+8D76
+05E72-08D95	趕		干			[旱]	[日, 走]		U+5E72	U+8D95
+05E72-08ED2	軒		干			[]	[車]		U+5E72	U+8ED2
+05E72-09097	邗		干			[]	[邑]		U+5E72	U+9097
+05E72-091EC	釬		干			[]	[金]		U+5E72	U+91EC
+05E72-09588	閈		干			[]	[門]		U+5E72	U+9588
+05E72-09807	頇		干			[]	[頁]		U+5E72	U+9807
+05E72-09AAD	骭		干			[]	[骨]		U+5E72	U+9AAD
+05E72-09F3E	鼾		干			[]	[鼻]		U+5E72	U+9F3E
 05E7B-05E7B	幻		幻			[]	[]		U+5E7B	U+5E7B
 05E9A-05510	唐		庚			[唐]	[口]		U+5E9A	U+5510
 05E9A-05858	塘		庚			[唐]	[口, 土]		U+5E9A	U+5858
@@ -1531,6 +1596,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05F00-05F00	开		开			[]	[]		U+5F00	U+5F00
 05F00-063C5	揅		开			[]	[石, 手]		U+5F00	U+63C5
 05F00-06785	枅		开			[]	[木]		U+5F00	U+6785
+05F00-0681E	栞		开			[]	[木]		U+5F00	U+681E
 05F00-06C67	汧		开			[]	[水]		U+5F00	U+6C67
 05F00-07814	研		开			[]	[石]		U+5F00	U+7814
 05F00-07B04	笄		开			[]	[竹]		U+5F00	U+7B04
@@ -1539,6 +1605,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05F00-090A2	邢		开			[]	[邑]		U+5F00	U+90A2
 05F00-09203	鈃		开			[]	[金]		U+5F00	U+9203
 05F00-0958B	開		开			[]	[門]		U+5F00	U+958B
+05F04-054E2	哢		弄			[]	[口]		U+5F04	U+54E2
 05F04-05F04	弄		弄			[]	[]		U+5F04	U+5F04
 05F13-05F13	弓		弓			[]	[]		U+5F13	U+5F13
 05F13-05F18	弘		弓			[]	[口]		U+5F13	U+5F18
@@ -1561,15 +1628,12 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05F3A-093F9	鏹		强			[]	[虫, 金]		U+5F3A	U+93F9
 05F50-05F50	彐		彐			[]	[]		U+5F50	U+5F50
 05F58-05F58	彘		彘			[]	[]		U+5F58	U+5F58
-05F59-080C3	彙		胃			[]	[㣇]		U+5F59	U+80C3
 05F5D-05F5D	彝		彝			[]	[]		U+5F5D	U+5F5D
 05F61-05F61	彡		彡			[]	[]		U+5F61	U+5F61
 05F61-0886B	衫		彡			[]	[衣]		U+5F61	U+886B
 05F61-09ADF	髟		彡			[]	[長]		U+5F61	U+9ADF
 05F73-05F73	彳		彳			[]	[]		U+5F73	U+5F73
 05F8C-05F8C	後		後			[]	[]		U+5F8C	U+5F8C
-05F97-03775	得		㝵			[]	[彳]		U+5F97	U+3775
-05FB7-076F4	德		直			[]	[心, 彳]		U+5FB7	U+76F4
 05FDD-03B87	㮇		忝			[]	[木]		U+5FDD	U+3B87
 05FDD-05FDD	忝		忝			[]	[]		U+5FDD	U+5FDD
 05FDD-06DFB	添		忝			[]	[水]		U+5FDD	U+6DFB
@@ -1579,12 +1643,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 05FF5-0637B	捻		念			[]	[手]		U+5FF5	U+637B
 05FF5-07A14	稔		念			[]	[禾]		U+5FF5	U+7A14
 05FF5-08AD7	諗		念			[]	[言]		U+5FF5	U+8AD7
-06035-0672F	怵		术			[]	[心]		U+6035	U+672F
-0606C-0751C	恬		甜			[恬]	[心]		U+606C	U+751C
-0608D-05E72	悍		干			[旱]	[日, 心]		U+608D	U+5E72
-060B6-09580	悶		門			[]	[心]		U+60B6	U+9580
-060C6-05468	惆		周			[]	[心]		U+60C6	U+5468
-060EA-076F4	惪		直			[]	[心]		U+60EA	U+76F4
 0610F-05104	億		意			[]	[人]		U+610F	U+5104
 0610F-0566B	噫		意			[]	[口]		U+610F	U+566B
 0610F-0610F	意		意			[]	[]		U+610F	U+610F
@@ -1594,8 +1652,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0610F-0858F	薏		意			[]	[艸]		U+610F	U+858F
 0610F-091B7	醷		意			[]	[酉]		U+610F	U+91B7
 0610F-09DFE	鷾		意			[]	[鳥]		U+610F	U+9DFE
-0613F-09858	愿		願			[]	[心]		U+613F	U+9858
-06144-06817	慄		栗			[]	[心]		U+6144	U+6817
 06209-0528C	劌		戉			[歲]	[步, 刀]		U+6209	U+528C
 06209-05666	噦		戉			[歲]	[步, 口]		U+6209	U+5666
 06209-06209	戉		戉			[]	[]		U+6209	U+6209
@@ -1608,6 +1664,8 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 06209-08D8A	越		戉			[越]	[走]		U+6209	U+8D8A
 06209-0925E	鉞		戉			[]	[金]		U+6209	U+925E
 0620C-0620C	戌		戌			[]	[]		U+620C	U+620C
+0620C-06EC5	滅		戌			[]	[火, 水]		U+620C	U+6EC5
+0620C-070D5	烕		戌			[]	[火]		U+620C	U+70D5
 06211-04FC4	俄		我			[]	[人]		U+6211	U+4FC4
 06211-05100	儀		我			[義]	[羊, 人]		U+6211	U+5100
 06211-054E6	哦		我			[]	[口]		U+6211	U+54E6
@@ -1640,16 +1698,9 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 06237-096C7	雇		户			[雇]	[隹]		U+6237	U+96C7
 06237-09867	顧		户			[雇]	[隹, 頁]		U+6237	U+9867
 0624B-0624B	手		手			[]	[]		U+624B	U+624B
-0625E-05E72	扞		干			[]	[手]		U+625E	U+5E72
-062B6-05931	抶		失			[]	[手]		U+62B6	U+5931
 062DC-062DC	拜		拜			[]	[]		U+62DC	U+62DC
 062DC-06E43	湃		拜			[]	[水]		U+62DC	U+6E43
 062FF-062FF	拿		拿			[]	[]		U+62FF	U+62FF
-0634D-05E72	捍		干			[旱]	[日, 手]		U+634D	U+5E72
-06357-0965F	捗		陟			[]	[手]		U+6357	U+965F
-0636B-09580	捫		門			[]	[手]		U+636B	U+9580
-064C0-05E72	擀		干			[幹]	[倝, 手]		U+64C0	U+5E72
-064E2-07FDF	擢		翟			[]	[手]		U+64E2	U+7FDF
 06555-06555	敕		敕			[]	[]		U+6555	U+6555
 06555-09D92	鶒		敕			[]	[鳥]		U+6555	U+9D92
 06556-050B2	傲		敖			[]	[人]		U+6556	U+50B2
@@ -1747,8 +1798,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 065E9-065E9	早		早			[]	[]		U+65E9	U+65E9
 065E9-07682	皂		早		分	[]	[]		U+65E9	U+7682
 065E9-08349	草		早			[]	[艸]		U+65E9	U+8349
-065F0-05E72	旰		干			[]	[日]		U+65F0	U+5E72
-065F1-05E72	旱		干			[]	[日]		U+65F1	U+5E72
 06606-05764	坤		昆			[]	[土]		U+6606	U+5764
 06606-05D11	崑		昆			[]	[山]		U+6606	U+5D11
 06606-06606	昆		昆			[]	[]		U+6606	U+6606
@@ -1786,7 +1835,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0661C-0967D	陽		昜			[]	[阜]		U+661C	U+967D
 0661C-098BA	颺		昜			[]	[風]		U+661C	U+98BA
 0661C-09933	餳		昜			[]	[食]		U+661C	U+9933
-06633-05931	昳		失			[]	[日]		U+6633	U+5931
 0665D-0665D	晝		晝			[]	[]		U+665D	U+665D
 06676-06676	晶		晶			[]	[]		U+6676	U+6676
 066B9-066B9	暹		暹			[]	[]		U+66B9	U+66B9
@@ -1795,9 +1843,9 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 066C7-058DC	壜		曇			[]	[土]		U+66C7	U+58DC
 066C7-066C7	曇		曇			[]	[]		U+66C7	U+66C7
 066C7-07F4E	罎		曇			[]	[缶]		U+66C7	U+7F4E
-066DC-07FDF	曜		翟			[]	[日]		U+66DC	U+7FDF
 066F0-066F0	曰		曰			[]	[]		U+66F0	U+66F0
 066F0-06C69	汩		曰			[]	[水]		U+66F0	U+6C69
+066F2-066F2	曲		曲			[]	[]		U+66F2	U+66F2
 066F3-062FD	拽		曳			[]	[手]		U+66F3	U+62FD
 066F3-066F3	曳		曳			[]	[]		U+66F3	U+66F3
 066F3-06D29	洩		曳			[]	[水]		U+66F3	U+6D29
@@ -1835,7 +1883,14 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0672D-0624E	扎		札			[]	[手]		U+672D	U+624E
 0672D-0672D	札		札			[]	[木]		U+672D	U+672D
 0672D-07D2E	紮		札			[]	[木, 糸]		U+672D	U+7D2E
+0672F-06035	怵		术			[]	[心]		U+672F	U+6035
 0672F-0672F	术		术			[]	[]		U+672F	U+672F
+0672F-06CAD	沭		术			[]	[水]		U+672F	U+6CAD
+0672F-079EB	秫		术			[]	[禾]		U+672F	U+79EB
+0672F-08853	術		术			[]	[行]		U+672F	U+8853
+0672F-08A39	訹		术			[]	[言]		U+672F	U+8A39
+0672F-08FF0	述		术			[]	[辵]		U+672F	U+8FF0
+0672F-09265	鉥		术			[]	[金]		U+672F	U+9265
 06731-04F8F	侏		朱			[]	[人]		U+6731	U+4F8F
 06731-054AE	咮		朱			[]	[口]		U+6731	U+54AE
 06731-059DD	姝		朱			[]	[女]		U+6731	U+59DD
@@ -1853,10 +1908,8 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 06731-09296	銖		朱			[]	[金]		U+6731	U+9296
 06731-09F04	鼄		朱			[]	[黽]		U+6731	U+9F04
 06743-06743	权		权			[]	[]		U+6743	U+6743
-06746-05E72	杆		干			[]	[木]		U+6746	U+5E72
 0674F-0674F	杏		杏			[]	[]		U+674F	U+674F
 0674F-08395	莕		杏			[]	[艸]		U+674F	U+8395
-06756-04E08	杖		丈			[]	[木]		U+6756	U+4E08
 06797-05664	噤		林			[禁]	[示, 口]		U+6797	U+5664
 06797-05A6A	婪		林			[]	[女]		U+6797	U+5A6A
 06797-060CF	惏		林			[]	[心]		U+6797	U+60CF
@@ -1889,25 +1942,20 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 067BC-09371	鍱		枼			[]	[金]		U+67BC	U+9371
 067BC-097D8	韘		枼			[]	[韋]		U+67BC	U+97D8
 067BC-09C08	鰈		枼			[]	[魚]		U+67BC	U+9C08
+06817-051D3	凓		栗			[]	[冫]		U+6817	U+51D3
+06817-06144	慄		栗			[]	[心]		U+6817	U+6144
 06817-06817	栗		栗			[]	[]		U+6817	U+6817
-0681D-0751C	栝		甜			[]	[木]		U+681D	U+751C
-0681E-05F00	栞		开			[]	[木]		U+681E	U+5F00
-0687F-05E72	桿		干			[旱]	[日, 木]		U+687F	U+5E72
+06817-06EA7	溧		栗			[]	[水]		U+6817	U+6EA7
+06817-07BE5	篥		栗			[]	[竹]		U+6817	U+7BE5
 0689F-0689F	梟		梟			[]	[]		U+689F	U+689F
 0689F-087C2	蟂		梟			[]	[虫]		U+689F	U+87C2
-068AC-07539	梬		甹			[]	[木]		U+68AC	U+7539
 068C4-05F03	弃		棄		略	[]	[]		U+68C4	U+5F03
 068C4-068C4	棄		棄			[]	[]		U+68C4	U+68C4
 068D7-068D7	棗		棗			[]	[]		U+68D7	U+68D7
 068EE-068EE	森		森			[]	[]		U+68EE	U+68EE
-0690D-076F4	植		直			[]	[木]		U+690D	U+76F4
 0696D-05DAA	嶪		業			[]	[山]		U+696D	U+5DAA
 0696D-0696D	業		業			[]	[]		U+696D	U+696D
 0696D-09134	鄴		業			[]	[邑]		U+696D	U+9134
-0698A-07533	榊		申			[神]	[示, 木]		U+698A	U+7533
-069A9-08654	榩		虔			[]	[木]		U+69A9	U+8654
-06AC2-07FDF	櫂		翟			[]	[木]		U+6AC2	U+7FDF
-06ADD-27DA0	櫝		𧶠			[]	[貝, 木]		U+6ADD	U+27DA0
 06B20-0574E	坎		欠			[]	[土]		U+6B20	U+574E
 06B20-06774	杴		欠			[]	[木]		U+6B20	U+6774
 06B20-06B20	欠		欠			[]	[]		U+6B20	U+6B20
@@ -1923,6 +1971,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 06B2E-095D5	闕		欮			[]	[門]		U+6B2E	U+95D5
 06B2E-09C56	鱖		欮			[厥]	[石, 魚]		U+6B2E	U+9C56
 06B3E-06B3E	款		款			[]	[]		U+6B3E	U+6B3E
+06B3E-07ABE	窾		款			[]	[穴]		U+6B3E	U+7ABE
 06B62-051EA	凪		止			[]	[風]		U+6B62	U+51EA
 06B62-05740	址		止			[]	[土]		U+6B62	U+5740
 06B62-05E02	市		止			[]	[市]		U+6B62	U+5E02
@@ -1946,12 +1995,16 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 06B77-09742	靂		歷			[]	[雨]		U+6B77	U+9742
 06B81-06B81	殁		殁			[]	[歹]		U+6B81	U+6B81
 06B81-06CA1	没		殁			[]	[水]		U+6B81	U+6CA1
-06B96-076F4	殖		直			[]	[歹]		U+6B96	U+76F4
 06BB3-06295	投		殳			[]	[手]		U+6BB3	U+6295
 06BB3-06BB3	殳		殳			[]	[]		U+6BB3	U+6BB3
 06BB3-09158	酘		殳			[]	[酉]		U+6BB3	U+9158
 06BB3-09AB0	骰		殳			[]	[骨]		U+6BB3	U+9AB0
 06BB8-06BB8	殸		殸			[]	[]		U+6BB8	U+6BB8
+06BB8-078EC	磬		殸			[]	[石]		U+6BB8	U+78EC
+06BB8-07F44	罄		殸			[]	[缶]		U+6BB8	U+7F44
+06BB8-08072	聲		殸			[]	[耳]		U+6BB8	U+8072
+06BB8-08B26	謦		殸			[]	[言]		U+6BB8	U+8B26
+06BB8-099A8	馨		殸			[]	[香]		U+6BB8	U+99A8
 06C14-04E5E	乞		气		分	[乞]	[]		U+6C14	U+4E5E
 06C14-04EE1	仡		气		分	[乞]	[人]		U+6C14	U+4EE1
 06C14-05403	吃		气		分	[乞]	[口]		U+6C14	U+5403
@@ -1972,7 +2025,10 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 06C14-0993C	餼		气			[氣]	[米, 食]		U+6C14	U+993C
 06C14-09F55	齕		气		分	[乞]	[齒]		U+6C14	U+9F55
 06C34-06C34	水		水			[]	[]		U+6C34	U+6C34
+06C38-0548F	咏		永			[]	[口]		U+6C38	U+548F
 06C38-06C38	永		永			[]	[]		U+6C38	U+6C38
+06C38-06CF3	泳		永			[]	[水]		U+6C38	U+6CF3
+06C38-08A60	詠		永			[]	[言]		U+6C38	U+8A60
 06C42-04FC5	俅		求			[]	[人]		U+6C42	U+4FC5
 06C42-06344	捄		求			[]	[手]		U+6C42	U+6344
 06C42-06551	救		求			[]	[攴]		U+6C42	U+6551
@@ -1986,34 +2042,18 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 06C42-08CD5	賕		求			[]	[貝]		U+6C42	U+8CD5
 06C42-09011	逑		求			[]	[辵]		U+6C42	U+9011
 06C42-092B6	銶		求			[]	[金]		U+6C42	U+92B6
-06C57-05E72	汗		干			[]	[水]		U+6C57	U+5E72
-06CAD-0672F	沭		术			[]	[水]		U+6CAD	U+672F
-06CF3-06C38	泳		永			[]	[水]		U+6CF3	U+6C38
 06D89-06D89	涉		涉			[]	[]		U+6D89	U+6D89
 06DFC-06DFC	淼		淼			[]	[]		U+6DFC	U+6DFC
-06E2D-080C3	渭		胃			[]	[水]		U+6E2D	U+80C3
-06E49-0751C	湉		甜			[恬]	[心, 水]		U+6E49	U+751C
-06E90-0539F	源		原			[]	[水]		U+6E90	U+539F
-06EA7-06817	溧		栗			[]	[水]		U+6EA7	U+6817
-06EC5-0620C	滅		戌			[]	[火, 水]		U+6EC5	U+620C
-06F09-09E7F	漉		鹿			[]	[水]		U+6F09	U+9E7F
-06F0F-05C5A	漏		屚			[]	[水]		U+6F0F	U+5C5A
-06FA3-05E72	澣		干			[幹]	[倝, 水]		U+6FA3	U+5E72
-06FEF-07FDF	濯		翟			[]	[水]		U+6FEF	U+7FDF
-07006-27DA0	瀆		𧶠			[]	[貝, 水]		U+7006	U+27DA0
 0706B-04F19	伙		火			[]	[人]		U+706B	U+4F19
 0706B-0706B	火		火			[]	[]		U+706B	U+706B
-070D5-0620C	烕		戌			[]	[火]		U+70D5	U+620C
-070F9-04EA8	烹		亨			[]	[火]		U+70F9	U+4EA8
-0710A-05E72	焊		干			[旱]	[日, 火]		U+710A	U+5E72
 0711A-05F6C	彬		焚			[]	[彡]		U+711A	U+5F6C
 0711A-0711A	焚		焚			[]	[]		U+711A	U+711A
 07169-07169	煩		煩			[]	[]		U+7169	U+7169
-071E7-034B8	燧		㒸			[遂]	[辵, 火]		U+71E7	U+34B8
 071EE-071EE	燮		燮			[]	[]		U+71EE	U+71EE
 071EE-08E9E	躞		燮			[]	[足]		U+71EE	U+8E9E
-071FF-07FDF	燿		翟			[]	[火]		U+71FF	U+7FDF
+0722F-05041	偁		爯			[]	[人]		U+722F	U+5041
 0722F-0722F	爯		爯			[]	[]		U+722F	U+722F
+0722F-07A31	稱		爯			[]	[禾]		U+722F	U+7A31
 07232-050DE	僞		爲			[]	[人]		U+7232	U+50DE
 07232-05B00	嬀		爲			[]	[女]		U+7232	U+5B00
 07232-0649D	撝		爲			[]	[手]		U+7232	U+649D
@@ -2059,20 +2099,15 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0723F-093D8	鏘		爿			[將]	[將, 金]		U+723F	U+93D8
 0723F-09C42	鱂		爿			[將]	[將, 魚]		U+723F	U+9C42
 07247-07247	片		片			[]	[]		U+7247	U+7247
-07258-27DA0	牘		𧶠			[]	[貝, 片]		U+7258	U+27DA0
 0725B-0725B	牛		牛			[]	[]		U+725B	U+725B
 0727D-0727D	牽		牽			[]	[]		U+727D	U+727D
 0727D-07E34	縴		牽			[]	[糸]		U+727D	U+7E34
 07280-07280	犀		犀			[]	[]		U+7280	U+7280
-072A2-27DA0	犢		𧶠			[]	[貝, 牛]		U+72A2	U+27DA0
 072AC-072AC	犬		犬			[]	[]		U+72AC	U+72AC
 072AC-0754E	畎		犬			[]	[田]		U+72AC	U+754E
 072C4-072C4	狄		狄			[]	[]		U+72C4	U+72C4
 072C4-0837B	荻		狄			[]	[艸]		U+72C4	U+837B
 072C4-09016	逖		狄			[]	[辵]		U+72C4	U+9016
-072FA-08A00	狺		言			[]	[犬]		U+72FA	U+8A00
-0732C-080C3	猬		胃			[]	[犬]		U+732C	U+80C3
-07375-05DE4	獵		巤			[]	[犬]		U+7375	U+5DE4
 07378-07378	獸		獸			[]	[]		U+7378	U+7378
 07384-0545F	呟		玄			[]	[口]		U+7384	U+545F
 07384-06CEB	泫		玄			[]	[水]		U+7384	U+6CEB
@@ -2104,12 +2139,15 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0738B-08A86	誆		王			[㞷, 匡]	[止, 匚, 言]		U+738B	U+8A86
 0738B-08A91	誑		王			[㞷, 狂]	[止, 犬, 言]		U+738B	U+8A91
 0738B-0901B	逛		王			[㞷, 狂]	[止, 犬, 辵]		U+738B	U+901B
-07395-05E72	玕		干			[]	[玉]		U+7395	U+5E72
+073ED-06591	斑		班			[]	[文]		U+73ED	U+6591
+073ED-073ED	班		班			[]	[]		U+73ED	U+73ED
 07463-07463	瑣		瑣			[]	[玉]		U+7463	U+7463
 07463-09396	鎖		瑣			[]	[金]		U+7463	U+9396
-074B2-034B8	璲		㒸			[遂]	[辵, 玉]		U+74B2	U+34B8
-074DE-05931	瓞		失			[]	[瓜]		U+74DE	U+5931
+0751C-0606C	恬		甜			[恬]	[心]		U+751C	U+606C
+0751C-0681D	栝		甜			[]	[木]		U+751C	U+681D
+0751C-06E49	湉		甜			[恬]	[心, 水]		U+751C	U+6E49
 0751C-0751C	甜		甜			[]	[甘]		U+751C	U+751C
+0751C-0929B	銛		甜			[]	[金]		U+751C	U+929B
 0751F-059D3	姓		生			[]	[女]		U+751F	U+59D3
 0751F-06027	性		生			[]	[心]		U+751F	U+6027
 0751F-060FA	惺		生			[星]	[晶, 心]		U+751F	U+60FA
@@ -2185,9 +2223,22 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 07531-091C9	釉		由			[]	[釆]		U+7531	U+91C9
 07531-09B8B	鮋		由			[]	[魚]		U+7531	U+9B8B
 07531-09F2C	鼬		由			[]	[鼠]		U+7531	U+9F2C
+07533-04F38	伸		申			[]	[人]		U+7533	U+4F38
+07533-0547B	呻		申			[]	[口]		U+7533	U+547B
+07533-0698A	榊		申			[神]	[示, 木]		U+7533	U+698A
 07533-07533	申		申			[]	[]		U+7533	U+7533
+07533-07837	砷		申			[]	[石]		U+7533	U+7837
+07533-0795E	神		申			[神]	[示]		U+7533	U+795E
+07533-07D33	紳		申			[]	[糸]		U+7533	U+7D33
+07533-0926E	鉮		申			[]	[金]		U+7533	U+926E
+07533-096FB	電		申			[]	[雨]		U+7533	U+96FB
 07537-07537	男		男			[]	[]		U+7537	U+7537
+07539-04FDC	俜		甹			[]	[人]		U+7539	U+4FDC
+07539-05A09	娉		甹			[]	[女]		U+7539	U+5A09
+07539-068AC	梬		甹			[]	[木]		U+7539	U+68AC
 07539-07539	甹		甹			[]	[]		U+7539	U+7539
+07539-08058	聘		甹			[]	[耳]		U+7539	U+8058
+07539-09A01	騁		甹			[]	[馬]		U+7539	U+9A01
 07540-0568A	嚊		畀			[]	[自, 口]		U+7540	U+568A
 07540-06DE0	淠		畀			[]	[水]		U+7540	U+6DE0
 07540-06FDE	濞		畀			[]	[自, 水]		U+7540	U+6FDE
@@ -2196,6 +2247,11 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 07540-07B85	箅		畀			[]	[竹]		U+7540	U+7B85
 07540-09F3B	鼻		畀			[]	[自]		U+7540	U+9F3B
 07562-07562	畢		畢			[]	[]		U+7562	U+7562
+07562-07BF3	篳		畢			[]	[竹]		U+7562	U+7BF3
+07562-084FD	蓽		畢			[]	[艸]		U+7562	U+84FD
+07562-08E55	蹕		畢			[]	[足]		U+7562	U+8E55
+07562-097E0	韠		畢			[]	[韋]		U+7562	U+97E0
+07562-09946	饆		畢			[]	[食]		U+7562	U+9946
 0757A-04C94	䲔		畺			[]	[魚]		U+757A	U+4C94
 0757A-050F5	僵		畺			[]	[人]		U+757A	U+50F5
 0757A-058C3	壃		畺			[]	[土]		U+757A	U+58C3
@@ -2273,7 +2329,15 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 076E9-076E9	盩		盩			[]	[]		U+76E9	U+76E9
 076EE-076EE	目		目			[]	[]		U+76EE	U+76EE
 076EE-082DC	苜		目			[]	[艸]		U+76EE	U+82DC
+076F4-0503C	值		直			[]	[人]		U+76F4	U+503C
+076F4-057F4	埴		直			[]	[土]		U+76F4	U+57F4
+076F4-05FB7	德		直			[]	[心, 彳]		U+76F4	U+5FB7
+076F4-060EA	惪		直			[]	[心]		U+76F4	U+60EA
+076F4-0690D	植		直			[]	[木]		U+76F4	U+690D
+076F4-06B96	殖		直			[]	[歹]		U+76F4	U+6B96
 076F4-076F4	直		直			[]	[]		U+76F4	U+76F4
+076F4-07A19	稙		直			[]	[禾]		U+76F4	U+7A19
+076F4-07F6E	置		直			[]	[网]		U+76F4	U+7F6E
 076F8-053A2	厢		相			[]	[广]		U+76F8	U+53A2
 076F8-05B40	孀		相			[霜]	[雨, 女]		U+76F8	U+5B40
 076F8-060F3	想		相			[]	[心]		U+76F8	U+60F3
@@ -2285,7 +2349,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 076F8-0971C	霜		相			[霜]	[雨]		U+76F8	U+971C
 076F8-09A66	驦		相			[霜]	[雨, 馬]		U+76F8	U+9A66
 076F8-09E18	鸘		相			[霜]	[雨, 鳥]		U+76F8	U+9E18
-07745-05E72	睅		干			[旱]	[日, 目]		U+7745	U+5E72
 077E9-06998	榘		矩			[榘]	[木]		U+77E9	U+6998
 077E9-06E20	渠		矩			[榘, 渠]	[木, 水]		U+77E9	U+6E20
 077E9-077E9	矩		矩			[]	[]		U+77E9	U+77E9
@@ -2316,11 +2379,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 077F3-0934D	鍍		石			[度]	[又, 金]		U+77F3	U+934D
 077F3-09DD3	鷓		石			[庶]	[火, 鳥]		U+77F3	U+9DD3
 077F3-09F2B	鼫		石			[]	[鼠]		U+77F3	U+9F2B
-07837-07533	砷		申			[]	[石]		U+7837	U+7533
-0788D-03775	碍		㝵			[]	[石]		U+788D	U+3775
-078EC-06BB8	磬		殸			[]	[石]		U+78EC	U+6BB8
 0793C-0793C	礼		礼			[]	[]		U+793C	U+793C
-0795E-07533	神		申			[神]	[示]		U+795E	U+7533
 079B9-03762	㝢		禹			[]	[宀]		U+79B9	U+3762
 079B9-0504A	偊		禹			[]	[人]		U+79B9	U+504A
 079B9-07440	瑀		禹			[]	[玉]		U+79B9	U+7440
@@ -2329,7 +2388,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 079B9-09F72	齲		禹			[]	[齒]		U+79B9	U+9F72
 079BC-079BC	禼		禼			[]	[]		U+79BC	U+79BC
 079BC-07ACA	竊		禼			[]	[竊]		U+79BC	U+7ACA
-079C6-05E72	秆		干			[]	[禾]		U+79C6	U+5E72
 079CB-050FD	僽		秋			[]	[心, 人]		U+79CB	U+50FD
 079CB-0557E	啾		秋			[]	[口]		U+79CB	U+557E
 079CB-06100	愀		秋			[]	[心]		U+79CB	U+6100
@@ -2343,17 +2401,8 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 079CB-09C0D	鰍		秋			[]	[魚]		U+79CB	U+9C0D
 079CB-09D96	鶖		秋			[]	[鳥]		U+79CB	U+9D96
 079E4-079E4	秤		秤			[]	[]		U+79E4	U+79E4
-079E9-05931	秩		失			[]	[禾]		U+79E9	U+5931
-079EB-0672F	秫		术			[]	[禾]		U+79EB	U+672F
-07A08-05E72	稈		干			[旱]	[日, 禾]		U+7A08	U+5E72
-07A0B-05448	程		呈			[]	[禾]		U+7A0B	U+5448
-07A19-076F4	稙		直			[]	[禾]		U+7A19	U+76F4
-07A31-0722F	稱		爯			[]	[禾]		U+7A31	U+722F
 07A46-07A46	穆		穆			[]	[]		U+7A46	U+7A46
-07A5F-034B8	穟		㒸			[遂]	[辵, 禾]		U+7A5F	U+34B8
 07A7F-07A7F	穿		穿			[]	[]		U+7A7F	U+7A7F
-07ABE-06B3E	窾		款			[]	[穴]		U+7ABE	U+6B3E
-07AC7-27DA0	竇		𧶠			[]	[貝, 穴]		U+7AC7	U+27DA0
 07ACB-04F4D	位		立			[位]	[人]		U+7ACB	U+4F4D
 07ACB-062C9	拉		立			[]	[手]		U+7ACB	U+62C9
 07ACB-06631	昱		立			[昱]	[日]		U+7ACB	U+6631
@@ -2373,17 +2422,11 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 07AF9-07B51	筑		竹			[筑]	[巩]		U+7AF9	U+7B51
 07AF9-07BC9	築		竹			[筑]	[巩, 木]		U+7AF9	U+7BC9
 07AF9-07BE4	篤		竹			[]	[馬]		U+7AF9	U+7BE4
-07AFF-05E72	竿		干			[]	[竹]		U+7AFF	U+5E72
 07B11-054B2	咲		笑			[]	[口]		U+7B11	U+54B2
 07B11-07B11	笑		笑			[]	[]		U+7B11	U+7B11
 07B6E-0566C	噬		筮			[]	[]		U+7B6E	U+566C
 07B6E-06FA8	澨		筮			[]	[]		U+7B6E	U+6FA8
 07B6E-07B6E	筮		筮			[]	[]		U+7B6E	U+7B6E
-07BE5-06817	篥		栗			[]	[竹]		U+7BE5	U+6817
-07BF3-07562	篳		畢			[]	[竹]		U+7BF3	U+7562
-07C0F-09E7F	簏		鹿			[]	[竹]		U+7C0F	U+9E7F
-07C33-05E72	簳		干			[幹]	[倝, 竹]		U+7C33	U+5E72
-07C4A-07FDF	籊		翟			[]	[竹]		U+7C4A	U+7FDF
 07C73-06549	敉		米			[]	[攴]		U+7C73	U+6549
 07C73-0772F	眯		米			[]	[目]		U+7C73	U+772F
 07C73-07C73	米		米			[]	[]		U+7C73	U+7C73
@@ -2395,22 +2438,14 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 07C73-08FF7	迷		米			[迷]	[辵]		U+7C73	U+8FF7
 07C73-09E8B	麋		米			[]	[鹿]		U+7C73	U+9E8B
 07CDE-07CDE	糞		糞			[]	[]		U+7CDE	U+7CDE
-07CF4-07FDF	糴		翟			[䊮]	[米, 入]		U+7CF4	U+7FDF
-07CF6-07FDF	糶		翟			[䊮]	[米, 出]		U+7CF6	U+7FDF
 07CF8-07CF8	糸		糸			[]	[]		U+7CF8	U+7CF8
-07D29-05931	紩		失			[]	[糸]		U+7D29	U+5931
-07D33-07533	紳		申			[]	[糸]		U+7D33	U+7533
 07D72-07D72	絲		絲			[]	[]		U+7D72	U+7D72
 07D76-07D76	絶		絶			[]	[]		U+7D76	U+7D76
+07D76-08106	脆		絶			[]	[肉]		U+7D76	U+8106
 07E6D-07E6D	繭		繭			[]	[]		U+7E6D	U+7E6D
-07E8C-27DA0	續		𧶠			[]	[貝, 糸]		U+7E8C	U+27DA0
 07F36-05BF6	寶		缶			[]	[寶]		U+7F36	U+5BF6
 07F36-07F36	缶		缶			[]	[]		U+7F36	U+7F36
-07F44-06BB8	罄		殸			[]	[缶]		U+7F44	U+6BB8
 07F51-07F51	网		网			[]	[]		U+7F51	U+7F51
-07F55-05E72	罕		干			[]	[网]		U+7F55	U+5E72
-07F6E-076F4	置		直			[]	[网]		U+7F6E	U+76F4
-07F7D-034F9	罽		㓹			[]	[网]		U+7F7D	U+34F9
 07F91-07F91	羑		羑			[]	[]		U+7F91	U+7F91
 07F94-0799A	禚		羔			[]	[示]		U+7F94	U+799A
 07F94-07AAF	窯		羔			[]	[穴]		U+7F94	U+7AAF
@@ -2419,8 +2454,19 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 07F94-0993B	餻		羔			[]	[食]		U+7F94	U+993B
 07F9E-07F9E	羞		羞			[]	[]		U+7F9E	U+7F9E
 07FB9-07FB9	羹		羹			[]	[]		U+7FB9	U+7FB9
+07FDF-05B25	嬥		翟			[]	[女]		U+7FDF	U+5B25
+07FDF-064E2	擢		翟			[]	[手]		U+7FDF	U+64E2
+07FDF-066DC	曜		翟			[]	[日]		U+7FDF	U+66DC
+07FDF-06AC2	櫂		翟			[]	[木]		U+7FDF	U+6AC2
+07FDF-06FEF	濯		翟			[]	[水]		U+7FDF	U+6FEF
+07FDF-071FF	燿		翟			[]	[火]		U+7FDF	U+71FF
+07FDF-07C4A	籊		翟			[]	[竹]		U+7FDF	U+7C4A
+07FDF-07CF4	糴		翟			[䊮]	[米, 入]		U+7FDF	U+7CF4
+07FDF-07CF6	糶		翟			[䊮]	[米, 出]		U+7FDF	U+7CF6
 07FDF-07FDF	翟		翟			[]	[]		U+7FDF	U+7FDF
-08000-07FDF	耀		翟			[]	[光]		U+8000	U+7FDF
+07FDF-08000	耀		翟			[]	[光]		U+7FDF	U+8000
+07FDF-08DAF	趯		翟			[]	[走]		U+7FDF	U+8DAF
+07FDF-08E8D	躍		翟			[]	[足]		U+7FDF	U+8E8D
 08005-05132	儲		者			[諸]	[言, 人]		U+8005	U+5132
 08005-05835	堵		者			[]	[土]		U+8005	U+5835
 08005-05962	奢		者			[奢]	[大]		U+8005	U+5962
@@ -2473,16 +2519,11 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 08033-0990C	餌		耳			[]	[食]		U+8033	U+990C
 0803F-0803F	耿		耿			[]	[]		U+803F	U+803F
 0803F-08927	褧		耿			[]	[衣]		U+803F	U+8927
-08058-07539	聘		甹			[]	[耳]		U+8058	U+7539
-0805E-09580	聞		門			[]	[耳]		U+805E	U+9580
 0806F-0806F	聯		聯			[]	[]		U+806F	U+806F
-08072-06BB8	聲		殸			[]	[耳]		U+8072	U+6BB8
 0807F-05F8B	律		聿			[律]	[彳]		U+807F	U+5F8B
 0807F-07B46	筆		聿			[]	[竹]		U+807F	U+7B46
 0807F-0807F	聿		聿			[]	[]		U+807F	U+807F
 0807F-0844E	葎		聿			[律]	[彳, 艸]		U+807F	U+844E
-08084-038C7	肄		㣇			[]	[帇]		U+8084	U+38C7
-08086-038C7	肆		㣇		分	[]	[帇]		U+8086	U+38C7
 08089-06712	朒		肉			[]	[月]		U+8089	U+6712
 08089-08089	肉		肉			[]	[]		U+8089	U+8089
 08098-05B88	守		肘			[守]	[宀]		U+8098	U+5B88
@@ -2494,14 +2535,17 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 08098-09167	酧		肘			[守]	[宀, 酉]		U+8098	U+9167
 0809C-05F64	彤		肜			[]	[丹]		U+809C	U+5F64
 0809C-0809C	肜		肜			[]	[肉]		U+809C	U+809C
-0809D-05E72	肝		干			[]	[肉]		U+809D	U+5E72
 080A9-080A9	肩		肩			[]	[]		U+80A9	U+80A9
 080A9-09D73	鵳		肩			[]	[鳥]		U+80A9	U+9D73
+080C3-0395C	㥜		胃			[]	[心]		U+80C3	U+395C
+080C3-0559F	喟		胃			[]	[口]		U+80C3	U+559F
+080C3-05F59	彙		胃			[]	[㣇]		U+80C3	U+5F59
+080C3-06E2D	渭		胃			[]	[水]		U+80C3	U+6E2D
+080C3-0732C	猬		胃			[]	[犬]		U+80C3	U+732C
 080C3-080C3	胃		胃			[]	[]		U+80C3	U+80C3
+080C3-0875F	蝟		胃			[]	[虫]		U+80C3	U+875F
+080C3-08B02	謂		胃			[]	[言]		U+80C3	U+8B02
 080E4-080E4	胤		胤			[]	[]		U+80E4	U+80E4
-08106-07D76	脆		絶			[]	[肉]		U+8106	U+7D76
-0811D-04EA8	脝		亨			[]	[肉]		U+811D	U+4EA8
-081D8-05DE4	臘		巤			[]	[肉]		U+81D8	U+5DE4
 081E3-0569A	嚚		臣			[]	[㗊]		U+81E3	U+569A
 081E3-05805	堅		臣			[臤, 堅]	[臤, 土]		U+81E3	U+5805
 081E3-06173	慳		臣			[臤, 堅]	[臤, 土, 心]		U+81E3	U+6173
@@ -2608,17 +2652,13 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0846C-0846C	葬		葬			[]	[]		U+846C	U+846C
 0846C-09AD2	髒		葬			[]	[骨]		U+846C	U+9AD2
 084CF-084CF	蓏		蓏			[]	[]		U+84CF	U+84CF
-084FD-07562	蓽		畢			[]	[艸]		U+84FD	U+7562
-085DA-27DA0	藚		𧶠			[]	[貝, 艸]		U+85DA	U+27DA0
-085FA-09580	藺		門			[閵, 藺]	[隹, 艸]		U+85FA	U+9580
+08654-069A9	榩		虔			[]	[木]		U+8654	U+69A9
 08654-08654	虔		虔			[]	[]		U+8654	U+8654
+08654-09C2C	鰬		虔			[]	[魚]		U+8654	U+9C2C
 0866B-0866B	虫		虫			[]	[]		U+866B	U+866B
-0875F-080C3	蝟		胃			[]	[虫]		U+875F	U+80C3
-08788-0539F	螈		原			[]	[虫]		U+8788	U+539F
 087F2-0721E	爞		蟲			[]	[火]		U+87F2	U+721E
 087F2-0878D	融		蟲			[]	[鬲]		U+87F2	U+878D
 087F2-087F2	蟲		蟲			[]	[]		U+87F2	U+87F2
-0881F-05DE4	蠟		巤			[]	[虫]		U+881F	U+5DE4
 08831-08831	蠱		蠱			[]	[]		U+8831	U+8831
 08846-06F68	潨		衆			[]	[水]		U+8846	U+6F68
 08846-08846	衆		衆			[]	[]		U+8846	U+8846
@@ -2629,9 +2669,9 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0884C-08605	蘅		行			[]	[衡, 艸]		U+884C	U+8605
 0884C-0884C	行		行			[]	[]		U+884C	U+884C
 0884C-08861	衡		行			[]	[衡]		U+884C	U+8861
-0884E-05E72	衎		干			[]	[行]		U+884E	U+5E72
-08853-0672F	術		术			[]	[行]		U+8853	U+672F
 0885B-0885B	衛		衛			[]	[]		U+885B	U+885B
+0885B-08B86	讆		衛			[]	[言]		U+885B	U+8B86
+0885B-08E97	躗		衛			[]	[足]		U+885B	U+8E97
 08863-04F9D	依		衣			[]	[人]		U+8863	U+4F9D
 08863-054C0	哀		衣			[]	[口]		U+8863	U+54C0
 08863-06246	扆		衣			[]	[户]		U+8863	U+6246
@@ -2642,10 +2682,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 08881-08881	袁		袁			[]	[]		U+8881	U+8881
 08881-08F45	轅		袁			[]	[車]		U+8881	U+8F45
 08881-09060	遠		袁			[遠]	[辵]		U+8881	U+9060
-088A0-05931	袠		失			[]	[衣]		U+88A0	U+5931
-088CE-05448	裎		呈			[]	[衣]		U+88CE	U+5448
 088D4-088D4	裔		裔			[]	[]		U+88D4	U+88D4
-0895A-034B8	襚		㒸			[遂]	[辵, 衣]		U+895A	U+34B8
 0898B-04FD4	俔		見			[]	[人]		U+898B	U+4FD4
 0898B-05CF4	峴		見			[]	[山]		U+898B	U+5CF4
 0898B-0665B	晛		見			[]	[日]		U+898B	U+665B
@@ -2662,18 +2699,11 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 0898F-07ABA	窺		規			[]	[穴]		U+898F	U+7ABA
 0898F-0898F	規		規			[]	[]		U+898F	U+898F
 0898F-095DA	闚		規			[]	[門]		U+898F	U+95DA
-089BF-27DA0	覿		𧶠			[]	[貝, 見]		U+89BF	U+27DA0
+08A00-05501	唁		言			[]	[口]		U+8A00	U+5501
+08A00-072FA	狺		言			[]	[犬]		U+8A00	U+72FA
 08A00-08A00	言		言			[]	[]		U+8A00	U+8A00
-08A10-05E72	訐		干			[]	[言]		U+8A10	U+5E72
-08A39-0672F	訹		术			[]	[言]		U+8A39	U+672F
-08A60-06C38	詠		永			[]	[言]		U+8A60	U+6C38
-08AA3-05DEB	誣		巫			[]	[言]		U+8AA3	U+5DEB
-08ABE-08A00	誾		言			[]	[門]		U+8ABE	U+8A00
-08B02-080C3	謂		胃			[]	[言]		U+8B02	U+80C3
-08B26-06BB8	謦		殸			[]	[言]		U+8B26	U+6BB8
-08B80-27DA0	讀		𧶠			[]	[貝, 言]		U+8B80	U+27DA0
-08B86-0885B	讆		衛			[]	[言]		U+8B86	U+885B
-08B9F-27DA0	讟		𧶠			[]	[貝, 誩]		U+8B9F	U+27DA0
+08A00-08ABE	誾		言			[]	[門]		U+8A00	U+8ABE
+08A00-09019	這		言			[]	[辵]		U+8A00	U+9019
 08C4A-06FA7	澧		豊			[]	[水]		U+8C4A	U+6FA7
 08C4A-079AE	禮		豊			[]	[示]		U+8C4A	U+79AE
 08C4A-08C4A	豊		豊			[]	[]		U+8C4A	U+8C4A
@@ -2707,27 +2737,16 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 08CB4-09767	靧		貴			[]	[貝, 面]		U+8CB4	U+9767
 08CB4-0994B	饋		貴			[]	[貝, 食]		U+8CB4	U+994B
 08D07-08D07	贇		贇			[]	[]		U+8D07	U+8D07
-08D14-05970	贔		奰		异	[]	[]		U+8D14	U+5970
-08D16-27DA0	贖		𧶠			[]	[貝, 貝]		U+8D16	U+27DA0
 08D64-05687	嚇		赤			[赫]	[赤, 口]		U+8D64	U+5687
 08D64-08D64	赤		赤			[]	[]		U+8D64	U+8D64
 08D64-08D6B	赫		赤			[赫]	[赤]		U+8D64	U+8D6B
 08D64-090DD	郝		赤			[]	[阜]		U+8D64	U+90DD
-08D76-05E72	赶		干			[]	[走]		U+8D76	U+5E72
-08D95-05E72	趕		干			[旱]	[日, 走]		U+8D95	U+5E72
-08DAF-07FDF	趯		翟			[]	[走]		U+8DAF	U+7FDF
 08DB3-04FC3	促		足			[]	[人]		U+8DB3	U+4FC3
 08DB3-06349	捉		足			[]	[手]		U+8DB3	U+6349
 08DB3-06D5E	浞		足			[]	[水]		U+8DB3	U+6D5E
 08DB3-08D97	趗		足			[]	[走]		U+8DB3	U+8D97
 08DB3-08DB3	足		足			[]	[]		U+8DB3	U+8DB3
 08DB3-09F6A	齪		足			[]	[齒]		U+8DB3	U+9F6A
-08DCC-05931	跌		失			[]	[足]		U+8DCC	U+5931
-08E55-07562	蹕		畢			[]	[足]		U+8E55	U+7562
-08E8D-07FDF	躍		翟			[]	[足]		U+8E8D	U+7FDF
-08E90-05DE4	躐		巤			[]	[足]		U+8E90	U+5DE4
-08E97-0885B	躗		衛			[]	[足]		U+8E97	U+885B
-08EAA-09580	躪		門			[閵, 藺]	[隹, 艸, 足]		U+8EAA	U+9580
 08EAB-08EAB	身		身			[]	[]		U+8EAB	U+8EAB
 08EB0-08EB0	躰		躰			[]	[]		U+8EB0	U+8EB0
 08ECA-05399	厙		車			[庫]	[广]	1	U+8ECA	U+5399
@@ -2735,17 +2754,10 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 08ECA-07868	硨		車			[]	[石]		U+8ECA	U+7868
 08ECA-08932	褲		車			[庫]	[广, 衣]		U+8ECA	U+8932
 08ECA-08ECA	車		車			[]	[]		U+8ECA	U+8ECA
-08ED2-05E72	軒		干			[]	[車]		U+8ED2	U+5E72
-08EFC-05931	軼		失			[]	[車]		U+8EFC	U+5931
 08F26-08F26	輦		輦			[]	[]		U+8F26	U+8F26
-08F46-09E7F	轆		鹿			[]	[車]		U+8F46	U+9E7F
 08FB5-08FB5	辵		辵			[]	[]		U+8FB5	U+8FB5
-08FED-05931	迭		失			[]	[辵]		U+8FED	U+5931
-08FF0-0672F	述		术			[]	[辵]		U+8FF0	U+672F
 09000-0817F	腿		退			[]	[辵, 肉]		U+9000	U+817F
 09000-09000	退		退			[]	[辵]		U+9000	U+9000
-09019-08A00	這		言			[]	[辵]		U+9019	U+8A00
-0901E-05448	逞		呈			[]	[辵]		U+901E	U+5448
 09023-069E4	槤		連			[]	[木]		U+9023	U+69E4
 09023-06F23	漣		連			[]	[水]		U+9023	U+6F23
 09023-07489	璉		連			[]	[玉]		U+9023	U+7489
@@ -2754,12 +2766,10 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 09023-09023	連		連			[]	[]		U+9023	U+9023
 09023-093C8	鏈		連			[]	[金]		U+9023	U+93C8
 09023-09C31	鰱		連			[]	[魚]		U+9023	U+9C31
-09042-034B8	遂		㒸			[遂]	[辵]		U+9042	U+34B8
 0907A-058DD	壝		遺			[]	[辵, 土]		U+907A	U+58DD
 0907A-0907A	遺		遺			[]	[辵]		U+907A	U+907A
 0907A-096A4	隤		遺			[]	[阜]		U+907A	U+96A4
 0907A-0983D	頽		遺			[]	[秃]		U+907A	U+983D
-09083-034B8	邃		㒸			[遂]	[辵, 穴]		U+9083	U+34B8
 0908D-0908D	邍		邍			[]	[]		U+908D	U+908D
 09091-05508	唈		邑			[]	[口]		U+9091	U+5508
 09091-06092	悒		邑			[]	[心]		U+9091	U+6092
@@ -2767,10 +2777,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 09091-06D65	浥		邑			[]	[水]		U+9091	U+6D65
 09091-088DB	裛		邑			[]	[衣]		U+9091	U+88DB
 09091-09091	邑		邑			[]	[]		U+9091	U+9091
-09097-05E72	邗		干			[]	[邑]		U+9097	U+5E72
-090E2-05448	郢		呈			[]	[邑]		U+90E2	U+5448
-0911C-09E7F	鄜		鹿			[]	[邑]		U+911C	U+9E7F
-09172-05448	酲		呈			[]	[酉]		U+9172	U+5448
 091CC-04FDA	俚		里			[]	[人]		U+91CC	U+4FDA
 091CC-05398	厘		里			[]	[釐]	1	U+91CC	U+5398
 091CC-054E9	哩		里			[]	[口]		U+91CC	U+54E9
@@ -2799,13 +2805,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 091D1-091D1	金		金			[]	[]		U+91D1	U+91D1
 091D1-0929C	銜		金			[]	[行]		U+91D1	U+929C
 091D1-09326	錦		金			[]	[帛]		U+91D1	U+9326
-091EC-05E72	釬		干			[]	[金]		U+91EC	U+5E72
-09244-05931	鉄		失			[]	[金]		U+9244	U+5931
-09265-0672F	鉥		术			[]	[金]		U+9265	U+672F
-0926E-07533	鉮		申			[]	[金]		U+926E	U+7533
-0929B-0751C	銛		甜			[]	[金]		U+929B	U+751C
-092E5-05448	鋥		呈			[]	[金]		U+92E5	U+5448
-0945E-05DE4	鑞		巤			[]	[金]		U+945E	U+5DE4
 09577-05000	倀		長			[]	[人]		U+9577	U+5000
 09577-05E33	帳		長			[]	[巾]		U+9577	U+5E33
 09577-05F35	張		長			[]	[弓]		U+9577	U+5F35
@@ -2816,9 +2815,16 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 09577-08407	萇		長			[]	[艸]		U+9577	U+8407
 09577-09577	長		長			[]	[]		U+9577	U+9577
 09577-097D4	韔		長			[]	[韋]		U+9577	U+97D4
+09580-0554F	問		門			[]	[口]		U+9580	U+554F
+09580-060B6	悶		門			[]	[心]		U+9580	U+60B6
+09580-0636B	捫		門			[]	[手]		U+9580	U+636B
+09580-0805E	聞		門			[]	[耳]		U+9580	U+805E
+09580-085FA	藺		門			[閵, 藺]	[隹, 艸]		U+9580	U+85FA
+09580-08EAA	躪		門			[閵, 藺]	[隹, 艸, 足]		U+9580	U+8EAA
 09580-09580	門		門			[]	[]		U+9580	U+9580
+09580-095A9	閩		門			[]	[虫]		U+9580	U+95A9
+09580-095B5	閵		門			[閵]	[隹]		U+9580	U+95B5
 09586-09586	閆		閆			[]	[]		U+9586	U+9586
-09588-05E72	閈		干			[]	[門]		U+9588	U+5E72
 09589-09589	閉		閉			[]	[]		U+9589	U+9589
 0958F-06F64	潤		閏			[]	[水]		U+958F	U+6F64
 0958F-0958F	閏		閏			[]	[]		U+958F	U+958F
@@ -2837,15 +2843,11 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 09592-09592	閒		閒			[]	[]		U+9592	U+9592
 09592-09593	間		閒		异	[]	[]		U+9592	U+9593
 09592-09DF3	鷳		閒			[]	[鳥]		U+9592	U+9DF3
-095A9-09580	閩		門			[]	[虫]		U+95A9	U+9580
-095B5-09580	閵		門			[閵]	[隹]		U+95B5	U+9580
-095DC-05375	關		卵			[]	[絲, 門]		U+95DC	U+5375
 0961C-0961C	阜		阜			[]	[]		U+961C	U+961C
-0964B-03537	陋		㔷			[]	[阜]		U+964B	U+3537
+0965F-06357	捗		陟			[]	[手]		U+965F	U+6357
 0965F-0965F	陟		陟			[]	[]		U+965F	U+965F
-0968A-034B8	隊		㒸			[]	[阜]		U+968A	U+34B8
+0965F-09A2D	騭		陟			[]	[馬]		U+965F	U+9A2D
 09699-09699	隙		隙			[]	[阜]		U+9699	U+9699
-096A7-034B8	隧		㒸			[遂]	[辵, 阜]		U+96A7	U+34B8
 096B8-096B8	隸		隸			[]	[米]		U+96B8	U+96B8
 096CD-058C5	壅		雍			[]	[土]		U+96CD	U+58C5
 096CD-05EF1	廱		雍			[]	[广]		U+96CD	U+5EF1
@@ -2862,7 +2864,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 096D4-08B8E	讎		雔			[]	[言]		U+96D4	U+8B8E
 096D4-096D4	雔		雔			[]	[]		U+96D4	U+96D4
 096E8-096E8	雨		雨			[]	[]		U+96E8	U+96E8
-096FB-07533	電		申			[]	[雨]		U+96FB	U+7533
 09762-0506D	偭		面			[]	[人]		U+9762	U+506D
 09762-052D4	勔		面			[]	[力]		U+9762	U+52D4
 09762-06E4E	湎		面			[]	[水]		U+9762	U+6E4E
@@ -2870,7 +2871,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 09762-09762	面		面			[]	[]		U+9762	U+9762
 09762-09EB5	麵		面			[]	[麥]		U+9762	U+9EB5
 09769-09769	革		革			[]	[]		U+9769	U+9769
-097E0-07562	韠		畢			[]	[韋]		U+97E0	U+7562
 097F3-05591	喑		音			[]	[口]		U+97F3	U+5591
 097F3-06114	愔		音			[]	[心]		U+97F3	U+6114
 097F3-06697	暗		音			[]	[日]		U+97F3	U+6697
@@ -2889,34 +2889,24 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 09803-071B2	熲		頃			[]	[火]		U+9803	U+71B2
 09803-07A4E	穎		頃			[]	[禾]		U+9803	U+7A4E
 09803-09803	頃		頃			[]	[]		U+9803	U+9803
-09807-05E72	頇		干			[]	[頁]		U+9807	U+5E72
 09808-05B03	嬃		須			[]	[女]		U+9808	U+5B03
 09808-09808	須		須			[]	[]		U+9808	U+9808
 09808-09B1A	鬚		須			[]	[髟]		U+9808	U+9B1A
 0982E-0982E	頮		頮			[]	[]		U+982E	U+982E
+09858-0613F	愿		願			[]	[心]		U+9858	U+613F
 09858-09858	願		願			[]	[頁]		U+9858	U+9858
 0986F-0986F	顯		顯			[]	[]		U+986F	U+986F
 098F2-076E6	盦		飲		略	[酓]	[皿]		U+98F2	U+76E6
 098F2-09153	酓		飲		略	[酓]	[]		U+98F2	U+9153
 098F2-097FD	韽		飲		略	[酓]	[音]		U+98F2	U+97FD
 098F2-098F2	飲		飲			[]	[]		U+98F2	U+98F2
-09909-05411	餉		向			[]	[食]		U+9909	U+5411
-09946-07562	饆		畢			[]	[食]		U+9946	U+7562
 09996-05C0E	導		首			[道]	[辵, 寸]		U+9996	U+5C0E
 09996-09053	道		首			[]	[辵]		U+9996	U+9053
 09996-09996	首		首			[]	[]		U+9996	U+9996
 09999-09999	香		香			[]	[]		U+9999	U+9999
-099A8-06BB8	馨		殸			[]	[香]		U+99A8	U+6BB8
 099AD-099AD	馭		馭			[]	[]		U+99AD	U+99AD
-09A01-07539	騁		甹			[]	[馬]		U+9A01	U+7539
-09A2D-0965F	騭		陟			[]	[馬]		U+9A2D	U+965F
-09A35-0539F	騵		原			[]	[馬]		U+9A35	U+539F
-09A65-05180	驥		冀			[]	[馬]		U+9A65	U+5180
-09AAD-05E72	骭		干			[]	[骨]		U+9AAD	U+5E72
 09ADF-09ADF	髟		髟			[]	[]		U+9ADF	U+9ADF
-09B23-05DE4	鬣		巤			[]	[髟]		U+9B23	U+5DE4
 09B25-09B25	鬥		鬥			[]	[]		U+9B25	U+9B25
-09B2E-09F9C	鬮		龜			[]	[鬥]		U+9B2E	U+9F9C
 09B2F-09B2F	鬯		鬯			[]	[]		U+9B2F	U+9B2F
 09B31-09B31	鬱		鬱			[]	[]		U+9B31	U+9B31
 09B5A-056CC	囌		魚			[穌, 蘇]	[禾, 艸, 口]		U+9B5A	U+56CC
@@ -2930,19 +2920,21 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 09B6F-0826A	艪		魯			[]	[舟]		U+9B6F	U+826A
 09B6F-09B6F	魯		魯			[]	[]		U+9B6F	U+9B6F
 09BC0-09BC0	鯀		鯀			[]	[]		U+9BC0	U+9BC0
-09C2C-08654	鰬		虔			[]	[魚]		U+9C2C	U+8654
 09CEC-09CEC	鳬		鳬			[]	[鳥]		U+9CEC	U+9CEC
 09CF4-09CF4	鳴		鳴			[]	[]		U+9CF4	U+9CF4
 09D07-09D07	鴇		鴇			[]	[鳥]		U+9D07	U+9D07
-09D50-05DEB	鵐		巫			[]	[鳥]		U+9D50	U+5DEB
 09E75-06A10	樐		鹵			[]	[木]		U+9E75	U+6A10
 09E75-06EF7	滷		鹵			[]	[水]		U+9E75	U+6EF7
 09E75-078E0	磠		鹵			[]	[石]		U+9E75	U+78E0
 09E75-09E75	鹵		鹵			[]	[]		U+9E75	U+9E75
+09E7F-06F09	漉		鹿			[]	[水]		U+9E7F	U+6F09
+09E7F-07C0F	簏		鹿			[]	[竹]		U+9E7F	U+7C0F
+09E7F-08F46	轆		鹿			[]	[車]		U+9E7F	U+8F46
+09E7F-0911C	鄜		鹿			[]	[邑]		U+9E7F	U+911C
 09E7F-09E7F	鹿		鹿			[]	[]		U+9E7F	U+9E7F
+09E7F-09E93	麓		鹿			[]	[林]		U+9E7F	U+9E93
 09E80-093D6	鏖		麀			[]	[金]		U+9E80	U+93D6
 09E80-09E80	麀		麀			[]	[]		U+9E80	U+9E80
-09E93-09E7F	麓		鹿			[]	[林]		U+9E93	U+9E7F
 09EC4-058D9	壙		黄			[廣]	[广, 土]		U+9EC4	U+58D9
 09EC4-05EE3	廣		黄			[廣]	[广]		U+9EC4	U+5EE3
 09EC4-05F49	彉		黄			[]	[弓]		U+9EC4	U+5F49
@@ -2968,7 +2960,6 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 09ED1-07E86	纆		黑			[墨]	[土, 糸]		U+9ED1	U+7E86
 09ED1-09ED1	黑		黑			[]	[]		U+9ED1	U+9ED1
 09ED1-09ED8	默		黑			[]	[犬]		U+9ED1	U+9ED8
-09EF7-27DA0	黷		𧶠			[]	[貝, 黑]		U+9EF7	U+27DA0
 09F0E-05075	偵		鼎			[]	[卜, 人]		U+9F0E	U+5075
 09F0E-06968	楨		鼎			[]	[卜, 木]		U+9F0E	U+6968
 09F0E-06E5E	湞		鼎			[]	[卜, 水]		U+9F0E	U+6E5E
@@ -2979,7 +2970,7 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 09F13-077BD	瞽		鼓			[]	[目]		U+9F13	U+77BD
 09F13-09F13	鼓		鼓			[]	[]		U+9F13	U+9F13
 09F20-09F20	鼠		鼠			[]	[]		U+9F20	U+9F20
-09F3E-05E72	鼾		干			[]	[鼻]		U+9F3E	U+5E72
+09F9C-09B2E	鬮		龜			[]	[鬥]		U+9F9C	U+9B2E
 09F9C-09F9C	龜		龜			[]	[]		U+9F9C	U+9F9C
 09FA0-07039	瀹		龠			[]	[水]		U+9FA0	U+7039
 09FA0-0721A	爚		龠			[]	[火]		U+9FA0	U+721A
@@ -3004,3 +2995,16 @@ grien	dziwdu	dziwdu_qhanshiev	xreishievbu	xreishievbu_qhanshiev	pyunqhrua	xreish
 26C29-071AF	熯		𦰩			[]	[火]		U+26C29	U+71AF
 26C29-081E1	臡		𦰩			[難]	[隹, 肉]		U+26C29	U+81E1
 26C29-096E3	難		𦰩			[難]	[隹]		U+26C29	U+96E3
+27DA0-05335	匵		𧶠			[]	[貝, 匚]		U+27DA0	U+5335
+27DA0-06ADD	櫝		𧶠			[]	[貝, 木]		U+27DA0	U+6ADD
+27DA0-07006	瀆		𧶠			[]	[貝, 水]		U+27DA0	U+7006
+27DA0-07258	牘		𧶠			[]	[貝, 片]		U+27DA0	U+7258
+27DA0-072A2	犢		𧶠			[]	[貝, 牛]		U+27DA0	U+72A2
+27DA0-07AC7	竇		𧶠			[]	[貝, 穴]		U+27DA0	U+7AC7
+27DA0-07E8C	續		𧶠			[]	[貝, 糸]		U+27DA0	U+7E8C
+27DA0-085DA	藚		𧶠			[]	[貝, 艸]		U+27DA0	U+85DA
+27DA0-089BF	覿		𧶠			[]	[貝, 見]		U+27DA0	U+89BF
+27DA0-08B80	讀		𧶠			[]	[貝, 言]		U+27DA0	U+8B80
+27DA0-08B9F	讟		𧶠			[]	[貝, 誩]		U+27DA0	U+8B9F
+27DA0-08D16	贖		𧶠			[]	[貝, 貝]		U+27DA0	U+8D16
+27DA0-09EF7	黷		𧶠			[]	[貝, 黑]		U+27DA0	U+9EF7

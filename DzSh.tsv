@@ -365,6 +365,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 054E6	哦					[]	[1908]	720.1	口	7	U+54E6
 054E8	哨					[]	[1904]	718.1	口	7	U+54E8
 054E9	哩					[]	[1905]	719.2	口	7	U+54E9
+054ED	哭					[]	[1907]	719.2	口	7	U+54ED
 05501	唁					[]	[1912]	712.2	口	7	U+5501
 05504	唄			呗		[]	[3708]	718.2	口	7	U+5504
 05506	唆					[]	[1917]	720.2	口	7	U+5506
@@ -980,6 +981,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 06586	斆			敩		[斅]	[7441]	1781.2	子	5	U+6586
 06587	文					[]	[161]	1781.1	文	0	U+6587
 0658C	斌					[]	[2730]	1795.1	彡	8	U+658C
+06591	斑					[]	[2505]	1794.1	文	8	U+6591
 06597	斗					[]	[166]	1795.1	斗	0	U+6597
 06599	料					[]	[2054]	1797.3	斗	6	U+6599
 0659C	斜					[]	[2347]	1798.2	斗	7	U+659C
@@ -1038,6 +1040,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 066E0	曠			旷		[]	[727]	1916.2	日	15	U+66E0
 066E6	曦					[]	[6428]	1918.2	日	16	U+66E6
 066F0	曰					[]	[111]	1919.1	曰	0	U+66F0
+066F2	曲					[]	[424]	1919.1	曰	2	U+66F2
 066F3	曳					[]	[3592]	1923.3	曰	2	U+66F3
 066F8	書			书		[]	[188]	1926.3	曰	6	U+66F8
 066FF	替					[]	[2506]	1938.1	曰	8	U+66FF
@@ -1514,6 +1517,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 073E0	珠					[]	[1773]	2736.3	玉	6	U+73E0
 073E5	珥					[]	[4401]	2735.3	玉	6	U+73E5
 073E9	珩					[]	[4405]	2739.3	玉	6	U+73E9
+073ED	班					[]	[1774]	2732.2	玉	6	U+73ED
 073FE	現			现		[]	[949]	2741.3	玉	7	U+73FE
 07403	球					[]	[2155]	2741.3	玉	7	U+7403
 07405	琅					[]	[2159]	2740.3	玉	7	U+7405
