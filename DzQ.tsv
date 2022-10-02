@@ -628,6 +628,7 @@ grien	dziwdu	dziwdu_qhanshiev	zyephev	chetxryn_ziosryo_sishiev	chetxryn_ziosryo_
 05687-003-037-004	嚇		qhrâ	3	37	4	鐸	0	[《藤田2018》]	呼訝反		呼訝反		呼訝切				曉	禡	去			U+5687
 05687-004-019-021	嚇		qhrak	4	19	21	鐸	2	[《切三》]	呼格反		呼格反		呼格切				曉	陌	入			U+5687
 0568A-003-006-010	嚊		phrŷi	3	6	10	質	0	[《藤田2018》]	匹備反		匹備反		匹備切				滂	至	去			U+568A
+0568F-003-013-002	嚏		têi	3	13	2	質	0	[《藤田2018》]	null		null		都計切				端	霽	去			U+568F
 05695-001-011-010	嚕		lo	1	11	10	魚	1	[《P3695》]	null		null		null		null		null	null	null	見音義欄。	象聲用字音。｛嗚嚕（qo–）｝、｛呼嚕（qho–）｝、｛胡嚕（xo–）｝、｛嘟嚕（to–）｝、｛咕嚕（ko–）｝、｛嚕囌（–so）｝等の詞音。按：今皆讀以平聲爲叠韵詞，“嚕”字即當亦平聲音lo。	U+5695
 05695-002-010-004	嚕		ló	2	10	4	魚	2	[《切三》]	null		null		null		籠五切		來	姥	上			U+5695
 0569A-001-017-026	嚚		ŋrin	1	17	26	真	2	[《切三》]	語巾反		語巾反		語巾切				疑	真	平			U+569A
@@ -1254,6 +1255,8 @@ grien	dziwdu	dziwdu_qhanshiev	zyephev	chetxryn_ziosryo_sishiev	chetxryn_ziosryo_
 061D4-002-044-004	懔		lím	2	44	4	侵	2	[《切三》]	力稔反		力稔反		力稔切				來	寢	上			U+61D4
 061DF-003-006-046	懟		drŷi	3	6	46	物	0	[《藤田2018》]	直類反		直類反		直類切				澄	至	去			U+61DF
 061DF-003-018-001	懟		dûi	3	18	1	物	3	[《P3696(1)v》]	null		null		null		徒對切		定	隊	去			U+61DF
+061E5-003-006-001	懥		tî	3	6	1	質	0	[《藤田2018》]	null		脂利反		脂利切				null	null	null			U+61E5
+061E5-003-006-021	懥		trî	3	6	21	質	0	[《藤田2018》]	null		null		陟利切				null	null	null			U+61E5
 061F6-002-022-019	懶		lán	2	22	19	0	1	[《切一》]	null		落旱反		落旱切				來	旱	上			U+61F6
 061F6-003-012-026	懶		lâi	3	12	26	0	0	[《藤田2018》]	null		null		null		落蓋切		來	泰	去			U+61F6
 06209-004-009-003	戉		xyat	4	9	3	月	2	[《切三》, 《P3694v》]	null		null		王伐切				云	月	入			U+6209
@@ -2359,6 +2362,8 @@ grien	dziwdu	dziwdu_qhanshiev	zyephev	chetxryn_ziosryo_sishiev	chetxryn_ziosryo_
 0757A-001-037-010	畺		kiaŋ	1	37	10	陽	2	[《切三》]	null		null		居良切				見	陽	平			U+757A
 07586-001-037-010	疆		kiaŋ	1	37	10	陽	2	[《切三》]	null		居良反		居良切				見	陽	平			U+7586
 07586-002-035-005	疆		giáŋ	2	35	5	陽	1	[《P4917》]	null		null		null		巨兩切		null	null	null			U+7586
+07590-003-006-021	疐		trî	3	6	21	質	0	[《藤田2018》]	陟利反		陟利反		陟利切				知	至	去			U+7590
+07590-003-013-002	疐		têi	3	13	2	質	0	[《藤田2018》]	null		null		都計切				端	霽	去			U+7590
 07592-001-037-020	疒		dzriaŋ	1	37	20	陽	2	[《切三》]	null		士莊反		士莊切				null	null	null			U+7592
 07592-004-018-116	疒		nrek	4	18	116	質	2	[《切三》]	null		null		尼戹切				娘	麥	入			U+7592
 07594-001-042-005	疔		teŋ	1	42	5	耕	2	[《切三》]	null		null		null		當經切		端	青	平			U+7594
