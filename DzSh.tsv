@@ -408,6 +408,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 05673	噳					[]	[]	761.3	null	null	U+5673
 05687	嚇			吓		[]	[422]	764.3	口	14	U+5687
 0568A	嚊					[]	[]	765.2	口	14	U+568A
+0568F	嚏					[嚔]	[6225]	764.3	口	15	U+568F
 05695	嚕			噜		[]	[5935]	766.1	口	15	U+5695
 0569A	嚚					[]	[8001]	765.3	口	15	U+569A
 056B3	嚳			喾		[]	[5301]	770.3	口	17	U+56B3
@@ -852,6 +853,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 061B6	憶			忆		[]	[167]	1551.2	心	13	U+61B6
 061D4	懔					[懍]	[7911]	1551.3	心	13	U+61D4
 061DF	懟			怼		[]	[4389]	1557.2	心	14	U+61DF
+061E5	懥					[]	[]	1557.1	null	null	U+61E5
 061F6	懶			懒		[]	[3380]	1561.3	心	16	U+61F6
 06209	戉					[]	[]	1569.1	戈	1	U+6209
 0620C	戌					[]	[387]	1571.1	戈	2	U+620C
@@ -1574,6 +1576,7 @@ grien	dziwdu	dziwdu_qhanshiev	syenjyovdziw	krenqhruadziw	nitpun_diavjyovdziw	jiw
 07572	畲					[畬]	[5219]	2808.2	田	7	U+7572
 0757A	畺					[]	[]	2814.2	田	14	U+757A
 07586	疆					[]	[3472]	2819.3	田	14	U+7586
+07590	疐					[]	[7653]	2825.1	疋	9	U+7590
 07592	疒					[]	[]	2826.1	疒	0	U+7592
 07594	疔					[]	[3758]	2826.1	疒	2	U+7594
 07598	疘		肛			[]	[804]	2826.3	null	null	U+7598
